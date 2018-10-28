@@ -1,0 +1,150 @@
+1,1,0,0,100,stiff penalty for staying out late
+2,1,0,0,100,limited warranty of two years
+3,1,0,0,100,employee recruitment takes a lot of effort
+4,1,0,0,100,that land is owned by the government
+5,1,0,0,100,he watched in astonishment
+6,1,0,0,100,space is a high priority
+7,1,0,0,100,please follow the guidelines
+8,1,0,0,100,the dog will bite you
+9,1,0,0,100,batman wears a cape
+10,1,0,0,100,dinosaurs have been extinct for ages
+11,2,1,0,100,the winner of the race
+12,2,1,0,100,if at first you do not succeed
+13,2,1,0,100,my bike has a flat tire
+14,2,1,0,100,a coupon for a free sample
+15,2,1,0,100,a security force of eight thousand
+16,2,1,0,100,physics and chemistry are hard
+17,2,1,0,100,if diplomacy does not work
+18,2,1,0,100,the quick brown fox jumped
+19,2,1,0,100,do you like to shop on sunday
+20,2,1,0,100,that agreement is rife with problems
+21,3,1,0,100,sent this by registered mail
+22,3,1,0,100,i agree with you
+23,3,1,0,100,i took the rover from the shop
+24,3,1,0,100,the biggest hamburger i have ever seen
+25,3,1,0,100,take a coffee break
+26,3,1,0,100,no more war no more bloodshed
+27,3,1,0,100,stability of the nation
+28,3,1,0,100,is there any indication of this
+29,3,1,0,100,a rattle snake is very poisonous
+30,3,1,0,100,do not feel too bad about it
+31,4,0,0,25,the generation gap gets wider
+32,4,0,0,25,try to enjoy your maternity leave
+33,4,0,0,25,this equation is too complicated
+34,4,0,0,25,do you prefer a window seat
+35,4,0,0,25,the postal service is very slow
+36,4,0,0,25,the largest of the five oceans
+37,4,0,0,25,user friendly interface
+38,4,0,0,25,do not drink too much
+39,4,0,0,25,sing the gospel and the blues
+40,4,0,0,25,you must make an appointment
+41,5,1,0,25,wear a crown with many jewels
+42,5,1,0,25,he is still on our team
+43,5,1,0,25,peek out the window
+44,5,1,0,25,medieval times were very hard
+45,5,1,0,25,where did you get that tie
+46,5,1,0,25,the world is a stage
+47,5,1,0,25,taking the train is usually faster
+48,5,1,0,25,call for more details
+49,5,1,0,25,pumping brakes when roads are slippery
+50,5,1,0,25,the capitol of our nation
+51,6,1,0,25,a tumor is okay provided it is benign
+52,6,1,0,25,two or three cups of coffee
+53,6,1,0,25,the music is better than it sounds
+54,6,1,0,25,the voters turfed him out
+55,6,1,0,25,the kids are very excited
+56,6,1,0,25,see you later alligator
+57,6,1,0,25,destruction of the rain forest
+58,6,1,0,25,i am wearing a tie and a jacket
+59,6,1,0,25,wishful thinking is fine
+60,6,1,0,25,breathing is difficult
+61,7,0,0,50,love means many things
+62,7,0,0,50,house with new electrical panel
+63,7,0,0,50,historic meeting without a result
+64,7,0,0,50,peering through a small hole
+65,7,0,0,50,the acceptance speech was boring
+66,7,0,0,50,circumstances are unacceptable
+67,7,0,0,50,we better investigate this
+68,7,0,0,50,yes you are very smart
+69,7,0,0,50,the living is easy
+70,7,0,0,50,the insulation is not working
+71,8,1,0,50,the rationale behind the decision
+72,8,1,0,50,the fax machine is broken
+73,8,1,0,50,construction makes traveling difficult
+74,8,1,0,50,parking tickets can be challenged
+75,8,1,0,50,knee bone is connected to the thigh bone
+76,8,1,0,50,a correction had to be published
+77,8,1,0,50,elephants are afraid of mice
+78,8,1,0,50,keep receipts for all your expenses
+79,8,1,0,50,protect your environment
+80,8,1,0,50,weeping willows are found near water
+81,9,1,0,50,win first prize in the contest
+82,9,1,0,50,the cream rises to the top
+83,9,1,0,50,this library has many books
+84,9,1,0,50,the algorithm is too complicated
+85,9,1,0,50,i do not fully agree with you
+86,9,1,0,50,express delivery is very fast
+87,9,1,0,50,popularity is desired by all
+88,9,1,0,50,teaching services will help
+89,9,1,0,50,the store will close at ten
+90,9,1,0,50,did you see that spectacular explosion
+91,10,0,0,75,what you see is what you get
+92,10,0,0,75,microscopes make small things look big
+93,10,0,0,75,exercise is good for the mind
+94,10,0,0,75,important news always seems to be late
+95,10,0,0,75,the minimum amount of time
+96,10,0,0,75,he underwent triple bypass surgery
+97,10,0,0,75,the king sends you to the tower
+98,10,0,0,75,video camera with a zoom lens
+99,10,0,0,75,the treasury department is broke
+100,10,0,0,75,be persistent to win a strike
+101,11,1,0,75,go out for some pizza and beer
+102,11,1,0,75,healthy food is good for you
+103,11,1,0,75,please try to be home before midnight
+104,11,1,0,75,every saturday he folds the laundry
+105,11,1,0,75,presidents drive expensive cars
+106,11,1,0,75,what to do when the oil runs dry
+107,11,1,0,75,one never takes too many precautions
+108,11,1,0,75,you are a wonderful example
+109,11,1,0,75,the registration period is over
+110,11,1,0,75,the protesters blocked all traffic
+111,12,1,0,75,this is a very good idea
+112,12,1,0,75,the daring young man
+113,12,1,0,75,shivering is one way to keep warm
+114,12,1,0,75,the location of the crime
+115,12,1,0,75,gas bills are sent monthly
+116,12,1,0,75,earthquakes are predictable
+117,12,1,0,75,join us on the patio
+118,12,1,0,75,the opposing team is over there
+119,12,1,0,75,everybody loses in custody battles
+120,12,1,0,75,an offer you cannot refuse
+121,13,0,0,0,life is but a dream
+122,13,0,0,0,a very traditional way to dress
+123,13,0,0,0,take it to the recycling depot
+124,13,0,0,0,there will be some fog tonight
+125,13,0,0,0,people blow their own horn a lot
+126,13,0,0,0,get rid of that immediately
+127,13,0,0,0,i do not care if you do that
+128,13,0,0,0,interactions between men and women
+129,13,0,0,0,for your information only
+130,13,0,0,0,prescription drugs require a note
+131,14,1,0,0,are you talking to me
+132,14,1,0,0,be discreet about your meeting
+133,14,1,0,0,the fourth edition was better
+134,14,1,0,0,the second largest country
+135,14,1,0,0,can i skate with my sister today
+136,14,1,0,0,the objective of the exercise
+137,14,1,0,0,february has an extra day
+138,14,1,0,0,bank transaction was not registered
+139,14,1,0,0,our fax number has changed
+140,14,1,0,0,reading week is just about here
+141,15,1,0,0,nothing wrong with his style
+142,15,1,0,0,the pen is mightier than the sword
+143,15,1,0,0,what goes up must come down
+144,15,1,0,0,never mix religion and politics
+145,15,1,0,0,my car always breaks in the winter
+146,15,1,0,0,the picket line gives me the chills
+147,15,1,0,0,i can play much better now
+148,15,1,0,0,elections bring out the best
+149,15,1,0,0,they watched the entire movie
+150,15,1,0,0,do you like to go camping

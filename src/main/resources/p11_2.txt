@@ -1,0 +1,150 @@
+1,1,0,1,75,the opposing team is over there
+2,1,0,1,75,one heck of a question
+3,1,0,1,75,i am wearing a tie and a jacket
+4,1,0,1,75,i hate baking pies
+5,1,0,1,75,the collapse of the roman empire
+6,1,0,1,75,rectangular objects have four sides
+7,1,0,1,75,the bathroom is good for reading
+8,1,0,1,75,stay away from strangers
+9,1,0,1,75,quit while you are ahead
+10,1,0,1,75,this leather jacket is too warm
+11,2,1,1,75,wear a crown with many jewels
+12,2,1,1,75,a quarter of a century
+13,2,1,1,75,seasoned golfers love the game
+14,2,1,1,75,head shoulders knees and toes
+15,2,1,1,75,i want to hold your hand
+16,2,1,1,75,knee bone is connected to the thigh bone
+17,2,1,1,75,that agreement is rife with problems
+18,2,1,1,75,are you sure you want this
+19,2,1,1,75,a psychiatrist will help you
+20,2,1,1,75,fall is my favorite season
+21,3,1,1,75,historic meeting without a result
+22,3,1,1,75,the four seasons will come
+23,3,1,1,75,a little encouragement is needed
+24,3,1,1,75,the fourth edition was better
+25,3,1,1,75,starlight and dewdrop
+26,3,1,1,75,hands on experience with a job
+27,3,1,1,75,a tumor is okay provided it is benign
+28,3,1,1,75,with each step forward
+29,3,1,1,75,the fire blazed all weekend
+30,3,1,1,75,please try to be home before midnight
+31,4,0,1,0,this is too much to handle
+32,4,0,1,0,my watch fell in the water
+33,4,0,1,0,get aboard the ship is leaving
+34,4,0,1,0,shall we play a round of cards
+35,4,0,1,0,are you talking to me
+36,4,0,1,0,well connected with people
+37,4,0,1,0,taking the train is usually faster
+38,4,0,1,0,the quick brown fox jumped
+39,4,0,1,0,breathing is difficult
+40,4,0,1,0,a security force of eight thousand
+41,5,1,1,0,do you prefer a window seat
+42,5,1,1,0,do not lie in court or else
+43,5,1,1,0,jumping right out of the water
+44,5,1,1,0,sit at the front of the bus
+45,5,1,1,0,be home before midnight
+46,5,1,1,0,the pen is mightier than the sword
+47,5,1,1,0,experience is hard to come by
+48,5,1,1,0,you must be getting old
+49,5,1,1,0,protect your environment
+50,5,1,1,0,a correction had to be published
+51,6,1,1,0,we have enough witnesses
+52,6,1,1,0,the early bird gets the worm
+53,6,1,1,0,the king sends you to the tower
+54,6,1,1,0,the imagination of the nation
+55,6,1,1,0,every saturday he folds the laundry
+56,6,1,1,0,the insulation is not working
+57,6,1,1,0,i listen to the tape every day
+58,6,1,1,0,soon we will return from the city
+59,6,1,1,0,mystery of the lost lagoon
+60,6,1,1,0,you should visit a doctor
+61,7,0,1,50,i will put on my glasses
+62,7,0,1,50,the registration period is over
+63,7,0,1,50,you must make an appointment
+64,7,0,1,50,employee recruitment takes a lot of effort
+65,7,0,1,50,love means many things
+66,7,0,1,50,do a good deed to someone
+67,7,0,1,50,mom made her a turtleneck
+68,7,0,1,50,reading week is just about here
+69,7,0,1,50,my preferred treat is chocolate
+70,7,0,1,50,salesmen must make their monthly quota
+71,8,1,1,50,the living is easy
+72,8,1,1,50,on the way to the cottage
+73,8,1,1,50,stability of the nation
+74,8,1,1,50,i just cannot figure this out
+75,8,1,1,50,gas bills are sent monthly
+76,8,1,1,50,weeping willows are found near water
+77,8,1,1,50,do not drink too much
+78,8,1,1,50,i am going to a music lesson
+79,8,1,1,50,the store will close at ten
+80,8,1,1,50,burglars never leave their business card
+81,9,1,1,50,the punishment should fit the crime
+82,9,1,1,50,fine but only in moderation
+83,9,1,1,50,limited warranty of two years
+84,9,1,1,50,the cotton is high
+85,9,1,1,50,the algorithm is too complicated
+86,9,1,1,50,dolphins leap high out of the water
+87,9,1,1,50,i can play much better now
+88,9,1,1,50,a feeling of complete exasperation
+89,9,1,1,50,you are not a jedi yet
+90,9,1,1,50,what you see is what you get
+91,10,0,1,100,santa claus got stuck
+92,10,0,1,100,we are subjects and must obey
+93,10,0,1,100,your presentation was inspiring
+94,10,0,1,100,did you see that spectacular explosion
+95,10,0,1,100,popularity is desired by all
+96,10,0,1,100,the dreamers of dreams
+97,10,0,1,100,one hour is allotted for questions
+98,10,0,1,100,an airport is a very busy place
+99,10,0,1,100,my bare face in the wind
+100,10,0,1,100,electric cars need big fuel cells
+101,11,1,1,100,faster than a speeding bullet
+102,11,1,1,100,we dine out on the weekends
+103,11,1,1,100,the world is a stage
+104,11,1,1,100,longer than a football field
+105,11,1,1,100,nobody cares anymore
+106,11,1,1,100,the treasurer must balance her books
+107,11,1,1,100,the protesters blocked all traffic
+108,11,1,1,100,peering through a small hole
+109,11,1,1,100,thank you for your help
+110,11,1,1,100,try to enjoy your maternity leave
+111,12,1,1,100,valid until the end of the year
+112,12,1,1,100,tickets are very expensive
+113,12,1,1,100,it is very windy today
+114,12,1,1,100,do not feel too bad about it
+115,12,1,1,100,no exchange without a bill
+116,12,1,1,100,win first prize in the contest
+117,12,1,1,100,every apple from every tree
+118,12,1,1,100,coalition governments never work
+119,12,1,1,100,sent this by registered mail
+120,12,1,1,100,exceed the maximum speed limit
+121,13,0,1,25,it should be sunny tomorrow
+122,13,0,1,25,staying up all night is a bad idea
+123,13,0,1,25,i like to play tennis
+124,13,0,1,25,the laser printer is jammed
+125,13,0,1,25,look in the syllabus for the course
+126,13,0,1,25,there are winners and losers
+127,13,0,1,25,sign the withdrawal slip
+128,13,0,1,25,quick there is someone knocking
+129,13,0,1,25,a picture is worth many words
+130,13,0,1,25,i do not care if you do that
+131,14,1,1,25,join us on the patio
+132,14,1,1,25,suburbs are sprawling everywhere
+133,14,1,1,25,an inefficient way to heat a house
+134,14,1,1,25,they love to yap about nothing
+135,14,1,1,25,my favorite subject is psychology
+136,14,1,1,25,this watch is too expensive
+137,14,1,1,25,a most ridiculous thing
+138,14,1,1,25,the assault took six months
+139,14,1,1,25,luckily my wallet was found
+140,14,1,1,25,labor unions know how to organize
+141,15,1,1,25,all together in one big pile
+142,15,1,1,25,where did i leave my glasses
+143,15,1,1,25,traveling to conferences is fun
+144,15,1,1,25,if at first you do not succeed
+145,15,1,1,25,i can still feel your presence
+146,15,1,1,25,you have my sympathy
+147,15,1,1,25,i can see the rings on saturn
+148,15,1,1,25,i took the rover from the shop
+149,15,1,1,25,sad to hear that news
+150,15,1,1,25,the food at this restaurant

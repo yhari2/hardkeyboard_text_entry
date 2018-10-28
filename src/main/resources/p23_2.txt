@@ -1,0 +1,150 @@
+1,1,0,1,25,find a nearby parking spot
+2,1,0,1,25,shall we play a round of cards
+3,1,0,1,25,the back yard of our house
+4,1,0,1,25,soon we will return from the city
+5,1,0,1,25,they watched the entire movie
+6,1,0,1,25,wear a crown with many jewels
+7,1,0,1,25,but the levee was dry
+8,1,0,1,25,interactions between men and women
+9,1,0,1,25,the pen is mightier than the sword
+10,1,0,1,25,join us on the patio
+11,2,1,1,25,call for more details
+12,2,1,1,25,this is a very good idea
+13,2,1,1,25,head shoulders knees and toes
+14,2,1,1,25,toss the ball around
+15,2,1,1,25,one heck of a question
+16,2,1,1,25,buckle up for safety
+17,2,1,1,25,gamblers eventually lose their shirts
+18,2,1,1,25,the aspirations of a nation
+19,2,1,1,25,mary had a little lamb
+20,2,1,1,25,we better investigate this
+21,3,1,1,25,acutely aware of his good looks
+22,3,1,1,25,beware the ides of march
+23,3,1,1,25,most judges are very honest
+24,3,1,1,25,the chamber makes important decisions
+25,3,1,1,25,yes you are very smart
+26,3,1,1,25,there are winners and losers
+27,3,1,1,25,machinery is too complicated
+28,3,1,1,25,this system of taxation
+29,3,1,1,25,only an idiot would lie in court
+30,3,1,1,25,are you sure you want this
+31,4,0,1,75,i like to play tennis
+32,4,0,1,75,the fax machine is broken
+33,4,0,1,75,superman never wore a mask
+34,4,0,1,75,we dine out on the weekends
+35,4,0,1,75,the kids are very excited
+36,4,0,1,75,our silver anniversary is coming
+37,4,0,1,75,a duck quacks to ask for food
+38,4,0,1,75,the water was monitored daily
+39,4,0,1,75,this phenomenon will never occur
+40,4,0,1,75,the music is better than it sounds
+41,5,1,1,75,this watch is too expensive
+42,5,1,1,75,three two one zero blast off
+43,5,1,1,75,our life expectancy has increased
+44,5,1,1,75,video camera with a zoom lens
+45,5,1,1,75,the acceptance speech was boring
+46,5,1,1,75,just like it says on the canned good
+47,5,1,1,75,interesting observation was made
+48,5,1,1,75,lie detector tests never work
+49,5,1,1,75,express delivery is very fast
+50,5,1,1,75,all together in one big pile
+51,6,1,1,75,circumstances are unacceptable
+52,6,1,1,75,granite is the hardest of all rocks
+53,6,1,1,75,information super highway
+54,6,1,1,75,breathing is difficult
+55,6,1,1,75,the king sends you to the tower
+56,6,1,1,75,a security force of eight thousand
+57,6,1,1,75,bank transaction was not registered
+58,6,1,1,75,the power of denial
+59,6,1,1,75,no kissing in the library
+60,6,1,1,75,the treasurer must balance her books
+61,7,0,1,100,we run the risk of failure
+62,7,0,1,100,that agreement is rife with problems
+63,7,0,1,100,that is very unfortunate
+64,7,0,1,100,on the way to the cottage
+65,7,0,1,100,never too rich and never too thin
+66,7,0,1,100,insurance is important for bad drivers
+67,7,0,1,100,try to enjoy your maternity leave
+68,7,0,1,100,watch out for low flying objects
+69,7,0,1,100,the stock exchange dipped
+70,7,0,1,100,taking the train is usually faster
+71,8,1,1,100,please try to be home before midnight
+72,8,1,1,100,get rid of that immediately
+73,8,1,1,100,the sum of the parts
+74,8,1,1,100,we drive on parkways
+75,8,1,1,100,the store will close at ten
+76,8,1,1,100,i will put on my glasses
+77,8,1,1,100,want to join us for lunch
+78,8,1,1,100,where can my little dog be
+79,8,1,1,100,you will lose your voice
+80,8,1,1,100,put garbage in an abandoned mine
+81,9,1,1,100,a good response to the question
+82,9,1,1,100,my dog sheds his hair
+83,9,1,1,100,the elevator door appears to be stuck
+84,9,1,1,100,raindrops keep falling on my head
+85,9,1,1,100,sprawling subdivisions are bad
+86,9,1,1,100,my favorite web browser
+87,9,1,1,100,the dreamers of dreams
+88,9,1,1,100,i took the rover from the shop
+89,9,1,1,100,the winner of the race
+90,9,1,1,100,a picture is worth many words
+91,10,0,1,50,the opposing team is over there
+92,10,0,1,50,make my day you sucker
+93,10,0,1,50,the early bird gets the worm
+94,10,0,1,50,you have my sympathy
+95,10,0,1,50,canada has three territories
+96,10,0,1,50,traveling to conferences is fun
+97,10,0,1,50,every apple from every tree
+98,10,0,1,50,i am allergic to bees and peanuts
+99,10,0,1,50,prescription drugs require a note
+100,10,0,1,50,world population is growing
+101,11,1,1,50,limited warranty of two years
+102,11,1,1,50,the voters turfed him out
+103,11,1,1,50,universally understood to be wrong
+104,11,1,1,50,for your information only
+105,11,1,1,50,the children are playing
+106,11,1,1,50,experience is hard to come by
+107,11,1,1,50,mystery of the lost lagoon
+108,11,1,1,50,the daring young man
+109,11,1,1,50,a lot of chlorine in the water
+110,11,1,1,50,great disturbance in the force
+111,12,1,1,50,please take a bath this month
+112,12,1,1,50,the high waves will swamp us
+113,12,1,1,50,a psychiatrist will help you
+114,12,1,1,50,go out for some pizza and beer
+115,12,1,1,50,a fox is a very smart animal
+116,12,1,1,50,we went grocery shopping
+117,12,1,1,50,this library has many books
+118,12,1,1,50,learn to walk before you run
+119,12,1,1,50,these barracks are big enough
+120,12,1,1,50,prayer in schools offends some
+121,13,0,1,0,this person is a disaster
+122,13,0,1,0,we are having spaghetti
+123,13,0,1,0,what goes up must come down
+124,13,0,1,0,prevailing wind from the east
+125,13,0,1,0,for murder you get a long prison sentence
+126,13,0,1,0,do you like to shop on sunday
+127,13,0,1,0,you are not a jedi yet
+128,13,0,1,0,file all complaints in writing
+129,13,0,1,0,if diplomacy does not work
+130,13,0,1,0,construction makes traveling difficult
+131,14,1,1,0,fish are jumping
+132,14,1,1,0,i just cannot figure this out
+133,14,1,1,0,the second largest country
+134,14,1,1,0,the protesters blocked all traffic
+135,14,1,1,0,make up a few more phrases
+136,14,1,1,0,the location of the crime
+137,14,1,1,0,a glance in the right direction
+138,14,1,1,0,your presentation was inspiring
+139,14,1,1,0,do not worry about this
+140,14,1,1,0,players must know all the rules
+141,15,1,1,0,it looks like a shack
+142,15,1,1,0,elephants are afraid of mice
+143,15,1,1,0,they might find your comment offensive
+144,15,1,1,0,dormitory doors are locked at midnight
+145,15,1,1,0,sit at the front of the bus
+146,15,1,1,0,if you come home late the doors are locked
+147,15,1,1,0,you should visit a doctor
+148,15,1,1,0,exceed the maximum speed limit
+149,15,1,1,0,peering through a small hole
+150,15,1,1,0,do not say anything

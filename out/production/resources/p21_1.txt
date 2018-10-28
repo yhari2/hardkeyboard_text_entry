@@ -1,0 +1,150 @@
+1,1,0,0,100,there are winners and losers
+2,1,0,0,100,please keep this confidential
+3,1,0,0,100,prevailing wind from the east
+4,1,0,0,100,he is shouting loudly
+5,1,0,0,100,my favorite web browser
+6,1,0,0,100,take a coffee break
+7,1,0,0,100,world population is growing
+8,1,0,0,100,suburbs are sprawling everywhere
+9,1,0,0,100,for murder you get a long prison sentence
+10,1,0,0,100,the punishment should fit the crime
+11,2,1,0,100,if you were not so stupid
+12,2,1,0,100,everybody loses in custody battles
+13,2,1,0,100,a lot of chlorine in the water
+14,2,1,0,100,we dine out on the weekends
+15,2,1,0,100,taking the train is usually faster
+16,2,1,0,100,sing the gospel and the blues
+17,2,1,0,100,historic meeting without a result
+18,2,1,0,100,life is but a dream
+19,2,1,0,100,that referendum asked a silly question
+20,2,1,0,100,a fox is a very smart animal
+21,3,1,0,100,the stock exchange dipped
+22,3,1,0,100,i like to play tennis
+23,3,1,0,100,the voters turfed him out
+24,3,1,0,100,be discreet about your meeting
+25,3,1,0,100,our housekeeper does a thorough job
+26,3,1,0,100,do not squander your time
+27,3,1,0,100,the assault took six months
+28,3,1,0,100,all good boys deserve fudge
+29,3,1,0,100,get your priorities in order
+30,3,1,0,100,an airport is a very busy place
+31,4,0,0,25,acutely aware of his good looks
+32,4,0,0,25,i skimmed through your proposal
+33,4,0,0,25,an inefficient way to heat a house
+34,4,0,0,25,the elevator door appears to be stuck
+35,4,0,0,25,make my day you sucker
+36,4,0,0,25,the force is with you
+37,4,0,0,25,so you think you deserve a raise
+38,4,0,0,25,if diplomacy does not work
+39,4,0,0,25,the union will go on strike
+40,4,0,0,25,what a lovely red jacket
+41,5,1,0,25,batman wears a cape
+42,5,1,0,25,on the way to the cottage
+43,5,1,0,25,starlight and dewdrop
+44,5,1,0,25,a big scratch on the tabletop
+45,5,1,0,25,luckily my wallet was found
+46,5,1,0,25,faster than a speeding bullet
+47,5,1,0,25,i agree with you
+48,5,1,0,25,the second largest country
+49,5,1,0,25,the library is closed today
+50,5,1,0,25,where did you get such a silly idea
+51,6,1,0,25,our silver anniversary is coming
+52,6,1,0,25,come and see our new car
+53,6,1,0,25,i am going to a music lesson
+54,6,1,0,25,the children are playing
+55,6,1,0,25,reading week is just about here
+56,6,1,0,25,sign the withdrawal slip
+57,6,1,0,25,please try to be home before midnight
+58,6,1,0,25,that is very unfortunate
+59,6,1,0,25,round robin scheduling
+60,6,1,0,25,the gun discharged by accident
+61,7,0,0,0,gun powder must be handled with care
+62,7,0,0,0,beware the ides of march
+63,7,0,0,0,shivering is one way to keep warm
+64,7,0,0,0,can i skate with my sister today
+65,7,0,0,0,prescription drugs require a note
+66,7,0,0,0,important news always seems to be late
+67,7,0,0,0,that is a very odd question
+68,7,0,0,0,weeping willows are found near water
+69,7,0,0,0,mystery of the lost lagoon
+70,7,0,0,0,my car always breaks in the winter
+71,8,1,0,0,mary had a little lamb
+72,8,1,0,0,get rid of that immediately
+73,8,1,0,0,the cat has a pleasant temperament
+74,8,1,0,0,learn to walk before you run
+75,8,1,0,0,the biggest hamburger i have ever seen
+76,8,1,0,0,the proprietor was unavailable
+77,8,1,0,0,he underwent triple bypass surgery
+78,8,1,0,0,that sticker needs to be validated
+79,8,1,0,0,give me one spoonful of coffee
+80,8,1,0,0,apartments are too expensive
+81,9,1,0,0,staying up all night is a bad idea
+82,9,1,0,0,i took the rover from the shop
+83,9,1,0,0,the dog will bite you
+84,9,1,0,0,prepare for the exam in advance
+85,9,1,0,0,all together in one big pile
+86,9,1,0,0,never too rich and never too thin
+87,9,1,0,0,my favorite place to visit
+88,9,1,0,0,drugs should be avoided
+89,9,1,0,0,he is still on our team
+90,9,1,0,0,the chancellor was very boring
+91,10,0,0,50,the back yard of our house
+92,10,0,0,50,the rationale behind the decision
+93,10,0,0,50,play it again sam
+94,10,0,0,50,my bare face in the wind
+95,10,0,0,50,three two one zero blast off
+96,10,0,0,50,an offer you cannot refuse
+97,10,0,0,50,the chamber makes important decisions
+98,10,0,0,50,drove my chevy to the levee
+99,10,0,0,50,a yard is almost as long as a meter
+100,10,0,0,50,the insulation is not working
+101,11,1,0,50,thank you for your help
+102,11,1,0,50,presidents drive expensive cars
+103,11,1,0,50,i do not fully agree with you
+104,11,1,0,50,electric cars need big fuel cells
+105,11,1,0,50,stability of the nation
+106,11,1,0,50,what you see is what you get
+107,11,1,0,50,a psychiatrist will help you
+108,11,1,0,50,important for political parties
+109,11,1,0,50,nothing wrong with his style
+110,11,1,0,50,just like it says on the canned good
+111,12,1,0,50,earthquakes are predictable
+112,12,1,0,50,file all complaints in writing
+113,12,1,0,50,i will put on my glasses
+114,12,1,0,50,get aboard the ship is leaving
+115,12,1,0,50,see you later alligator
+116,12,1,0,50,dashing through the snow
+117,12,1,0,50,the postal service is very slow
+118,12,1,0,50,watch out for low flying objects
+119,12,1,0,50,tickets are very expensive
+120,12,1,0,50,the sun rises in the east
+121,13,0,0,75,but the levee was dry
+122,13,0,0,75,there will be some fog tonight
+123,13,0,0,75,employee recruitment takes a lot of effort
+124,13,0,0,75,safe to walk the streets in the evening
+125,13,0,0,75,he watched in astonishment
+126,13,0,0,75,exceed the maximum speed limit
+127,13,0,0,75,a duck quacks to ask for food
+128,13,0,0,75,the collapse of the roman empire
+129,13,0,0,75,sent this by registered mail
+130,13,0,0,75,nobody cares anymore
+131,14,1,0,75,destruction of the rain forest
+132,14,1,0,75,wishful thinking is fine
+133,14,1,0,75,your etiquette needs some work
+134,14,1,0,75,if you come home late the doors are locked
+135,14,1,0,75,exercise is good for the mind
+136,14,1,0,75,spill coffee on the carpet
+137,14,1,0,75,you are an ardent capitalist
+138,14,1,0,75,the plug does not fit the socket
+139,14,1,0,75,make up a few more phrases
+140,14,1,0,75,user friendly interface
+141,15,1,0,75,we are subjects and must obey
+142,15,1,0,75,a thoroughly disgusting thing to say
+143,15,1,0,75,we went grocery shopping
+144,15,1,0,75,the cream rises to the top
+145,15,1,0,75,well connected with people
+146,15,1,0,75,the king sends you to the tower
+147,15,1,0,75,just in time for the party
+148,15,1,0,75,where did you get that tie
+149,15,1,0,75,the cotton is high
+150,15,1,0,75,protect your environment

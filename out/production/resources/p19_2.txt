@@ -1,0 +1,150 @@
+1,1,0,1,75,only an idiot would lie in court
+2,1,0,1,75,sad to hear that news
+3,1,0,1,75,destruction of the rain forest
+4,1,0,1,75,what you see is what you get
+5,1,0,1,75,good jobs for those with education
+6,1,0,1,75,please try to be home before midnight
+7,1,0,1,75,just like it says on the canned good
+8,1,0,1,75,traveling requires a lot of fuel
+9,1,0,1,75,peering through a small hole
+10,1,0,1,75,i am going to a music lesson
+11,2,1,1,75,a thoroughly disgusting thing to say
+12,2,1,1,75,the food at this restaurant
+13,2,1,1,75,the music is better than it sounds
+14,2,1,1,75,we have enough witnesses
+15,2,1,1,75,never too rich and never too thin
+16,2,1,1,75,this is a non profit organization
+17,2,1,1,75,historic meeting without a result
+18,2,1,1,75,he is just like everyone else
+19,2,1,1,75,the capitol of our nation
+20,2,1,1,75,quit while you are ahead
+21,3,1,1,75,the algorithm is too complicated
+22,3,1,1,75,in sharp contrast to your words
+23,3,1,1,75,dashing through the snow
+24,3,1,1,75,do you like to go camping
+25,3,1,1,75,we run the risk of failure
+26,3,1,1,75,our housekeeper does a thorough job
+27,3,1,1,75,round robin scheduling
+28,3,1,1,75,the bathroom is good for reading
+29,3,1,1,75,i skimmed through your proposal
+30,3,1,1,75,drugs should be avoided
+31,4,0,1,0,this equation is too complicated
+32,4,0,1,0,acutely aware of his good looks
+33,4,0,1,0,handicapped persons need consideration
+34,4,0,1,0,the elevator door appears to be stuck
+35,4,0,1,0,this person is a disaster
+36,4,0,1,0,it is very windy today
+37,4,0,1,0,your etiquette needs some work
+38,4,0,1,0,just what the doctor ordered
+39,4,0,1,0,do a good deed to someone
+40,4,0,1,0,the king sends you to the tower
+41,5,1,1,0,sharp cheese keeps the mind sharp
+42,5,1,1,0,vanilla flavored ice cream
+43,5,1,1,0,buckle up for safety
+44,5,1,1,0,most judges are very honest
+45,5,1,1,0,you must be getting old
+46,5,1,1,0,i took the rover from the shop
+47,5,1,1,0,this watch is too expensive
+48,5,1,1,0,he cooled off after she left
+49,5,1,1,0,your presentation was inspiring
+50,5,1,1,0,all together in one big pile
+51,6,1,1,0,never mix religion and politics
+52,6,1,1,0,do you prefer a window seat
+53,6,1,1,0,everyone wants to win the lottery
+54,6,1,1,0,you should visit a doctor
+55,6,1,1,0,i listen to the tape every day
+56,6,1,1,0,i do not care if you do that
+57,6,1,1,0,prepare for the exam in advance
+58,6,1,1,0,a feeling of complete exasperation
+59,6,1,1,0,peek out the window
+60,6,1,1,0,two or three cups of coffee
+61,7,0,1,25,prescription drugs require a note
+62,7,0,1,25,have a good weekend
+63,7,0,1,25,there will be some fog tonight
+64,7,0,1,25,this leather jacket is too warm
+65,7,0,1,25,the objective of the exercise
+66,7,0,1,25,why do you ask silly questions
+67,7,0,1,25,obligations must be met first
+68,7,0,1,25,the opposing team is over there
+69,7,0,1,25,the cat has a pleasant temperament
+70,7,0,1,25,universally understood to be wrong
+71,8,1,1,25,this camera takes nice photographs
+72,8,1,1,25,you are an ardent capitalist
+73,8,1,1,25,my favorite sport is racketball
+74,8,1,1,25,if you come home late the doors are locked
+75,8,1,1,25,file all complaints in writing
+76,8,1,1,25,the early bird gets the worm
+77,8,1,1,25,a good response to the question
+78,8,1,1,25,sign the withdrawal slip
+79,8,1,1,25,nobody cares anymore
+80,8,1,1,25,frequently asked questions
+81,9,1,1,25,one hour is allotted for questions
+82,9,1,1,25,he watched in astonishment
+83,9,1,1,25,it looks like a shack
+84,9,1,1,25,beautiful paintings in the gallery
+85,9,1,1,25,the power of denial
+86,9,1,1,25,find a nearby parking spot
+87,9,1,1,25,the picket line gives me the chills
+88,9,1,1,25,great disturbance in the force
+89,9,1,1,25,nothing finer than discovering a treasure
+90,9,1,1,25,what goes up must come down
+91,10,0,1,100,be discreet about your meeting
+92,10,0,1,100,the dreamers of dreams
+93,10,0,1,100,rectangular objects have four sides
+94,10,0,1,100,a steep learning curve in riding a unicycle
+95,10,0,1,100,we accept personal checks
+96,10,0,1,100,win first prize in the contest
+97,10,0,1,100,apartments are too expensive
+98,10,0,1,100,if at first you do not succeed
+99,10,0,1,100,physics and chemistry are hard
+100,10,0,1,100,we went grocery shopping
+101,11,1,1,100,a big scratch on the tabletop
+102,11,1,1,100,pay off a mortgage for a house
+103,11,1,1,100,it is difficult to concentrate
+104,11,1,1,100,communicate through email
+105,11,1,1,100,be persistent to win a strike
+106,11,1,1,100,travel at the speed of light
+107,11,1,1,100,the rationale behind the decision
+108,11,1,1,100,the kids are very excited
+109,11,1,1,100,the living is easy
+110,11,1,1,100,wear a crown with many jewels
+111,12,1,1,100,rain rain go away
+112,12,1,1,100,the imagination of the nation
+113,12,1,1,100,a duck quacks to ask for food
+114,12,1,1,100,the daring young man
+115,12,1,1,100,i want to hold your hand
+116,12,1,1,100,thank you for your help
+117,12,1,1,100,do not feel too bad about it
+118,12,1,1,100,question that must be answered
+119,12,1,1,100,one heck of a question
+120,12,1,1,100,the fire blazed all weekend
+121,13,0,1,50,what a monkey sees a monkey will do
+122,13,0,1,50,he underwent triple bypass surgery
+123,13,0,1,50,our fax number has changed
+124,13,0,1,50,you must make an appointment
+125,13,0,1,50,i am allergic to bees and peanuts
+126,13,0,1,50,rent is paid at the beginning of the month
+127,13,0,1,50,they love to yap about nothing
+128,13,0,1,50,the quick brown fox jumped
+129,13,0,1,50,that is a very odd question
+130,13,0,1,50,bank transaction was not registered
+131,14,1,1,50,players must know all the rules
+132,14,1,1,50,would you like to come to my house
+133,14,1,1,50,are you talking to me
+134,14,1,1,50,the dow jones index has risen
+135,14,1,1,50,my favorite subject is psychology
+136,14,1,1,50,a fox is a very smart animal
+137,14,1,1,50,seasoned golfers love the game
+138,14,1,1,50,see you later alligator
+139,14,1,1,50,that sticker needs to be validated
+140,14,1,1,50,three two one zero blast off
+141,15,1,1,50,where did i leave my glasses
+142,15,1,1,50,movie about a nutty professor
+143,15,1,1,50,elections bring out the best
+144,15,1,1,50,completely sold out of that
+145,15,1,1,50,dinosaurs have been extinct for ages
+146,15,1,1,50,nothing wrong with his style
+147,15,1,1,50,my watch fell in the water
+148,15,1,1,50,a rattle snake is very poisonous
+149,15,1,1,50,the force is with you
+150,15,1,1,50,effort is what it will take

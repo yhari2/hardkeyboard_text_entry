@@ -1,0 +1,150 @@
+1,1,0,2,100,batman wears a cape
+2,1,0,2,100,the capitol of our nation
+3,1,0,2,100,teaching services will help
+4,1,0,2,100,a fox is a very smart animal
+5,1,0,2,100,he was wearing a sweatshirt
+6,1,0,2,100,look in the syllabus for the course
+7,1,0,2,100,no kissing in the library
+8,1,0,2,100,the store will close at ten
+9,1,0,2,100,stability of the nation
+10,1,0,2,100,my favorite web browser
+11,2,1,2,100,please provide your date of birth
+12,2,1,2,100,coalition governments never work
+13,2,1,2,100,the assignment is due today
+14,2,1,2,100,the sun rises in the east
+15,2,1,2,100,what a lovely red jacket
+16,2,1,2,100,canada has ten provinces
+17,2,1,2,100,good jobs for those with education
+18,2,1,2,100,a good stimulus deserves a good response
+19,2,1,2,100,the living is easy
+20,2,1,2,100,the proprietor was unavailable
+21,3,1,2,100,an airport is a very busy place
+22,3,1,2,100,we drive on parkways
+23,3,1,2,100,the fax machine is broken
+24,3,1,2,100,please take a bath this month
+25,3,1,2,100,the postal service is very slow
+26,3,1,2,100,zero in on the facts
+27,3,1,2,100,gas bills are sent monthly
+28,3,1,2,100,universities are too expensive
+29,3,1,2,100,drugs should be avoided
+30,3,1,2,100,one hour is allotted for questions
+31,4,0,2,75,we are having spaghetti
+32,4,0,2,75,bank transaction was not registered
+33,4,0,2,75,gamblers eventually lose their shirts
+34,4,0,2,75,shall we play a round of cards
+35,4,0,2,75,work hard to reach the summit
+36,4,0,2,75,fine but only in moderation
+37,4,0,2,75,stiff penalty for staying out late
+38,4,0,2,75,good at addition and subtraction
+39,4,0,2,75,play it again sam
+40,4,0,2,75,valium in the economy size
+41,5,1,2,75,do you like to go camping
+42,5,1,2,75,i took the rover from the shop
+43,5,1,2,75,we dine out on the weekends
+44,5,1,2,75,where did you get such a silly idea
+45,5,1,2,75,elephants are afraid of mice
+46,5,1,2,75,handicapped persons need consideration
+47,5,1,2,75,public transit is much faster
+48,5,1,2,75,a duck quacks to ask for food
+49,5,1,2,75,the high waves will swamp us
+50,5,1,2,75,salesmen must make their monthly quota
+51,6,1,2,75,dolphins leap high out of the water
+52,6,1,2,75,careless driving results in a fine
+53,6,1,2,75,a psychiatrist will help you
+54,6,1,2,75,superman never wore a mask
+55,6,1,2,75,interactions between men and women
+56,6,1,2,75,very reluctant to enter
+57,6,1,2,75,please keep this confidential
+58,6,1,2,75,what to do when the oil runs dry
+59,6,1,2,75,the cream rises to the top
+60,6,1,2,75,the largest of the five oceans
+61,7,0,2,25,take a coffee break
+62,7,0,2,25,world population is growing
+63,7,0,2,25,the ropes of a new organization
+64,7,0,2,25,did you see that spectacular explosion
+65,7,0,2,25,dinosaurs have been extinct for ages
+66,7,0,2,25,neither a borrower nor a lender be
+67,7,0,2,25,knee bone is connected to the thigh bone
+68,7,0,2,25,communicate through email
+69,7,0,2,25,six daughters and seven sons
+70,7,0,2,25,put garbage in an abandoned mine
+71,8,1,2,25,i can still feel your presence
+72,8,1,2,25,the insulation is not working
+73,8,1,2,25,the bus was very crowded
+74,8,1,2,25,my watch fell in the water
+75,8,1,2,25,all good boys deserve fudge
+76,8,1,2,25,the cat has a pleasant temperament
+77,8,1,2,25,relations are very strained
+78,8,1,2,25,an offer you cannot refuse
+79,8,1,2,25,sent this by registered mail
+80,8,1,2,25,be discreet about your meeting
+81,9,1,2,25,there will be some fog tonight
+82,9,1,2,25,this is too much to handle
+83,9,1,2,25,find a nearby parking spot
+84,9,1,2,25,limited warranty of two years
+85,9,1,2,25,the objective of the exercise
+86,9,1,2,25,my favorite place to visit
+87,9,1,2,25,prescription drugs require a note
+88,9,1,2,25,electric cars need big fuel cells
+89,9,1,2,25,the back yard of our house
+90,9,1,2,25,the pen is mightier than the sword
+91,10,0,2,0,never mix religion and politics
+92,10,0,2,0,join us on the patio
+93,10,0,2,0,we have enough witnesses
+94,10,0,2,0,our housekeeper does a thorough job
+95,10,0,2,0,the fire blazed all weekend
+96,10,0,2,0,the cotton is high
+97,10,0,2,0,stay away from strangers
+98,10,0,2,0,physics and chemistry are hard
+99,10,0,2,0,the coronation was very exciting
+100,10,0,2,0,our fax number has changed
+101,11,1,2,0,luckily my wallet was found
+102,11,1,2,0,tell a lie and your nose will grow
+103,11,1,2,0,gun powder must be handled with care
+104,11,1,2,0,weeping willows are found near water
+105,11,1,2,0,want to join us for lunch
+106,11,1,2,0,hair gel is very greasy
+107,11,1,2,0,machinery is too complicated
+108,11,1,2,0,breathing is difficult
+109,11,1,2,0,listen to five hours of opera
+110,11,1,2,0,please follow the guidelines
+111,12,1,2,0,every saturday he folds the laundry
+112,12,1,2,0,presidents drive expensive cars
+113,12,1,2,0,universally understood to be wrong
+114,12,1,2,0,parking tickets can be challenged
+115,12,1,2,0,do not worry about this
+116,12,1,2,0,soon we will return from the city
+117,12,1,2,0,construction makes traveling difficult
+118,12,1,2,0,great disturbance in the force
+119,12,1,2,0,completely sold out of that
+120,12,1,2,0,do you like to shop on sunday
+121,13,0,2,50,our life expectancy has increased
+122,13,0,2,50,sign the withdrawal slip
+123,13,0,2,50,rejection letters are discouraging
+124,13,0,2,50,i am wearing a tie and a jacket
+125,13,0,2,50,the rationale behind the decision
+126,13,0,2,50,i like baroque and classical music
+127,13,0,2,50,an inefficient way to heat a house
+128,13,0,2,50,do not say anything
+129,13,0,2,50,the trains are always late
+130,13,0,2,50,hands on experience with a job
+131,14,1,2,50,thank you for your help
+132,14,1,2,50,the winner of the race
+133,14,1,2,50,one never takes too many precautions
+134,14,1,2,50,i want to hold your hand
+135,14,1,2,50,rent is paid at the beginning of the month
+136,14,1,2,50,the generation gap gets wider
+137,14,1,2,50,with each step forward
+138,14,1,2,50,this watch is too expensive
+139,14,1,2,50,toss the ball around
+140,14,1,2,50,that is a very nasty cut
+141,15,1,2,50,a touchdown in the last minute
+142,15,1,2,50,do not feel too bad about it
+143,15,1,2,50,irregular verbs are the hardest to learn
+144,15,1,2,50,questioning the wisdom of the courts
+145,15,1,2,50,players must know all the rules
+146,15,1,2,50,vanilla flavored ice cream
+147,15,1,2,50,seasoned golfers love the game
+148,15,1,2,50,try to enjoy your maternity leave
+149,15,1,2,50,this leather jacket is too warm
+150,15,1,2,50,the elevator door appears to be stuck

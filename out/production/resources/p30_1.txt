@@ -1,0 +1,150 @@
+1,1,0,1,25,everyone wants to win the lottery
+2,1,0,1,25,six daughters and seven sons
+3,1,0,1,25,employee recruitment takes a lot of effort
+4,1,0,1,25,the location of the crime
+5,1,0,1,25,reading week is just about here
+6,1,0,1,25,question that must be answered
+7,1,0,1,25,he is shouting loudly
+8,1,0,1,25,this equation is too complicated
+9,1,0,1,25,listen to five hours of opera
+10,1,0,1,25,the punishment should fit the crime
+11,2,1,1,25,head shoulders knees and toes
+12,2,1,1,25,i like baroque and classical music
+13,2,1,1,25,important for political parties
+14,2,1,1,25,your etiquette needs some work
+15,2,1,1,25,sign the withdrawal slip
+16,2,1,1,25,just what the doctor ordered
+17,2,1,1,25,circumstances are unacceptable
+18,2,1,1,25,that is a very nasty cut
+19,2,1,1,25,the food at this restaurant
+20,2,1,1,25,we have enough witnesses
+21,3,1,1,25,teaching services will help
+22,3,1,1,25,nothing wrong with his style
+23,3,1,1,25,our housekeeper does a thorough job
+24,3,1,1,25,the sum of the parts
+25,3,1,1,25,file all complaints in writing
+26,3,1,1,25,the bathroom is good for reading
+27,3,1,1,25,the picket line gives me the chills
+28,3,1,1,25,a problem with the engine
+29,3,1,1,25,look in the syllabus for the course
+30,3,1,1,25,a security force of eight thousand
+31,4,0,1,75,do not lie in court or else
+32,4,0,1,75,the quick brown fox jumped
+33,4,0,1,75,physics and chemistry are hard
+34,4,0,1,75,you are an ardent capitalist
+35,4,0,1,75,see you later alligator
+36,4,0,1,75,where did i leave my glasses
+37,4,0,1,75,travel at the speed of light
+38,4,0,1,75,sharp cheese keeps the mind sharp
+39,4,0,1,75,hands on experience with a job
+40,4,0,1,75,spill coffee on the carpet
+41,5,1,1,75,the objective of the exercise
+42,5,1,1,75,come and see our new car
+43,5,1,1,75,i can play much better now
+44,5,1,1,75,give me one spoonful of coffee
+45,5,1,1,75,the opposing team is over there
+46,5,1,1,75,a duck quacks to ask for food
+47,5,1,1,75,if you were not so stupid
+48,5,1,1,75,soon we will return from the city
+49,5,1,1,75,a steep learning curve in riding a unicycle
+50,5,1,1,75,the world is a stage
+51,6,1,1,75,gun powder must be handled with care
+52,6,1,1,75,raindrops keep falling on my head
+53,6,1,1,75,i am allergic to bees and peanuts
+54,6,1,1,75,the living is easy
+55,6,1,1,75,only an idiot would lie in court
+56,6,1,1,75,he was wearing a sweatshirt
+57,6,1,1,75,tickets are very expensive
+58,6,1,1,75,the cream rises to the top
+59,6,1,1,75,the first time he tried to swim
+60,6,1,1,75,sent this by registered mail
+61,7,0,1,100,a dog is the best friend of a man
+62,7,0,1,100,very reluctant to enter
+63,7,0,1,100,i cannot believe i ate the whole thing
+64,7,0,1,100,the second largest country
+65,7,0,1,100,a most ridiculous thing
+66,7,0,1,100,accompanied by an adult
+67,7,0,1,100,my bike has a flat tire
+68,7,0,1,100,video camera with a zoom lens
+69,7,0,1,100,do not squander your time
+70,7,0,1,100,be persistent to win a strike
+71,8,1,1,100,they love to yap about nothing
+72,8,1,1,100,my preferred treat is chocolate
+73,8,1,1,100,i like to play tennis
+74,8,1,1,100,burglars never leave their business card
+75,8,1,1,100,elections bring out the best
+76,8,1,1,100,communicate through email
+77,8,1,1,100,why do you ask silly questions
+78,8,1,1,100,the gun discharged by accident
+79,8,1,1,100,that is very unfortunate
+80,8,1,1,100,chemical spill took forever
+81,9,1,1,100,the sun rises in the east
+82,9,1,1,100,fine but only in moderation
+83,9,1,1,100,did you have a good time
+84,9,1,1,100,the postal service is very slow
+85,9,1,1,100,toss the ball around
+86,9,1,1,100,one never takes too many precautions
+87,9,1,1,100,for murder you get a long prison sentence
+88,9,1,1,100,information super highway
+89,9,1,1,100,he is still on our team
+90,9,1,1,100,rejection letters are discouraging
+91,10,0,1,50,freud wrote of the ego
+92,10,0,1,50,vanilla flavored ice cream
+93,10,0,1,50,please keep this confidential
+94,10,0,1,50,get your priorities in order
+95,10,0,1,50,join us on the patio
+96,10,0,1,50,the insulation is not working
+97,10,0,1,50,dashing through the snow
+98,10,0,1,50,hair gel is very greasy
+99,10,0,1,50,so you think you deserve a raise
+100,10,0,1,50,people blow their own horn a lot
+101,11,1,1,50,public transit is much faster
+102,11,1,1,50,the stock exchange dipped
+103,11,1,1,50,we missed your birthday
+104,11,1,1,50,the collapse of the roman empire
+105,11,1,1,50,an inefficient way to heat a house
+106,11,1,1,50,dormitory doors are locked at midnight
+107,11,1,1,50,bad for the environment
+108,11,1,1,50,call for more details
+109,11,1,1,50,protect your environment
+110,11,1,1,50,the dog buried the bone
+111,12,1,1,50,for your information only
+112,12,1,1,50,where can my little dog be
+113,12,1,1,50,user friendly interface
+114,12,1,1,50,try to enjoy your maternity leave
+115,12,1,1,50,i do not fully agree with you
+116,12,1,1,50,this leather jacket is too warm
+117,12,1,1,50,every apple from every tree
+118,12,1,1,50,my favorite web browser
+119,12,1,1,50,shivering is one way to keep warm
+120,12,1,1,50,work hard to reach the summit
+121,13,0,1,0,learn to walk before you run
+122,13,0,1,0,limited warranty of two years
+123,13,0,1,0,the imagination of the nation
+124,13,0,1,0,we are having spaghetti
+125,13,0,1,0,february has an extra day
+126,13,0,1,0,what a monkey sees a monkey will do
+127,13,0,1,0,that land is owned by the government
+128,13,0,1,0,if you come home late the doors are locked
+129,13,0,1,0,a touchdown in the last minute
+130,13,0,1,0,pay off a mortgage for a house
+131,14,1,1,0,with each step forward
+132,14,1,1,0,he played a hero in that movie
+133,14,1,1,0,watch out for low flying objects
+134,14,1,1,0,not quite so smart as you think
+135,14,1,1,0,mystery of the lost lagoon
+136,14,1,1,0,bank transaction was not registered
+137,14,1,1,0,everybody loses in custody battles
+138,14,1,1,0,lydia wants to go home
+139,14,1,1,0,correct your diction immediately
+140,14,1,1,0,life is but a dream
+141,15,1,1,0,elephants are afraid of mice
+142,15,1,1,0,knee bone is connected to the thigh bone
+143,15,1,1,0,insurance is important for bad drivers
+144,15,1,1,0,granite is the hardest of all rocks
+145,15,1,1,0,our silver anniversary is coming
+146,15,1,1,0,there are winners and losers
+147,15,1,1,0,double double toil and trouble
+148,15,1,1,0,an occasional taste of chocolate
+149,15,1,1,0,buckle up for safety
+150,15,1,1,0,do not feel too bad about it

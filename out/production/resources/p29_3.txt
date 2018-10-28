@@ -1,0 +1,150 @@
+1,1,0,2,75,the bus was very crowded
+2,1,0,2,75,this watch is too expensive
+3,1,0,2,75,this camera takes nice photographs
+4,1,0,2,75,the living is easy
+5,1,0,2,75,shivering is one way to keep warm
+6,1,0,2,75,flashing red light means stop
+7,1,0,2,75,employee recruitment takes a lot of effort
+8,1,0,2,75,fish are jumping
+9,1,0,2,75,this is too much to handle
+10,1,0,2,75,the children are playing
+11,2,1,2,75,dolphins leap high out of the water
+12,2,1,2,75,beware the ides of march
+13,2,1,2,75,i like baroque and classical music
+14,2,1,2,75,this is a very good idea
+15,2,1,2,75,reading week is just about here
+16,2,1,2,75,the stock exchange dipped
+17,2,1,2,75,my favorite web browser
+18,2,1,2,75,motivational seminars make me sick
+19,2,1,2,75,seasoned golfers love the game
+20,2,1,2,75,what goes up must come down
+21,3,1,2,75,saving that child was a heroic effort
+22,3,1,2,75,if diplomacy does not work
+23,3,1,2,75,meet tomorrow in the lavatory
+24,3,1,2,75,the postal service is very slow
+25,3,1,2,75,give me one spoonful of coffee
+26,3,1,2,75,there will be some fog tonight
+27,3,1,2,75,the gun discharged by accident
+28,3,1,2,75,want to join us for lunch
+29,3,1,2,75,irregular verbs are the hardest to learn
+30,3,1,2,75,hands on experience with a job
+31,4,0,2,25,i like to play tennis
+32,4,0,2,25,mary had a little lamb
+33,4,0,2,25,the fourth edition was better
+34,4,0,2,25,house with new electrical panel
+35,4,0,2,25,drugs should be avoided
+36,4,0,2,25,a steep learning curve in riding a unicycle
+37,4,0,2,25,destruction of the rain forest
+38,4,0,2,25,have a good weekend
+39,4,0,2,25,granite is the hardest of all rocks
+40,4,0,2,25,movie about a nutty professor
+41,5,1,2,25,exceed the maximum speed limit
+42,5,1,2,25,people blow their own horn a lot
+43,5,1,2,25,bring the offenders to justice
+44,5,1,2,25,the capitol of our nation
+45,5,1,2,25,the rationale behind the decision
+46,5,1,2,25,parking tickets can be challenged
+47,5,1,2,25,the fire raged for an entire month
+48,5,1,2,25,pumping brakes when roads are slippery
+49,5,1,2,25,is there any indication of this
+50,5,1,2,25,the four seasons will come
+51,6,1,2,25,that is a very odd question
+52,6,1,2,25,the plug does not fit the socket
+53,6,1,2,25,an injustice is committed every day
+54,6,1,2,25,the bathroom is good for reading
+55,6,1,2,25,the dog buried the bone
+56,6,1,2,25,an excellent way to communicate
+57,6,1,2,25,one of the poorest nations
+58,6,1,2,25,work hard to reach the summit
+59,6,1,2,25,we have enough witnesses
+60,6,1,2,25,i took the rover from the shop
+61,7,0,2,0,the union will go on strike
+62,7,0,2,0,toss the ball around
+63,7,0,2,0,why do you ask silly questions
+64,7,0,2,0,the back yard of our house
+65,7,0,2,0,six daughters and seven sons
+66,7,0,2,0,on the way to the cottage
+67,7,0,2,0,what a lovely red jacket
+68,7,0,2,0,the minimum amount of time
+69,7,0,2,0,everybody loses in custody battles
+70,7,0,2,0,we accept personal checks
+71,8,1,2,0,a little encouragement is needed
+72,8,1,2,0,the largest of the five oceans
+73,8,1,2,0,sharp cheese keeps the mind sharp
+74,8,1,2,0,sit at the front of the bus
+75,8,1,2,0,love means many things
+76,8,1,2,0,drove my chevy to the levee
+77,8,1,2,0,sad to hear that news
+78,8,1,2,0,soon we will return from the city
+79,8,1,2,0,my watch fell in the water
+80,8,1,2,0,a lot of chlorine in the water
+81,9,1,2,0,frequently asked questions
+82,9,1,2,0,buckle up for safety
+83,9,1,2,0,public transit is much faster
+84,9,1,2,0,fall is my favorite season
+85,9,1,2,0,do you get nervous when you speak
+86,9,1,2,0,we better investigate this
+87,9,1,2,0,nobody cares anymore
+88,9,1,2,0,that is a very nasty cut
+89,9,1,2,0,learn to walk before you run
+90,9,1,2,0,be home before midnight
+91,10,0,2,100,play it again sam
+92,10,0,2,100,rectangular objects have four sides
+93,10,0,2,100,please try to be home before midnight
+94,10,0,2,100,great disturbance in the force
+95,10,0,2,100,the ropes of a new organization
+96,10,0,2,100,interesting observation was made
+97,10,0,2,100,a feeling of complete exasperation
+98,10,0,2,100,sent this by registered mail
+99,10,0,2,100,my favorite subject is psychology
+100,10,0,2,100,only an idiot would lie in court
+101,11,1,2,100,this system of taxation
+102,11,1,2,100,i do not care if you do that
+103,11,1,2,100,rejection letters are discouraging
+104,11,1,2,100,the chamber makes important decisions
+105,11,1,2,100,travel at the speed of light
+106,11,1,2,100,the chancellor was very boring
+107,11,1,2,100,the most beautiful sunset
+108,11,1,2,100,mom made her a turtleneck
+109,11,1,2,100,the assault took six months
+110,11,1,2,100,so you think you deserve a raise
+111,12,1,2,100,the dow jones index has risen
+112,12,1,2,100,the food at this restaurant
+113,12,1,2,100,the collapse of the roman empire
+114,12,1,2,100,join us on the patio
+115,12,1,2,100,medieval times were very hard
+116,12,1,2,100,the early bird gets the worm
+117,12,1,2,100,i do not fully agree with you
+118,12,1,2,100,one heck of a question
+119,12,1,2,100,i can play much better now
+120,12,1,2,100,gamblers eventually lose their shirts
+121,13,0,2,50,handicapped persons need consideration
+122,13,0,2,50,all together in one big pile
+123,13,0,2,50,most judges are very honest
+124,13,0,2,50,be persistent to win a strike
+125,13,0,2,50,completely sold out of that
+126,13,0,2,50,make my day you sucker
+127,13,0,2,50,please keep this confidential
+128,13,0,2,50,she wears too much makeup
+129,13,0,2,50,in sharp contrast to your words
+130,13,0,2,50,express delivery is very fast
+131,14,1,2,50,can we play cards tonight
+132,14,1,2,50,breathing is difficult
+133,14,1,2,50,an airport is a very busy place
+134,14,1,2,50,for murder you get a long prison sentence
+135,14,1,2,50,our housekeeper does a thorough job
+136,14,1,2,50,very reluctant to enter
+137,14,1,2,50,a picture is worth many words
+138,14,1,2,50,a problem with the engine
+139,14,1,2,50,earthquakes are predictable
+140,14,1,2,50,the daring young man
+141,15,1,2,50,a coupon for a free sample
+142,15,1,2,50,the biggest hamburger i have ever seen
+143,15,1,2,50,a rattle snake is very poisonous
+144,15,1,2,50,companies announce a merger
+145,15,1,2,50,good jobs for those with education
+146,15,1,2,50,if you were not so stupid
+147,15,1,2,50,but the levee was dry
+148,15,1,2,50,your presentation was inspiring
+149,15,1,2,50,i watched blazing saddles
+150,15,1,2,50,important news always seems to be late

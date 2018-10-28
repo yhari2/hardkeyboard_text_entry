@@ -1,0 +1,150 @@
+1,1,0,0,50,you must make an appointment
+2,1,0,0,50,that referendum asked a silly question
+3,1,0,0,50,a security force of eight thousand
+4,1,0,0,50,hands on experience with a job
+5,1,0,0,50,i can play much better now
+6,1,0,0,50,question that must be answered
+7,1,0,0,50,please provide your date of birth
+8,1,0,0,50,the ventilation system is broken
+9,1,0,0,50,you want to eat your cake
+10,1,0,0,50,i will put on my glasses
+11,2,1,0,50,look in the syllabus for the course
+12,2,1,0,50,the living is easy
+13,2,1,0,50,want to join us for lunch
+14,2,1,0,50,longer than a football field
+15,2,1,0,50,wear a crown with many jewels
+16,2,1,0,50,a problem with the engine
+17,2,1,0,50,quick there is someone knocking
+18,2,1,0,50,a lot of chlorine in the water
+19,2,1,0,50,user friendly interface
+20,2,1,0,50,everyone wants to win the lottery
+21,3,1,0,50,the coronation was very exciting
+22,3,1,0,50,just in time for the party
+23,3,1,0,50,beware the ides of march
+24,3,1,0,50,this leather jacket is too warm
+25,3,1,0,50,i skimmed through your proposal
+26,3,1,0,50,wishful thinking is fine
+27,3,1,0,50,he cooled off after she left
+28,3,1,0,50,he underwent triple bypass surgery
+29,3,1,0,50,please keep this confidential
+30,3,1,0,50,mystery of the lost lagoon
+31,4,0,0,0,we better investigate this
+32,4,0,0,0,bad for the environment
+33,4,0,0,0,for murder you get a long prison sentence
+34,4,0,0,0,do you get nervous when you speak
+35,4,0,0,0,have a good weekend
+36,4,0,0,0,a good joke deserves a good laugh
+37,4,0,0,0,vote according to your conscience
+38,4,0,0,0,the algorithm is too complicated
+39,4,0,0,0,exceed the maximum speed limit
+40,4,0,0,0,companies announce a merger
+41,5,1,0,0,they love to yap about nothing
+42,5,1,0,0,the proprietor was unavailable
+43,5,1,0,0,are you talking to me
+44,5,1,0,0,with each step forward
+45,5,1,0,0,circumstances are unacceptable
+46,5,1,0,0,vanilla flavored ice cream
+47,5,1,0,0,peek out the window
+48,5,1,0,0,double double toil and trouble
+49,5,1,0,0,please try to be home before midnight
+50,5,1,0,0,february has an extra day
+51,6,1,0,0,staying up all night is a bad idea
+52,6,1,0,0,destruction of the rain forest
+53,6,1,0,0,three two one zero blast off
+54,6,1,0,0,this system of taxation
+55,6,1,0,0,a correction had to be published
+56,6,1,0,0,the dow jones index has risen
+57,6,1,0,0,gamblers eventually lose their shirts
+58,6,1,0,0,you have my sympathy
+59,6,1,0,0,all work and no play
+60,6,1,0,0,your presentation was inspiring
+61,7,0,0,75,the food at this restaurant
+62,7,0,0,75,we are subjects and must obey
+63,7,0,0,75,do not drink too much
+64,7,0,0,75,everybody loses in custody battles
+65,7,0,0,75,breathing is difficult
+66,7,0,0,75,the opposing team is over there
+67,7,0,0,75,rain rain go away
+68,7,0,0,75,zero in on the facts
+69,7,0,0,75,the presidential suite is very busy
+70,7,0,0,75,you must be getting old
+71,8,1,0,75,i do not care if you do that
+72,8,1,0,75,please take a bath this month
+73,8,1,0,75,public transit is much faster
+74,8,1,0,75,bank transaction was not registered
+75,8,1,0,75,the chamber makes important decisions
+76,8,1,0,75,faster than a speeding bullet
+77,8,1,0,75,movie about a nutty professor
+78,8,1,0,75,elephants are afraid of mice
+79,8,1,0,75,the biggest hamburger i have ever seen
+80,8,1,0,75,important news always seems to be late
+81,9,1,0,75,round robin scheduling
+82,9,1,0,75,exercise is good for the mind
+83,9,1,0,75,my watch fell in the water
+84,9,1,0,75,the four seasons will come
+85,9,1,0,75,dashing through the snow
+86,9,1,0,75,accompanied by an adult
+87,9,1,0,75,dormitory doors are locked at midnight
+88,9,1,0,75,toss the ball around
+89,9,1,0,75,employee recruitment takes a lot of effort
+90,9,1,0,75,i am allergic to bees and peanuts
+91,10,0,0,100,spill coffee on the carpet
+92,10,0,0,100,make my day you sucker
+93,10,0,0,100,this equation is too complicated
+94,10,0,0,100,the picket line gives me the chills
+95,10,0,0,100,buckle up for safety
+96,10,0,0,100,did you see that spectacular explosion
+97,10,0,0,100,this mission statement is baloney
+98,10,0,0,100,we are having spaghetti
+99,10,0,0,100,do not drink the water
+100,10,0,0,100,irregular verbs are the hardest to learn
+101,11,1,0,100,a feeling of complete exasperation
+102,11,1,0,100,the assignment is due today
+103,11,1,0,100,a most ridiculous thing
+104,11,1,0,100,these cookies are so amazing
+105,11,1,0,100,my favorite place to visit
+106,11,1,0,100,video camera with a zoom lens
+107,11,1,0,100,gas bills are sent monthly
+108,11,1,0,100,universally understood to be wrong
+109,11,1,0,100,the plug does not fit the socket
+110,11,1,0,100,this library has many books
+111,12,1,0,100,tell a lie and your nose will grow
+112,12,1,0,100,safe to walk the streets in the evening
+113,12,1,0,100,weeping willows are found near water
+114,12,1,0,100,handicapped persons need consideration
+115,12,1,0,100,we have enough witnesses
+116,12,1,0,100,the power of denial
+117,12,1,0,100,it is difficult to concentrate
+118,12,1,0,100,most judges are very honest
+119,12,1,0,100,hair gel is very greasy
+120,12,1,0,100,a rattle snake is very poisonous
+121,13,0,0,25,the chancellor was very boring
+122,13,0,0,25,are you sure you want this
+123,13,0,0,25,experience is hard to come by
+124,13,0,0,25,what a monkey sees a monkey will do
+125,13,0,0,25,microscopes make small things look big
+126,13,0,0,25,drove my chevy to the levee
+127,13,0,0,25,i spilled coffee on the carpet
+128,13,0,0,25,find a nearby parking spot
+129,13,0,0,25,i like baroque and classical music
+130,13,0,0,25,i can still feel your presence
+131,14,1,0,25,completely sold out of that
+132,14,1,0,25,coalition governments never work
+133,14,1,0,25,careless driving results in a fine
+134,14,1,0,25,chemical spill took forever
+135,14,1,0,25,the cream rises to the top
+136,14,1,0,25,that is a very odd question
+137,14,1,0,25,knee bone is connected to the thigh bone
+138,14,1,0,25,the insulation is not working
+139,14,1,0,25,burglars never leave their business card
+140,14,1,0,25,please follow the guidelines
+141,15,1,0,25,suburbs are sprawling everywhere
+142,15,1,0,25,so you think you deserve a raise
+143,15,1,0,25,coming up with killer sound bites
+144,15,1,0,25,join us on the patio
+145,15,1,0,25,always cover all the bases
+146,15,1,0,25,our fax number has changed
+147,15,1,0,25,acutely aware of his good looks
+148,15,1,0,25,the cat has a pleasant temperament
+149,15,1,0,25,the punishment should fit the crime
+150,15,1,0,25,stability of the nation

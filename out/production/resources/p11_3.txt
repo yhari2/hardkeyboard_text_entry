@@ -1,0 +1,150 @@
+1,1,0,2,100,house with new electrical panel
+2,1,0,2,100,the back yard of our house
+3,1,0,2,100,the fire raged for an entire month
+4,1,0,2,100,an injustice is committed every day
+5,1,0,2,100,the accident scene is a shrine for fans
+6,1,0,2,100,the fourth edition was better
+7,1,0,2,100,the proprietor was unavailable
+8,1,0,2,100,the cream rises to the top
+9,1,0,2,100,no exchange without a bill
+10,1,0,2,100,you are an ardent capitalist
+11,2,1,2,100,so you think you deserve a raise
+12,2,1,2,100,meet tomorrow in the lavatory
+13,2,1,2,100,just in time for the party
+14,2,1,2,100,players must know all the rules
+15,2,1,2,100,dormitory doors are locked at midnight
+16,2,1,2,100,head shoulders knees and toes
+17,2,1,2,100,the children are playing
+18,2,1,2,100,public transit is much faster
+19,2,1,2,100,limited warranty of two years
+20,2,1,2,100,i just cannot figure this out
+21,3,1,2,100,fish are jumping
+22,3,1,2,100,please try to be home before midnight
+23,3,1,2,100,bring the offenders to justice
+24,3,1,2,100,acutely aware of his good looks
+25,3,1,2,100,i can see the rings on saturn
+26,3,1,2,100,great disturbance in the force
+27,3,1,2,100,stability of the nation
+28,3,1,2,100,an occasional taste of chocolate
+29,3,1,2,100,we have enough witnesses
+30,3,1,2,100,listen to five hours of opera
+31,4,0,2,25,mary had a little lamb
+32,4,0,2,25,thank you for your help
+33,4,0,2,25,the aspirations of a nation
+34,4,0,2,25,nobody cares anymore
+35,4,0,2,25,prescription drugs require a note
+36,4,0,2,25,medieval times were very hard
+37,4,0,2,25,the objective of the exercise
+38,4,0,2,25,please take a bath this month
+39,4,0,2,25,we missed your birthday
+40,4,0,2,25,my dog sheds his hair
+41,5,1,2,25,my car always breaks in the winter
+42,5,1,2,25,time to go shopping
+43,5,1,2,25,this equation is too complicated
+44,5,1,2,25,good at addition and subtraction
+45,5,1,2,25,the food at this restaurant
+46,5,1,2,25,machinery is too complicated
+47,5,1,2,25,a good response to the question
+48,5,1,2,25,where did you get that tie
+49,5,1,2,25,work hard to reach the summit
+50,5,1,2,25,i will put on my glasses
+51,6,1,2,25,did you have a good time
+52,6,1,2,25,salesmen must make their monthly quota
+53,6,1,2,25,please keep this confidential
+54,6,1,2,25,if at first you do not succeed
+55,6,1,2,25,canada has three territories
+56,6,1,2,25,what a monkey sees a monkey will do
+57,6,1,2,25,the dog buried the bone
+58,6,1,2,25,fall is my favorite season
+59,6,1,2,25,we are having spaghetti
+60,6,1,2,25,all good boys deserve fudge
+61,7,0,2,75,peering through a small hole
+62,7,0,2,75,staying up all night is a bad idea
+63,7,0,2,75,arguing with the boss is futile
+64,7,0,2,75,wishful thinking is fine
+65,7,0,2,75,the library is closed today
+66,7,0,2,75,you are not a jedi yet
+67,7,0,2,75,the chancellor was very boring
+68,7,0,2,75,come and see our new car
+69,7,0,2,75,what you see is what you get
+70,7,0,2,75,i hate baking pies
+71,8,1,2,75,you must be getting old
+72,8,1,2,75,the postal service is very slow
+73,8,1,2,75,a little encouragement is needed
+74,8,1,2,75,rejection letters are discouraging
+75,8,1,2,75,apartments are too expensive
+76,8,1,2,75,your presentation was inspiring
+77,8,1,2,75,never mix religion and politics
+78,8,1,2,75,a much higher risk of getting cancer
+79,8,1,2,75,dashing through the snow
+80,8,1,2,75,mom made her a turtleneck
+81,9,1,2,75,the opposing team is over there
+82,9,1,2,75,the dow jones index has risen
+83,9,1,2,75,my bare face in the wind
+84,9,1,2,75,taking the train is usually faster
+85,9,1,2,75,soon we will return from the city
+86,9,1,2,75,a steep learning curve in riding a unicycle
+87,9,1,2,75,physics and chemistry are hard
+88,9,1,2,75,nothing wrong with his style
+89,9,1,2,75,insurance is important for bad drivers
+90,9,1,2,75,earthquakes are predictable
+91,10,0,2,50,there will be some fog tonight
+92,10,0,2,50,our housekeeper does a thorough job
+93,10,0,2,50,valium in the economy size
+94,10,0,2,50,the fax machine is broken
+95,10,0,2,50,our fax number has changed
+96,10,0,2,50,the chamber makes important decisions
+97,10,0,2,50,the location of the crime
+98,10,0,2,50,the sum of the parts
+99,10,0,2,50,elections bring out the best
+100,10,0,2,50,my favorite subject is psychology
+101,11,1,2,50,all together in one big pile
+102,11,1,2,50,would you like to come to my house
+103,11,1,2,50,he was wearing a sweatshirt
+104,11,1,2,50,construction makes traveling difficult
+105,11,1,2,50,the union will go on strike
+106,11,1,2,50,freud wrote of the ego
+107,11,1,2,50,do not worry about this
+108,11,1,2,50,the coronation was very exciting
+109,11,1,2,50,go out for some pizza and beer
+110,11,1,2,50,chemical spill took forever
+111,12,1,2,50,lie detector tests never work
+112,12,1,2,50,a good joke deserves a good laugh
+113,12,1,2,50,we dine out on the weekends
+114,12,1,2,50,interactions between men and women
+115,12,1,2,50,only an idiot would lie in court
+116,12,1,2,50,coalition governments never work
+117,12,1,2,50,he underwent triple bypass surgery
+118,12,1,2,50,everyone wants to win the lottery
+119,12,1,2,50,this library has many books
+120,12,1,2,50,i like baroque and classical music
+121,13,0,2,0,travel at the speed of light
+122,13,0,2,0,buckle up for safety
+123,13,0,2,0,be persistent to win a strike
+124,13,0,2,0,there are winners and losers
+125,13,0,2,0,a tumor is okay provided it is benign
+126,13,0,2,0,quit while you are ahead
+127,13,0,2,0,santa claus got stuck
+128,13,0,2,0,the protesters blocked all traffic
+129,13,0,2,0,no kissing in the library
+130,13,0,2,0,this system of taxation
+131,14,1,2,0,i listen to the tape every day
+132,14,1,2,0,the laser printer is jammed
+133,14,1,2,0,just like it says on the canned good
+134,14,1,2,0,her majesty visited our country
+135,14,1,2,0,the kids are very excited
+136,14,1,2,0,fine but only in moderation
+137,14,1,2,0,granite is the hardest of all rocks
+138,14,1,2,0,the water was monitored daily
+139,14,1,2,0,the acceptance speech was boring
+140,14,1,2,0,the quick brown fox jumped
+141,15,1,2,0,nothing finer than discovering a treasure
+142,15,1,2,0,that is a very nasty cut
+143,15,1,2,0,every apple from every tree
+144,15,1,2,0,is there any indication of this
+145,15,1,2,0,yes you are very smart
+146,15,1,2,0,the bathroom is good for reading
+147,15,1,2,0,do not drink the water
+148,15,1,2,0,very reluctant to enter
+149,15,1,2,0,sprawling subdivisions are bad
+150,15,1,2,0,rain rain go away

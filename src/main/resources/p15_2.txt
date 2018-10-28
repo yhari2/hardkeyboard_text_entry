@@ -1,0 +1,150 @@
+1,1,0,1,100,important for political parties
+2,1,0,1,100,if at first you do not succeed
+3,1,0,1,100,join us on the patio
+4,1,0,1,100,keep receipts for all your expenses
+5,1,0,1,100,important news always seems to be late
+6,1,0,1,100,a steep learning curve in riding a unicycle
+7,1,0,1,100,peek out the window
+8,1,0,1,100,the chancellor was very boring
+9,1,0,1,100,healthy food is good for you
+10,1,0,1,100,do not worry about this
+11,2,1,1,100,completely sold out of that
+12,2,1,1,100,exercise is good for the mind
+13,2,1,1,100,quick there is someone knocking
+14,2,1,1,100,exceed the maximum speed limit
+15,2,1,1,100,i am wearing a tie and a jacket
+16,2,1,1,100,people blow their own horn a lot
+17,2,1,1,100,an occasional taste of chocolate
+18,2,1,1,100,a problem with the engine
+19,2,1,1,100,they love to yap about nothing
+20,2,1,1,100,you want to eat your cake
+21,3,1,1,100,prepare for the exam in advance
+22,3,1,1,100,universally understood to be wrong
+23,3,1,1,100,you will lose your voice
+24,3,1,1,100,traveling to conferences is fun
+25,3,1,1,100,that is a very nasty cut
+26,3,1,1,100,a touchdown in the last minute
+27,3,1,1,100,be home before midnight
+28,3,1,1,100,want to join us for lunch
+29,3,1,1,100,what you see is what you get
+30,3,1,1,100,the voters turfed him out
+31,4,0,1,75,teaching services will help
+32,4,0,1,75,sit at the front of the bus
+33,4,0,1,75,experience is hard to come by
+34,4,0,1,75,a rattle snake is very poisonous
+35,4,0,1,75,the protesters blocked all traffic
+36,4,0,1,75,he watched in astonishment
+37,4,0,1,75,peering through a small hole
+38,4,0,1,75,just what the doctor ordered
+39,4,0,1,75,they watched the entire movie
+40,4,0,1,75,no kissing in the library
+41,5,1,1,75,my preferred treat is chocolate
+42,5,1,1,75,one heck of a question
+43,5,1,1,75,electric cars need big fuel cells
+44,5,1,1,75,see you later alligator
+45,5,1,1,75,a fox is a very smart animal
+46,5,1,1,75,construction makes traveling difficult
+47,5,1,1,75,my favorite web browser
+48,5,1,1,75,the force is with you
+49,5,1,1,75,the assignment is due today
+50,5,1,1,75,are you talking to me
+51,6,1,1,75,do not lie in court or else
+52,6,1,1,75,he underwent triple bypass surgery
+53,6,1,1,75,rejection letters are discouraging
+54,6,1,1,75,prescription drugs require a note
+55,6,1,1,75,the dreamers of dreams
+56,6,1,1,75,medieval times were very hard
+57,6,1,1,75,the children are playing
+58,6,1,1,75,space is a high priority
+59,6,1,1,75,where can my little dog be
+60,6,1,1,75,i do not care if you do that
+61,7,0,1,25,the quick brown fox jumped
+62,7,0,1,25,staying up all night is a bad idea
+63,7,0,1,25,wishful thinking is fine
+64,7,0,1,25,fish are jumping
+65,7,0,1,25,breathing is difficult
+66,7,0,1,25,the pen is mightier than the sword
+67,7,0,1,25,a yard is almost as long as a meter
+68,7,0,1,25,my mother makes good cookies
+69,7,0,1,25,correct your diction immediately
+70,7,0,1,25,the collapse of the roman empire
+71,8,1,1,25,the music is better than it sounds
+72,8,1,1,25,he called seven times
+73,8,1,1,25,batman wears a cape
+74,8,1,1,25,love means many things
+75,8,1,1,25,where did i leave my glasses
+76,8,1,1,25,this equation is too complicated
+77,8,1,1,25,beware the ides of march
+78,8,1,1,25,it is very windy today
+79,8,1,1,25,a dog is the best friend of a man
+80,8,1,1,25,the daring young man
+81,9,1,1,25,three two one zero blast off
+82,9,1,1,25,dolphins leap high out of the water
+83,9,1,1,25,take it to the recycling depot
+84,9,1,1,25,a glance in the right direction
+85,9,1,1,25,february has an extra day
+86,9,1,1,25,accompanied by an adult
+87,9,1,1,25,a good stimulus deserves a good response
+88,9,1,1,25,the biggest hamburger i have ever seen
+89,9,1,1,25,insurance is important for bad drivers
+90,9,1,1,25,seasoned golfers love the game
+91,10,0,1,50,coalition governments never work
+92,10,0,1,50,handicapped persons need consideration
+93,10,0,1,50,irregular verbs are the hardest to learn
+94,10,0,1,50,gas bills are sent monthly
+95,10,0,1,50,the facts get in the way
+96,10,0,1,50,give me one spoonful of coffee
+97,10,0,1,50,do not drink too much
+98,10,0,1,50,our silver anniversary is coming
+99,10,0,1,50,why do you ask silly questions
+100,10,0,1,50,the picket line gives me the chills
+101,11,1,1,50,a feeling of complete exasperation
+102,11,1,1,50,dashing through the snow
+103,11,1,1,50,a little encouragement is needed
+104,11,1,1,50,make my day you sucker
+105,11,1,1,50,every saturday he folds the laundry
+106,11,1,1,50,lie detector tests never work
+107,11,1,1,50,two or three cups of coffee
+108,11,1,1,50,meet tomorrow in the lavatory
+109,11,1,1,50,physics and chemistry are hard
+110,11,1,1,50,my favorite subject is psychology
+111,12,1,1,50,i want to hold your hand
+112,12,1,1,50,an airport is a very busy place
+113,12,1,1,50,work hard to reach the summit
+114,12,1,1,50,the acceptance speech was boring
+115,12,1,1,50,the plug does not fit the socket
+116,12,1,1,50,i spilled coffee on the carpet
+117,12,1,1,50,flashing red light means stop
+118,12,1,1,50,double double toil and trouble
+119,12,1,1,50,thank you for your help
+120,12,1,1,50,wear a crown with many jewels
+121,13,0,1,0,a quarter of a century
+122,13,0,1,0,microscopes make small things look big
+123,13,0,1,0,bad for the environment
+124,13,0,1,0,what a lovely red jacket
+125,13,0,1,0,rain rain go away
+126,13,0,1,0,please take a bath this month
+127,13,0,1,0,olympic athletes use drugs
+128,13,0,1,0,one hour is allotted for questions
+129,13,0,1,0,come and see our new car
+130,13,0,1,0,a subject one can really enjoy
+131,14,1,1,0,canada has three territories
+132,14,1,1,0,the minimum amount of time
+133,14,1,1,0,so you think you deserve a raise
+134,14,1,1,0,the elevator door appears to be stuck
+135,14,1,1,0,she wears too much makeup
+136,14,1,1,0,questioning the wisdom of the courts
+137,14,1,1,0,dormitory doors are locked at midnight
+138,14,1,1,0,mom made her a turtleneck
+139,14,1,1,0,parking lot is full of trucks
+140,14,1,1,0,our life expectancy has increased
+141,15,1,1,0,we went grocery shopping
+142,15,1,1,0,are you sure you want this
+143,15,1,1,0,rectangular objects have four sides
+144,15,1,1,0,my bare face in the wind
+145,15,1,1,0,a thoroughly disgusting thing to say
+146,15,1,1,0,buckle up for safety
+147,15,1,1,0,careless driving results in a fine
+148,15,1,1,0,it is difficult to concentrate
+149,15,1,1,0,the fourth edition was better
+150,15,1,1,0,the accident scene is a shrine for fans

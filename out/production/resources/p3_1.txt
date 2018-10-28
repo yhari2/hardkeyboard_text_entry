@@ -1,0 +1,150 @@
+1,1,0,0,50,we are subjects and must obey
+2,1,0,0,50,all together in one big pile
+3,1,0,0,50,an excellent way to communicate
+4,1,0,0,50,a subject one can really enjoy
+5,1,0,0,50,victims deserve more redress
+6,1,0,0,50,do not say anything
+7,1,0,0,50,the library is closed today
+8,1,0,0,50,i do not fully agree with you
+9,1,0,0,50,my fingers are very cold
+10,1,0,0,50,you must make an appointment
+11,2,1,0,50,our silver anniversary is coming
+12,2,1,0,50,a very traditional way to dress
+13,2,1,0,50,quit while you are ahead
+14,2,1,0,50,a big scratch on the tabletop
+15,2,1,0,50,you want to eat your cake
+16,2,1,0,50,do you like to go camping
+17,2,1,0,50,i listen to the tape every day
+18,2,1,0,50,the music is better than it sounds
+19,2,1,0,50,that is a very nasty cut
+20,2,1,0,50,sent this by registered mail
+21,3,1,0,50,so you think you deserve a raise
+22,3,1,0,50,a duck quacks to ask for food
+23,3,1,0,50,where can my little dog be
+24,3,1,0,50,fall is my favorite season
+25,3,1,0,50,it is difficult to concentrate
+26,3,1,0,50,the stock exchange dipped
+27,3,1,0,50,arguing with the boss is futile
+28,3,1,0,50,medieval times were very hard
+29,3,1,0,50,raindrops keep falling on my head
+30,3,1,0,50,rent is paid at the beginning of the month
+31,4,0,0,75,prescription drugs require a note
+32,4,0,0,75,the sum of the parts
+33,4,0,0,75,these cookies are so amazing
+34,4,0,0,75,do you prefer a window seat
+35,4,0,0,75,an offer you cannot refuse
+36,4,0,0,75,the registration period is over
+37,4,0,0,75,all work and no play
+38,4,0,0,75,great disturbance in the force
+39,4,0,0,75,public transit is much faster
+40,4,0,0,75,presidents drive expensive cars
+41,5,1,0,75,we went grocery shopping
+42,5,1,0,75,we must redouble our efforts
+43,5,1,0,75,just what the doctor ordered
+44,5,1,0,75,wishful thinking is fine
+45,5,1,0,75,consequences of a wrong turn
+46,5,1,0,75,communicate through email
+47,5,1,0,75,the pen is mightier than the sword
+48,5,1,0,75,movie about a nutty professor
+49,5,1,0,75,we are having spaghetti
+50,5,1,0,75,the capitol of our nation
+51,6,1,0,75,a fox is a very smart animal
+52,6,1,0,75,experience is hard to come by
+53,6,1,0,75,our life expectancy has increased
+54,6,1,0,75,freud wrote of the ego
+55,6,1,0,75,never mix religion and politics
+56,6,1,0,75,want to join us for lunch
+57,6,1,0,75,earthquakes are predictable
+58,6,1,0,75,with each step forward
+59,6,1,0,75,a thoroughly disgusting thing to say
+60,6,1,0,75,elephants are afraid of mice
+61,7,0,0,100,motivational seminars make me sick
+62,7,0,0,100,a tumor is okay provided it is benign
+63,7,0,0,100,yes you are very smart
+64,7,0,0,100,what goes up must come down
+65,7,0,0,100,her majesty visited our country
+66,7,0,0,100,this library has many books
+67,7,0,0,100,a good stimulus deserves a good response
+68,7,0,0,100,physics and chemistry are hard
+69,7,0,0,100,the daring young man
+70,7,0,0,100,question that must be answered
+71,8,1,0,100,pay off a mortgage for a house
+72,8,1,0,100,the coronation was very exciting
+73,8,1,0,100,these barracks are big enough
+74,8,1,0,100,this watch is too expensive
+75,8,1,0,100,rapidly running short on words
+76,8,1,0,100,thank you for your help
+77,8,1,0,100,just like it says on the canned good
+78,8,1,0,100,the world is a stage
+79,8,1,0,100,a dog is the best friend of a man
+80,8,1,0,100,i skimmed through your proposal
+81,9,1,0,100,the bathroom is good for reading
+82,9,1,0,100,i hate baking pies
+83,9,1,0,100,you are an ardent capitalist
+84,9,1,0,100,make my day you sucker
+85,9,1,0,100,nothing finer than discovering a treasure
+86,9,1,0,100,a yard is almost as long as a meter
+87,9,1,0,100,starlight and dewdrop
+88,9,1,0,100,do not drink the water
+89,9,1,0,100,do not feel too bad about it
+90,9,1,0,100,my car always breaks in the winter
+91,10,0,0,0,machinery is too complicated
+92,10,0,0,0,a most ridiculous thing
+93,10,0,0,0,my watch fell in the water
+94,10,0,0,0,they watched the entire movie
+95,10,0,0,0,every apple from every tree
+96,10,0,0,0,completely sold out of that
+97,10,0,0,0,prepare for the exam in advance
+98,10,0,0,0,this is a non profit organization
+99,10,0,0,0,a rattle snake is very poisonous
+100,10,0,0,0,stability of the nation
+101,11,1,0,0,please keep this confidential
+102,11,1,0,0,the kids are very excited
+103,11,1,0,0,he is shouting loudly
+104,11,1,0,0,i want to hold your hand
+105,11,1,0,0,traveling to conferences is fun
+106,11,1,0,0,please take a bath this month
+107,11,1,0,0,reading week is just about here
+108,11,1,0,0,do you like to shop on sunday
+109,11,1,0,0,effort is what it will take
+110,11,1,0,0,the insulation is not working
+111,12,1,0,0,coalition governments never work
+112,12,1,0,0,the assault took six months
+113,12,1,0,0,where did you get such a silly idea
+114,12,1,0,0,always cover all the bases
+115,12,1,0,0,shall we play a round of cards
+116,12,1,0,0,for murder you get a long prison sentence
+117,12,1,0,0,go out for some pizza and beer
+118,12,1,0,0,interactions between men and women
+119,12,1,0,0,we drive on parkways
+120,12,1,0,0,this mission statement is baloney
+121,13,0,0,25,tell a lie and your nose will grow
+122,13,0,0,25,everybody loses in custody battles
+123,13,0,0,25,i can play much better now
+124,13,0,0,25,for your information only
+125,13,0,0,25,traveling requires a lot of fuel
+126,13,0,0,25,the store will close at ten
+127,13,0,0,25,the postal service is very slow
+128,13,0,0,25,parking lot is full of trucks
+129,13,0,0,25,three two one zero blast off
+130,13,0,0,25,stay away from strangers
+131,14,1,0,25,dashing through the snow
+132,14,1,0,25,weeping willows are found near water
+133,14,1,0,25,the collapse of the roman empire
+134,14,1,0,25,luckily my wallet was found
+135,14,1,0,25,my favorite web browser
+136,14,1,0,25,look in the syllabus for the course
+137,14,1,0,25,love means many things
+138,14,1,0,25,buckle up for safety
+139,14,1,0,25,correct your diction immediately
+140,14,1,0,25,faster than a speeding bullet
+141,15,1,0,25,burglars never leave their business card
+142,15,1,0,25,batman wears a cape
+143,15,1,0,25,head shoulders knees and toes
+144,15,1,0,25,nothing wrong with his style
+145,15,1,0,25,fine but only in moderation
+146,15,1,0,25,teaching services will help
+147,15,1,0,25,it should be sunny tomorrow
+148,15,1,0,25,the dog will bite you
+149,15,1,0,25,players must know all the rules
+150,15,1,0,25,a much higher risk of getting cancer

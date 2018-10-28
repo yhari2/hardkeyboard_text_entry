@@ -1,0 +1,150 @@
+1,1,0,1,50,only an idiot would lie in court
+2,1,0,1,50,communicate through email
+3,1,0,1,50,rectangular objects have four sides
+4,1,0,1,50,can i skate with my sister today
+5,1,0,1,50,sprawling subdivisions are bad
+6,1,0,1,50,public transit is much faster
+7,1,0,1,50,consequences of a wrong turn
+8,1,0,1,50,every apple from every tree
+9,1,0,1,50,everyone wants to win the lottery
+10,1,0,1,50,we are subjects and must obey
+11,2,1,1,50,did you see that spectacular explosion
+12,2,1,1,50,the picket line gives me the chills
+13,2,1,1,50,make up a few more phrases
+14,2,1,1,50,these cookies are so amazing
+15,2,1,1,50,santa claus got stuck
+16,2,1,1,50,my favorite subject is psychology
+17,2,1,1,50,peek out the window
+18,2,1,1,50,watch out for low flying objects
+19,2,1,1,50,the elevator door appears to be stuck
+20,2,1,1,50,one never takes too many precautions
+21,3,1,1,50,a yard is almost as long as a meter
+22,3,1,1,50,give me one spoonful of coffee
+23,3,1,1,50,there are winners and losers
+24,3,1,1,50,vote according to your conscience
+25,3,1,1,50,join us on the patio
+26,3,1,1,50,irregular verbs are the hardest to learn
+27,3,1,1,50,the opposing team is over there
+28,3,1,1,50,get aboard the ship is leaving
+29,3,1,1,50,the library is closed today
+30,3,1,1,50,love means many things
+31,4,0,1,25,he is still on our team
+32,4,0,1,25,the world is a stage
+33,4,0,1,25,canada has three territories
+34,4,0,1,25,parking tickets can be challenged
+35,4,0,1,25,victims deserve more redress
+36,4,0,1,25,my favorite sport is racketball
+37,4,0,1,25,the four seasons will come
+38,4,0,1,25,i can play much better now
+39,4,0,1,25,accompanied by an adult
+40,4,0,1,25,a steep learning curve in riding a unicycle
+41,5,1,1,25,limited warranty of two years
+42,5,1,1,25,time to go shopping
+43,5,1,1,25,a tumor is okay provided it is benign
+44,5,1,1,25,an injustice is committed every day
+45,5,1,1,25,i want to hold your hand
+46,5,1,1,25,we run the risk of failure
+47,5,1,1,25,the protesters blocked all traffic
+48,5,1,1,25,mary had a little lamb
+49,5,1,1,25,call for more details
+50,5,1,1,25,well connected with people
+51,6,1,1,25,the fire blazed all weekend
+52,6,1,1,25,the treasury department is broke
+53,6,1,1,25,we went grocery shopping
+54,6,1,1,25,apartments are too expensive
+55,6,1,1,25,where can my little dog be
+56,6,1,1,25,what you see is what you get
+57,6,1,1,25,do not lie in court or else
+58,6,1,1,25,work hard to reach the summit
+59,6,1,1,25,do not feel too bad about it
+60,6,1,1,25,the food at this restaurant
+61,7,0,1,0,chemical spill took forever
+62,7,0,1,0,the force is with you
+63,7,0,1,0,do you like to shop on sunday
+64,7,0,1,0,dinosaurs have been extinct for ages
+65,7,0,1,0,he cooled off after she left
+66,7,0,1,0,neither a borrower nor a lender be
+67,7,0,1,0,the stock exchange dipped
+68,7,0,1,0,the gun discharged by accident
+69,7,0,1,0,tickets are very expensive
+70,7,0,1,0,the pen is mightier than the sword
+71,8,1,1,0,the capitol of our nation
+72,8,1,1,0,a good joke deserves a good laugh
+73,8,1,1,0,that sticker needs to be validated
+74,8,1,1,0,you must make an appointment
+75,8,1,1,0,raindrops keep falling on my head
+76,8,1,1,0,the assault took six months
+77,8,1,1,0,a good response to the question
+78,8,1,1,0,the presidential suite is very busy
+79,8,1,1,0,you are not a jedi yet
+80,8,1,1,0,great disturbance in the force
+81,9,1,1,0,the treasurer must balance her books
+82,9,1,1,0,if diplomacy does not work
+83,9,1,1,0,i hate baking pies
+84,9,1,1,0,not quite so smart as you think
+85,9,1,1,0,do you like to go camping
+86,9,1,1,0,prayer in schools offends some
+87,9,1,1,0,shall we play a round of cards
+88,9,1,1,0,my bank account is overdrawn
+89,9,1,1,0,file all complaints in writing
+90,9,1,1,0,completely sold out of that
+91,10,0,1,75,sign the withdrawal slip
+92,10,0,1,75,rapidly running short on words
+93,10,0,1,75,all work and no play
+94,10,0,1,75,take a coffee break
+95,10,0,1,75,universally understood to be wrong
+96,10,0,1,75,the aspirations of a nation
+97,10,0,1,75,sharp cheese keeps the mind sharp
+98,10,0,1,75,go out for some pizza and beer
+99,10,0,1,75,yes you are very smart
+100,10,0,1,75,universities are too expensive
+101,11,1,1,75,so you think you deserve a raise
+102,11,1,1,75,people blow their own horn a lot
+103,11,1,1,75,earthquakes are predictable
+104,11,1,1,75,the back yard of our house
+105,11,1,1,75,the cream rises to the top
+106,11,1,1,75,do not drink the water
+107,11,1,1,75,the daring young man
+108,11,1,1,75,the voters turfed him out
+109,11,1,1,75,i will meet you at noon
+110,11,1,1,75,do not drink too much
+111,12,1,1,75,all good boys deserve fudge
+112,12,1,1,75,obligations must be met first
+113,12,1,1,75,do not squander your time
+114,12,1,1,75,wishful thinking is fine
+115,12,1,1,75,gun powder must be handled with care
+116,12,1,1,75,the most beautiful sunset
+117,12,1,1,75,the plug does not fit the socket
+118,12,1,1,75,i am allergic to bees and peanuts
+119,12,1,1,75,the punishment should fit the crime
+120,12,1,1,75,important for political parties
+121,13,0,1,100,the dreamers of dreams
+122,13,0,1,100,come and see our new car
+123,13,0,1,100,players must know all the rules
+124,13,0,1,100,coalition governments never work
+125,13,0,1,100,please take a bath this month
+126,13,0,1,100,a dog is the best friend of a man
+127,13,0,1,100,the kids are very excited
+128,13,0,1,100,no kissing in the library
+129,13,0,1,100,with each step forward
+130,13,0,1,100,he watched in astonishment
+131,14,1,1,100,he is shouting loudly
+132,14,1,1,100,world population is growing
+133,14,1,1,100,our silver anniversary is coming
+134,14,1,1,100,no exchange without a bill
+135,14,1,1,100,we have enough witnesses
+136,14,1,1,100,the first time he tried to swim
+137,14,1,1,100,prepare for the exam in advance
+138,14,1,1,100,toss the ball around
+139,14,1,1,100,bring the offenders to justice
+140,14,1,1,100,a glance in the right direction
+141,15,1,1,100,the fourth edition was better
+142,15,1,1,100,a fox is a very smart animal
+143,15,1,1,100,careless driving results in a fine
+144,15,1,1,100,our life expectancy has increased
+145,15,1,1,100,a picture is worth many words
+146,15,1,1,100,rejection letters are discouraging
+147,15,1,1,100,the store will close at ten
+148,15,1,1,100,goldilocks and the three bears
+149,15,1,1,100,beautiful paintings in the gallery
+150,15,1,1,100,my dog sheds his hair

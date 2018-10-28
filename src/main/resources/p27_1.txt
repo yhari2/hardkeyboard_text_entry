@@ -1,0 +1,150 @@
+1,1,0,0,100,he is shouting loudly
+2,1,0,0,100,with each step forward
+3,1,0,0,100,traveling requires a lot of fuel
+4,1,0,0,100,learn to walk before you run
+5,1,0,0,100,file all complaints in writing
+6,1,0,0,100,this equation is too complicated
+7,1,0,0,100,the world is a stage
+8,1,0,0,100,every apple from every tree
+9,1,0,0,100,gas bills are sent monthly
+10,1,0,0,100,beautiful paintings in the gallery
+11,2,1,0,100,medieval times were very hard
+12,2,1,0,100,space is a high priority
+13,2,1,0,100,a steep learning curve in riding a unicycle
+14,2,1,0,100,arguing with the boss is futile
+15,2,1,0,100,i watched blazing saddles
+16,2,1,0,100,the ropes of a new organization
+17,2,1,0,100,never too rich and never too thin
+18,2,1,0,100,the assignment is due today
+19,2,1,0,100,the high waves will swamp us
+20,2,1,0,100,head shoulders knees and toes
+21,3,1,0,100,the algorithm is too complicated
+22,3,1,0,100,rejection letters are discouraging
+23,3,1,0,100,what to do when the oil runs dry
+24,3,1,0,100,just in time for the party
+25,3,1,0,100,sharp cheese keeps the mind sharp
+26,3,1,0,100,universally understood to be wrong
+27,3,1,0,100,travel at the speed of light
+28,3,1,0,100,sit at the front of the bus
+29,3,1,0,100,irregular verbs are the hardest to learn
+30,3,1,0,100,salesmen must make their monthly quota
+31,4,0,0,25,reading week is just about here
+32,4,0,0,25,we are subjects and must obey
+33,4,0,0,25,i am wearing a tie and a jacket
+34,4,0,0,25,wishful thinking is fine
+35,4,0,0,25,do not drink too much
+36,4,0,0,25,a tumor is okay provided it is benign
+37,4,0,0,25,zero in on the facts
+38,4,0,0,25,the proprietor was unavailable
+39,4,0,0,25,correct your diction immediately
+40,4,0,0,25,the ventilation system is broken
+41,5,1,0,25,everybody loses in custody battles
+42,5,1,0,25,a little encouragement is needed
+43,5,1,0,25,our housekeeper does a thorough job
+44,5,1,0,25,mystery of the lost lagoon
+45,5,1,0,25,so you think you deserve a raise
+46,5,1,0,25,coming up with killer sound bites
+47,5,1,0,25,effort is what it will take
+48,5,1,0,25,what a lovely red jacket
+49,5,1,0,25,the treasurer must balance her books
+50,5,1,0,25,the trains are always late
+51,6,1,0,25,vote according to your conscience
+52,6,1,0,25,bank transaction was not registered
+53,6,1,0,25,i can still feel your presence
+54,6,1,0,25,the largest of the five oceans
+55,6,1,0,25,mom made her a turtleneck
+56,6,1,0,25,the insulation is not working
+57,6,1,0,25,i will put on my glasses
+58,6,1,0,25,do not walk too quickly
+59,6,1,0,25,faster than a speeding bullet
+60,6,1,0,25,this system of taxation
+61,7,0,0,75,it looks like a shack
+62,7,0,0,75,go out for some pizza and beer
+63,7,0,0,75,rapidly running short on words
+64,7,0,0,75,if at first you do not succeed
+65,7,0,0,75,three two one zero blast off
+66,7,0,0,75,i am going to a music lesson
+67,7,0,0,75,that is a very nasty cut
+68,7,0,0,75,that is very unfortunate
+69,7,0,0,75,a feeling of complete exasperation
+70,7,0,0,75,luckily my wallet was found
+71,8,1,0,75,a fox is a very smart animal
+72,8,1,0,75,we missed your birthday
+73,8,1,0,75,an inefficient way to heat a house
+74,8,1,0,75,employee recruitment takes a lot of effort
+75,8,1,0,75,completely sold out of that
+76,8,1,0,75,protect your environment
+77,8,1,0,75,the dreamers of dreams
+78,8,1,0,75,i like baroque and classical music
+79,8,1,0,75,one heck of a question
+80,8,1,0,75,a good joke deserves a good laugh
+81,9,1,0,75,superman never wore a mask
+82,9,1,0,75,peering through a small hole
+83,9,1,0,75,you are a wonderful example
+84,9,1,0,75,the objective of the exercise
+85,9,1,0,75,world population is growing
+86,9,1,0,75,you must make an appointment
+87,9,1,0,75,what a monkey sees a monkey will do
+88,9,1,0,75,please take a bath this month
+89,9,1,0,75,meet tomorrow in the lavatory
+90,9,1,0,75,staying up all night is a bad idea
+91,10,0,0,0,the cat has a pleasant temperament
+92,10,0,0,0,buckle up for safety
+93,10,0,0,0,do you get nervous when you speak
+94,10,0,0,0,the winner of the race
+95,10,0,0,0,hands on experience with a job
+96,10,0,0,0,healthy food is good for you
+97,10,0,0,0,be discreet about your meeting
+98,10,0,0,0,toss the ball around
+99,10,0,0,0,important news always seems to be late
+100,10,0,0,0,we drive on parkways
+101,11,1,0,0,the location of the crime
+102,11,1,0,0,i want to hold your hand
+103,11,1,0,0,i will meet you at noon
+104,11,1,0,0,the first time he tried to swim
+105,11,1,0,0,granite is the hardest of all rocks
+106,11,1,0,0,stability of the nation
+107,11,1,0,0,beware the ides of march
+108,11,1,0,0,sent this by registered mail
+109,11,1,0,0,take a coffee break
+110,11,1,0,0,the postal service is very slow
+111,12,1,0,0,drove my chevy to the levee
+112,12,1,0,0,physics and chemistry are hard
+113,12,1,0,0,the elevator door appears to be stuck
+114,12,1,0,0,if you come home late the doors are locked
+115,12,1,0,0,you should visit a doctor
+116,12,1,0,0,drugs should be avoided
+117,12,1,0,0,longer than a football field
+118,12,1,0,0,the kids are very excited
+119,12,1,0,0,elephants are afraid of mice
+120,12,1,0,0,be home before midnight
+121,13,0,0,50,pay off a mortgage for a house
+122,13,0,0,50,spill coffee on the carpet
+123,13,0,0,50,breathing is difficult
+124,13,0,0,50,a quarter of a century
+125,13,0,0,50,make my day you sucker
+126,13,0,0,50,shall we play a round of cards
+127,13,0,0,50,nothing finer than discovering a treasure
+128,13,0,0,50,this camera takes nice photographs
+129,13,0,0,50,your etiquette needs some work
+130,13,0,0,50,my bare face in the wind
+131,14,1,0,50,obligations must be met first
+132,14,1,0,50,put garbage in an abandoned mine
+133,14,1,0,50,earthquakes are predictable
+134,14,1,0,50,please keep this confidential
+135,14,1,0,50,saving that child was a heroic effort
+136,14,1,0,50,watch out for low flying objects
+137,14,1,0,50,the registration period is over
+138,14,1,0,50,he watched in astonishment
+139,14,1,0,50,want to join us for lunch
+140,14,1,0,50,the generation gap gets wider
+141,15,1,0,50,is there any indication of this
+142,15,1,0,50,sad to hear that news
+143,15,1,0,50,limited warranty of two years
+144,15,1,0,50,a touchdown in the last minute
+145,15,1,0,50,electric cars need big fuel cells
+146,15,1,0,50,fine but only in moderation
+147,15,1,0,50,the presidential suite is very busy
+148,15,1,0,50,tickets are very expensive
+149,15,1,0,50,a good stimulus deserves a good response
+150,15,1,0,50,sprawling subdivisions are bad

@@ -1,0 +1,150 @@
+1,1,0,2,25,this equation is too complicated
+2,1,0,2,25,this library has many books
+3,1,0,2,25,healthy food is good for you
+4,1,0,2,25,do not drink the water
+5,1,0,2,25,is there any indication of this
+6,1,0,2,25,she wears too much makeup
+7,1,0,2,25,freud wrote of the ego
+8,1,0,2,25,the power of denial
+9,1,0,2,25,the four seasons will come
+10,1,0,2,25,mary had a little lamb
+11,2,1,2,25,i listen to the tape every day
+12,2,1,2,25,all good boys deserve fudge
+13,2,1,2,25,careless driving results in a fine
+14,2,1,2,25,my favorite place to visit
+15,2,1,2,25,important for political parties
+16,2,1,2,25,victims deserve more redress
+17,2,1,2,25,sharp cheese keeps the mind sharp
+18,2,1,2,25,the sum of the parts
+19,2,1,2,25,this mission statement is baloney
+20,2,1,2,25,one of the poorest nations
+21,3,1,2,25,head shoulders knees and toes
+22,3,1,2,25,we better investigate this
+23,3,1,2,25,the stock exchange dipped
+24,3,1,2,25,call for more details
+25,3,1,2,25,the most beautiful sunset
+26,3,1,2,25,elections bring out the best
+27,3,1,2,25,did you see that spectacular explosion
+28,3,1,2,25,circumstances are unacceptable
+29,3,1,2,25,my favorite subject is psychology
+30,3,1,2,25,join us on the patio
+31,4,0,2,75,why do you ask silly questions
+32,4,0,2,75,the acceptance speech was boring
+33,4,0,2,75,suburbs are sprawling everywhere
+34,4,0,2,75,did you have a good time
+35,4,0,2,75,not quite so smart as you think
+36,4,0,2,75,effort is what it will take
+37,4,0,2,75,i do not fully agree with you
+38,4,0,2,75,the cream rises to the top
+39,4,0,2,75,come and see our new car
+40,4,0,2,75,a tumor is okay provided it is benign
+41,5,1,2,75,we accept personal checks
+42,5,1,2,75,watch out for low flying objects
+43,5,1,2,75,vote according to your conscience
+44,5,1,2,75,do you prefer a window seat
+45,5,1,2,75,the second largest country
+46,5,1,2,75,please keep this confidential
+47,5,1,2,75,valium in the economy size
+48,5,1,2,75,get your priorities in order
+49,5,1,2,75,do not walk too quickly
+50,5,1,2,75,get aboard the ship is leaving
+51,6,1,2,75,be persistent to win a strike
+52,6,1,2,75,dolphins leap high out of the water
+53,6,1,2,75,my bike has a flat tire
+54,6,1,2,75,sing the gospel and the blues
+55,6,1,2,75,the price of gas is high
+56,6,1,2,75,canada has three territories
+57,6,1,2,75,the library is closed today
+58,6,1,2,75,the plug does not fit the socket
+59,6,1,2,75,the dog will bite you
+60,6,1,2,75,two or three cups of coffee
+61,7,0,2,50,my car always breaks in the winter
+62,7,0,2,50,flashing red light means stop
+63,7,0,2,50,the opposing team is over there
+64,7,0,2,50,the minimum amount of time
+65,7,0,2,50,space is a high priority
+66,7,0,2,50,presidents drive expensive cars
+67,7,0,2,50,everyone wants to win the lottery
+68,7,0,2,50,my favorite web browser
+69,7,0,2,50,we must redouble our efforts
+70,7,0,2,50,goldilocks and the three bears
+71,8,1,2,50,very reluctant to enter
+72,8,1,2,50,public transit is much faster
+73,8,1,2,50,well connected with people
+74,8,1,2,50,you have my sympathy
+75,8,1,2,50,prayer in schools offends some
+76,8,1,2,50,universally understood to be wrong
+77,8,1,2,50,you will lose your voice
+78,8,1,2,50,they love to yap about nothing
+79,8,1,2,50,dormitory doors are locked at midnight
+80,8,1,2,50,have a good weekend
+81,9,1,2,50,on the way to the cottage
+82,9,1,2,50,a touchdown in the last minute
+83,9,1,2,50,that land is owned by the government
+84,9,1,2,50,the music is better than it sounds
+85,9,1,2,50,i can still feel your presence
+86,9,1,2,50,he is still on our team
+87,9,1,2,50,what you see is what you get
+88,9,1,2,50,i hate baking pies
+89,9,1,2,50,vanilla flavored ice cream
+90,9,1,2,50,teaching services will help
+91,10,0,2,0,make my day you sucker
+92,10,0,2,0,yes you are very smart
+93,10,0,2,0,hair gel is very greasy
+94,10,0,2,0,tickets are very expensive
+95,10,0,2,0,this is too much to handle
+96,10,0,2,0,protect your environment
+97,10,0,2,0,lydia wants to go home
+98,10,0,2,0,sad to hear that news
+99,10,0,2,0,the water was monitored daily
+100,10,0,2,0,double double toil and trouble
+101,11,1,2,0,the aspirations of a nation
+102,11,1,2,0,questioning the wisdom of the courts
+103,11,1,2,0,medieval times were very hard
+104,11,1,2,0,the biggest hamburger i have ever seen
+105,11,1,2,0,employee recruitment takes a lot of effort
+106,11,1,2,0,i want to hold your hand
+107,11,1,2,0,that agreement is rife with problems
+108,11,1,2,0,luckily my wallet was found
+109,11,1,2,0,the protesters blocked all traffic
+110,11,1,2,0,it looks like a shack
+111,12,1,2,0,mom made her a turtleneck
+112,12,1,2,0,the imagination of the nation
+113,12,1,2,0,consequences of a wrong turn
+114,12,1,2,0,zero in on the facts
+115,12,1,2,0,rapidly running short on words
+116,12,1,2,0,her majesty visited our country
+117,12,1,2,0,just what the doctor ordered
+118,12,1,2,0,i do not care if you do that
+119,12,1,2,0,completely sold out of that
+120,12,1,2,0,that sticker needs to be validated
+121,13,0,2,100,my bank account is overdrawn
+122,13,0,2,100,jumping right out of the water
+123,13,0,2,100,coalition governments never work
+124,13,0,2,100,in sharp contrast to your words
+125,13,0,2,100,see you later alligator
+126,13,0,2,100,the dreamers of dreams
+127,13,0,2,100,the proprietor was unavailable
+128,13,0,2,100,if you were not so stupid
+129,13,0,2,100,it is difficult to concentrate
+130,13,0,2,100,we park in driveways
+131,14,1,2,100,can i skate with my sister today
+132,14,1,2,100,i like baroque and classical music
+133,14,1,2,100,the quick brown fox jumped
+134,14,1,2,100,wishful thinking is fine
+135,14,1,2,100,breathing is difficult
+136,14,1,2,100,the treasurer must balance her books
+137,14,1,2,100,my fingers are very cold
+138,14,1,2,100,that referendum asked a silly question
+139,14,1,2,100,good jobs for those with education
+140,14,1,2,100,the first time he tried to swim
+141,15,1,2,100,time to go shopping
+142,15,1,2,100,meet tomorrow in the lavatory
+143,15,1,2,100,win first prize in the contest
+144,15,1,2,100,video camera with a zoom lens
+145,15,1,2,100,a glance in the right direction
+146,15,1,2,100,do not squander your time
+147,15,1,2,100,the children are playing
+148,15,1,2,100,important news always seems to be late
+149,15,1,2,100,make up a few more phrases
+150,15,1,2,100,learn to walk before you run

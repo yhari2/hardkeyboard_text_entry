@@ -1,0 +1,150 @@
+1,1,0,0,25,the gun discharged by accident
+2,1,0,0,25,a feeling of complete exasperation
+3,1,0,0,25,vanilla flavored ice cream
+4,1,0,0,25,arguing with the boss is futile
+5,1,0,0,25,i can see the rings on saturn
+6,1,0,0,25,earthquakes are predictable
+7,1,0,0,25,every apple from every tree
+8,1,0,0,25,you have my sympathy
+9,1,0,0,25,elephants are afraid of mice
+10,1,0,0,25,we better investigate this
+11,2,1,0,25,seasoned golfers love the game
+12,2,1,0,25,peek out the window
+13,2,1,0,25,superman never wore a mask
+14,2,1,0,25,a fox is a very smart animal
+15,2,1,0,25,bad for the environment
+16,2,1,0,25,jumping right out of the water
+17,2,1,0,25,we accept personal checks
+18,2,1,0,25,they love to yap about nothing
+19,2,1,0,25,february has an extra day
+20,2,1,0,25,that sticker needs to be validated
+21,3,1,0,25,the rationale behind the decision
+22,3,1,0,25,it is difficult to concentrate
+23,3,1,0,25,interactions between men and women
+24,3,1,0,25,can we play cards tonight
+25,3,1,0,25,i do not fully agree with you
+26,3,1,0,25,have a good weekend
+27,3,1,0,25,valid until the end of the year
+28,3,1,0,25,she wears too much makeup
+29,3,1,0,25,i can play much better now
+30,3,1,0,25,this leather jacket is too warm
+31,4,0,0,100,the food at this restaurant
+32,4,0,0,100,the imagination of the nation
+33,4,0,0,100,luckily my wallet was found
+34,4,0,0,100,sprawling subdivisions are bad
+35,4,0,0,100,that referendum asked a silly question
+36,4,0,0,100,question that must be answered
+37,4,0,0,100,drove my chevy to the levee
+38,4,0,0,100,the acceptance speech was boring
+39,4,0,0,100,a quarter of a century
+40,4,0,0,100,did you see that spectacular explosion
+41,5,1,0,100,communicate through email
+42,5,1,0,100,the fire blazed all weekend
+43,5,1,0,100,gas bills are sent monthly
+44,5,1,0,100,the first time he tried to swim
+45,5,1,0,100,traveling requires a lot of fuel
+46,5,1,0,100,the early bird gets the worm
+47,5,1,0,100,these cookies are so amazing
+48,5,1,0,100,the most beautiful sunset
+49,5,1,0,100,get rid of that immediately
+50,5,1,0,100,historic meeting without a result
+51,6,1,0,100,please try to be home before midnight
+52,6,1,0,100,machinery is too complicated
+53,6,1,0,100,sign the withdrawal slip
+54,6,1,0,100,the coronation was very exciting
+55,6,1,0,100,we drive on parkways
+56,6,1,0,100,you are an ardent capitalist
+57,6,1,0,100,a tumor is okay provided it is benign
+58,6,1,0,100,healthy food is good for you
+59,6,1,0,100,rain rain go away
+60,6,1,0,100,file all complaints in writing
+61,7,0,0,75,granite is the hardest of all rocks
+62,7,0,0,75,relations are very strained
+63,7,0,0,75,never too rich and never too thin
+64,7,0,0,75,my watch fell in the water
+65,7,0,0,75,space is a high priority
+66,7,0,0,75,my favorite sport is racketball
+67,7,0,0,75,i cannot believe i ate the whole thing
+68,7,0,0,75,why do you ask silly questions
+69,7,0,0,75,the insulation is not working
+70,7,0,0,75,the music is better than it sounds
+71,8,1,0,75,the living is easy
+72,8,1,0,75,do not feel too bad about it
+73,8,1,0,75,we must redouble our efforts
+74,8,1,0,75,knee bone is connected to the thigh bone
+75,8,1,0,75,nobody cares anymore
+76,8,1,0,75,wear a crown with many jewels
+77,8,1,0,75,house with new electrical panel
+78,8,1,0,75,rapidly running short on words
+79,8,1,0,75,the assignment is due today
+80,8,1,0,75,he called seven times
+81,9,1,0,75,if diplomacy does not work
+82,9,1,0,75,the location of the crime
+83,9,1,0,75,so you think you deserve a raise
+84,9,1,0,75,for your information only
+85,9,1,0,75,the water was monitored daily
+86,9,1,0,75,he underwent triple bypass surgery
+87,9,1,0,75,the library is closed today
+88,9,1,0,75,fall is my favorite season
+89,9,1,0,75,a problem with the engine
+90,9,1,0,75,that is a very odd question
+91,10,0,0,0,not quite so smart as you think
+92,10,0,0,0,fish are jumping
+93,10,0,0,0,that agreement is rife with problems
+94,10,0,0,0,my car always breaks in the winter
+95,10,0,0,0,the daring young man
+96,10,0,0,0,stability of the nation
+97,10,0,0,0,do you get nervous when you speak
+98,10,0,0,0,important news always seems to be late
+99,10,0,0,0,burglars never leave their business card
+100,10,0,0,0,the chamber makes important decisions
+101,11,1,0,0,get aboard the ship is leaving
+102,11,1,0,0,a good response to the question
+103,11,1,0,0,we went grocery shopping
+104,11,1,0,0,the fax machine is broken
+105,11,1,0,0,we park in driveways
+106,11,1,0,0,the trains are always late
+107,11,1,0,0,all together in one big pile
+108,11,1,0,0,all work and no play
+109,11,1,0,0,quick there is someone knocking
+110,11,1,0,0,if you come home late the doors are locked
+111,12,1,0,0,accompanied by an adult
+112,12,1,0,0,pumping brakes when roads are slippery
+113,12,1,0,0,microscopes make small things look big
+114,12,1,0,0,a much higher risk of getting cancer
+115,12,1,0,0,dinosaurs have been extinct for ages
+116,12,1,0,0,the protesters blocked all traffic
+117,12,1,0,0,what to do when the oil runs dry
+118,12,1,0,0,do you like to go camping
+119,12,1,0,0,the algorithm is too complicated
+120,12,1,0,0,dolphins leap high out of the water
+121,13,0,0,50,the sun rises in the east
+122,13,0,0,50,a little encouragement is needed
+123,13,0,0,50,a rattle snake is very poisonous
+124,13,0,0,50,dormitory doors are locked at midnight
+125,13,0,0,50,on the way to the cottage
+126,13,0,0,50,an injustice is committed every day
+127,13,0,0,50,six daughters and seven sons
+128,13,0,0,50,the aspirations of a nation
+129,13,0,0,50,nothing wrong with his style
+130,13,0,0,50,a psychiatrist will help you
+131,14,1,0,50,i listen to the tape every day
+132,14,1,0,50,soon we will return from the city
+133,14,1,0,50,but the levee was dry
+134,14,1,0,50,a picture is worth many words
+135,14,1,0,50,a big scratch on the tabletop
+136,14,1,0,50,acutely aware of his good looks
+137,14,1,0,50,no more war no more bloodshed
+138,14,1,0,50,express delivery is very fast
+139,14,1,0,50,the dreamers of dreams
+140,14,1,0,50,stiff penalty for staying out late
+141,15,1,0,50,this is a very good idea
+142,15,1,0,50,we have enough witnesses
+143,15,1,0,50,learn to walk before you run
+144,15,1,0,50,the union will go on strike
+145,15,1,0,50,gun powder must be handled with care
+146,15,1,0,50,insurance is important for bad drivers
+147,15,1,0,50,the chancellor was very boring
+148,15,1,0,50,where did you get that tie
+149,15,1,0,50,starlight and dewdrop
+150,15,1,0,50,chemical spill took forever

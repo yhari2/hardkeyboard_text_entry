@@ -1,0 +1,150 @@
+1,1,0,0,75,only an idiot would lie in court
+2,1,0,0,75,freud wrote of the ego
+3,1,0,0,75,jumping right out of the water
+4,1,0,0,75,they love to yap about nothing
+5,1,0,0,75,no more war no more bloodshed
+6,1,0,0,75,knee bone is connected to the thigh bone
+7,1,0,0,75,flashing red light means stop
+8,1,0,0,75,three two one zero blast off
+9,1,0,0,75,can i skate with my sister today
+10,1,0,0,75,where did you get that tie
+11,2,1,0,75,we went grocery shopping
+12,2,1,0,75,rain rain go away
+13,2,1,0,75,interactions between men and women
+14,2,1,0,75,mary had a little lamb
+15,2,1,0,75,the living is easy
+16,2,1,0,75,i will put on my glasses
+17,2,1,0,75,go out for some pizza and beer
+18,2,1,0,75,this phenomenon will never occur
+19,2,1,0,75,please keep this confidential
+20,2,1,0,75,all work and no play
+21,3,1,0,75,your presentation was inspiring
+22,3,1,0,75,the music is better than it sounds
+23,3,1,0,75,two or three cups of coffee
+24,3,1,0,75,careless driving results in a fine
+25,3,1,0,75,the cat has a pleasant temperament
+26,3,1,0,75,the cream rises to the top
+27,3,1,0,75,everybody loses in custody battles
+28,3,1,0,75,every saturday he folds the laundry
+29,3,1,0,75,you are a wonderful example
+30,3,1,0,75,the price of gas is high
+31,4,0,0,100,i am wearing a tie and a jacket
+32,4,0,0,100,machinery is too complicated
+33,4,0,0,100,vanilla flavored ice cream
+34,4,0,0,100,spill coffee on the carpet
+35,4,0,0,100,the registration period is over
+36,4,0,0,100,drugs should be avoided
+37,4,0,0,100,be persistent to win a strike
+38,4,0,0,100,reading week is just about here
+39,4,0,0,100,the store will close at ten
+40,4,0,0,100,motivational seminars make me sick
+41,5,1,0,100,a good joke deserves a good laugh
+42,5,1,0,100,head shoulders knees and toes
+43,5,1,0,100,a picture is worth many words
+44,5,1,0,100,chemical spill took forever
+45,5,1,0,100,an airport is a very busy place
+46,5,1,0,100,an excellent way to communicate
+47,5,1,0,100,the quick brown fox jumped
+48,5,1,0,100,win first prize in the contest
+49,5,1,0,100,wishful thinking is fine
+50,5,1,0,100,the fire raged for an entire month
+51,6,1,0,100,longer than a football field
+52,6,1,0,100,lie detector tests never work
+53,6,1,0,100,get your priorities in order
+54,6,1,0,100,canada has ten provinces
+55,6,1,0,100,i cannot believe i ate the whole thing
+56,6,1,0,100,the postal service is very slow
+57,6,1,0,100,prescription drugs require a note
+58,6,1,0,100,house with new electrical panel
+59,6,1,0,100,the dog buried the bone
+60,6,1,0,100,the elevator door appears to be stuck
+61,7,0,0,50,a subject one can really enjoy
+62,7,0,0,50,prayer in schools offends some
+63,7,0,0,50,the facts get in the way
+64,7,0,0,50,peering through a small hole
+65,7,0,0,50,can we play cards tonight
+66,7,0,0,50,that is very unfortunate
+67,7,0,0,50,rapidly running short on words
+68,7,0,0,50,the fourth edition was better
+69,7,0,0,50,bring the offenders to justice
+70,7,0,0,50,please provide your date of birth
+71,8,1,0,50,he is still on our team
+72,8,1,0,50,the sun rises in the east
+73,8,1,0,50,they watched the entire movie
+74,8,1,0,50,what a monkey sees a monkey will do
+75,8,1,0,50,this watch is too expensive
+76,8,1,0,50,the high waves will swamp us
+77,8,1,0,50,dolphins leap high out of the water
+78,8,1,0,50,her majesty visited our country
+79,8,1,0,50,join us on the patio
+80,8,1,0,50,sing the gospel and the blues
+81,9,1,0,50,this is a very good idea
+82,9,1,0,50,we run the risk of failure
+83,9,1,0,50,the bus was very crowded
+84,9,1,0,50,every apple from every tree
+85,9,1,0,50,fall is my favorite season
+86,9,1,0,50,the first time he tried to swim
+87,9,1,0,50,my bike has a flat tire
+88,9,1,0,50,construction makes traveling difficult
+89,9,1,0,50,peek out the window
+90,9,1,0,50,see you later alligator
+91,10,0,0,25,for murder you get a long prison sentence
+92,10,0,0,25,the opposing team is over there
+93,10,0,0,25,coalition governments never work
+94,10,0,0,25,a good response to the question
+95,10,0,0,25,shivering is one way to keep warm
+96,10,0,0,25,that is a very nasty cut
+97,10,0,0,25,a steep learning curve in riding a unicycle
+98,10,0,0,25,the laser printer is jammed
+99,10,0,0,25,batman wears a cape
+100,10,0,0,25,the biggest hamburger i have ever seen
+101,11,1,0,25,beware the ides of march
+102,11,1,0,25,a tumor is okay provided it is benign
+103,11,1,0,25,i will meet you at noon
+104,11,1,0,25,bank transaction was not registered
+105,11,1,0,25,salesmen must make their monthly quota
+106,11,1,0,25,do not say anything
+107,11,1,0,25,double double toil and trouble
+108,11,1,0,25,my car always breaks in the winter
+109,11,1,0,25,sit at the front of the bus
+110,11,1,0,25,on the way to the cottage
+111,12,1,0,25,keep receipts for all your expenses
+112,12,1,0,25,if you come home late the doors are locked
+113,12,1,0,25,if diplomacy does not work
+114,12,1,0,25,the assault took six months
+115,12,1,0,25,this leather jacket is too warm
+116,12,1,0,25,are you talking to me
+117,12,1,0,25,you must be getting old
+118,12,1,0,25,do a good deed to someone
+119,12,1,0,25,victims deserve more redress
+120,12,1,0,25,microscopes make small things look big
+121,13,0,0,0,the kids are very excited
+122,13,0,0,0,nobody cares anymore
+123,13,0,0,0,arguing with the boss is futile
+124,13,0,0,0,labor unions know how to organize
+125,13,0,0,0,i hate baking pies
+126,13,0,0,0,breathing is difficult
+127,13,0,0,0,raindrops keep falling on my head
+128,13,0,0,0,hair gel is very greasy
+129,13,0,0,0,nothing finer than discovering a treasure
+130,13,0,0,0,a dog is the best friend of a man
+131,14,1,0,0,universities are too expensive
+132,14,1,0,0,do not walk too quickly
+133,14,1,0,0,the coronation was very exciting
+134,14,1,0,0,make up a few more phrases
+135,14,1,0,0,the plug does not fit the socket
+136,14,1,0,0,that sticker needs to be validated
+137,14,1,0,0,give me one spoonful of coffee
+138,14,1,0,0,elections bring out the best
+139,14,1,0,0,he called seven times
+140,14,1,0,0,my favorite sport is racketball
+141,15,1,0,0,frequently asked questions
+142,15,1,0,0,questioning the wisdom of the courts
+143,15,1,0,0,you will lose your voice
+144,15,1,0,0,i am going to a music lesson
+145,15,1,0,0,six daughters and seven sons
+146,15,1,0,0,a security force of eight thousand
+147,15,1,0,0,the treasury department is broke
+148,15,1,0,0,the chamber makes important decisions
+149,15,1,0,0,he is just like everyone else
+150,15,1,0,0,it is difficult to concentrate

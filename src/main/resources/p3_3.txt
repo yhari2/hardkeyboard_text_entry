@@ -1,0 +1,150 @@
+1,1,0,2,75,accompanied by an adult
+2,1,0,2,75,the postal service is very slow
+3,1,0,2,75,machinery is too complicated
+4,1,0,2,75,starlight and dewdrop
+5,1,0,2,75,just like it says on the canned good
+6,1,0,2,75,thank you for your help
+7,1,0,2,75,he played a hero in that movie
+8,1,0,2,75,listen to five hours of opera
+9,1,0,2,75,this person is a disaster
+10,1,0,2,75,prepare for the exam in advance
+11,2,1,2,75,do not feel too bad about it
+12,2,1,2,75,the pen is mightier than the sword
+13,2,1,2,75,beware the ides of march
+14,2,1,2,75,a fox is a very smart animal
+15,2,1,2,75,sharp cheese keeps the mind sharp
+16,2,1,2,75,the dog buried the bone
+17,2,1,2,75,make up a few more phrases
+18,2,1,2,75,not quite so smart as you think
+19,2,1,2,75,weeping willows are found near water
+20,2,1,2,75,the proprietor was unavailable
+21,3,1,2,75,the kids are very excited
+22,3,1,2,75,sing the gospel and the blues
+23,3,1,2,75,just in time for the party
+24,3,1,2,75,the facts get in the way
+25,3,1,2,75,a most ridiculous thing
+26,3,1,2,75,you are not a jedi yet
+27,3,1,2,75,prescription drugs require a note
+28,3,1,2,75,our fax number has changed
+29,3,1,2,75,learn to walk before you run
+30,3,1,2,75,every saturday he folds the laundry
+31,4,0,2,25,it should be sunny tomorrow
+32,4,0,2,25,what a monkey sees a monkey will do
+33,4,0,2,25,what goes up must come down
+34,4,0,2,25,canada has three territories
+35,4,0,2,25,the cream rises to the top
+36,4,0,2,25,you want to eat your cake
+37,4,0,2,25,do a good deed to someone
+38,4,0,2,25,go out for some pizza and beer
+39,4,0,2,25,the opposing team is over there
+40,4,0,2,25,take it to the recycling depot
+41,5,1,2,25,only an idiot would lie in court
+42,5,1,2,25,the assignment is due today
+43,5,1,2,25,take a coffee break
+44,5,1,2,25,i just cannot figure this out
+45,5,1,2,25,rent is paid at the beginning of the month
+46,5,1,2,25,the registration period is over
+47,5,1,2,25,we are having spaghetti
+48,5,1,2,25,file all complaints in writing
+49,5,1,2,25,the stock exchange dipped
+50,5,1,2,25,be home before midnight
+51,6,1,2,25,the most beautiful sunset
+52,6,1,2,25,a good joke deserves a good laugh
+53,6,1,2,25,buckle up for safety
+54,6,1,2,25,gamblers eventually lose their shirts
+55,6,1,2,25,important news always seems to be late
+56,6,1,2,25,that agreement is rife with problems
+57,6,1,2,25,make my day you sucker
+58,6,1,2,25,my favorite place to visit
+59,6,1,2,25,the dog will bite you
+60,6,1,2,25,a touchdown in the last minute
+61,7,0,2,50,can we play cards tonight
+62,7,0,2,50,you must be getting old
+63,7,0,2,50,house with new electrical panel
+64,7,0,2,50,be persistent to win a strike
+65,7,0,2,50,flashing red light means stop
+66,7,0,2,50,the dreamers of dreams
+67,7,0,2,50,he underwent triple bypass surgery
+68,7,0,2,50,we better investigate this
+69,7,0,2,50,i hate baking pies
+70,7,0,2,50,always cover all the bases
+71,8,1,2,50,the ropes of a new organization
+72,8,1,2,50,the algorithm is too complicated
+73,8,1,2,50,the insulation is not working
+74,8,1,2,50,i like baroque and classical music
+75,8,1,2,50,mystery of the lost lagoon
+76,8,1,2,50,i am wearing a tie and a jacket
+77,8,1,2,50,i cannot believe i ate the whole thing
+78,8,1,2,50,medieval times were very hard
+79,8,1,2,50,an airport is a very busy place
+80,8,1,2,50,the cotton is high
+81,9,1,2,50,the chamber makes important decisions
+82,9,1,2,50,great disturbance in the force
+83,9,1,2,50,work hard to reach the summit
+84,9,1,2,50,completely sold out of that
+85,9,1,2,50,the water was monitored daily
+86,9,1,2,50,we went grocery shopping
+87,9,1,2,50,my fingers are very cold
+88,9,1,2,50,there will be some fog tonight
+89,9,1,2,50,get your priorities in order
+90,9,1,2,50,no kissing in the library
+91,10,0,2,0,the treasurer must balance her books
+92,10,0,2,0,information super highway
+93,10,0,2,0,spill coffee on the carpet
+94,10,0,2,0,do not drink too much
+95,10,0,2,0,meet tomorrow in the lavatory
+96,10,0,2,0,i listen to the tape every day
+97,10,0,2,0,it looks like a shack
+98,10,0,2,0,just what the doctor ordered
+99,10,0,2,0,for murder you get a long prison sentence
+100,10,0,2,0,luckily my wallet was found
+101,11,1,2,0,this system of taxation
+102,11,1,2,0,beautiful paintings in the gallery
+103,11,1,2,0,i want to hold your hand
+104,11,1,2,0,one heck of a question
+105,11,1,2,0,we are subjects and must obey
+106,11,1,2,0,yes you are very smart
+107,11,1,2,0,motivational seminars make me sick
+108,11,1,2,0,that referendum asked a silly question
+109,11,1,2,0,in sharp contrast to your words
+110,11,1,2,0,stability of the nation
+111,12,1,2,0,stay away from strangers
+112,12,1,2,0,a picture is worth many words
+113,12,1,2,0,important for political parties
+114,12,1,2,0,i spilled coffee on the carpet
+115,12,1,2,0,they might find your comment offensive
+116,12,1,2,0,the quick brown fox jumped
+117,12,1,2,0,the voters turfed him out
+118,12,1,2,0,people blow their own horn a lot
+119,12,1,2,0,staying up all night is a bad idea
+120,12,1,2,0,please provide your date of birth
+121,13,0,2,100,a subject one can really enjoy
+122,13,0,2,100,electric cars need big fuel cells
+123,13,0,2,100,is there any indication of this
+124,13,0,2,100,where can my little dog be
+125,13,0,2,100,please take a bath this month
+126,13,0,2,100,raindrops keep falling on my head
+127,13,0,2,100,companies announce a merger
+128,13,0,2,100,i am allergic to bees and peanuts
+129,13,0,2,100,hair gel is very greasy
+130,13,0,2,100,public transit is much faster
+131,14,1,2,100,this is a very good idea
+132,14,1,2,100,what you see is what you get
+133,14,1,2,100,i took the rover from the shop
+134,14,1,2,100,universally understood to be wrong
+135,14,1,2,100,the rationale behind the decision
+136,14,1,2,100,this is a non profit organization
+137,14,1,2,100,this mission statement is baloney
+138,14,1,2,100,jumping right out of the water
+139,14,1,2,100,do not squander your time
+140,14,1,2,100,longer than a football field
+141,15,1,2,100,why do you ask silly questions
+142,15,1,2,100,travel at the speed of light
+143,15,1,2,100,the fourth edition was better
+144,15,1,2,100,want to join us for lunch
+145,15,1,2,100,wear a crown with many jewels
+146,15,1,2,100,the library is closed today
+147,15,1,2,100,the cat has a pleasant temperament
+148,15,1,2,100,exercise is good for the mind
+149,15,1,2,100,the king sends you to the tower
+150,15,1,2,100,a little encouragement is needed

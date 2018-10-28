@@ -1,0 +1,150 @@
+1,1,0,2,25,the bathroom is good for reading
+2,1,0,2,25,the dog will bite you
+3,1,0,2,25,people blow their own horn a lot
+4,1,0,2,25,i hate baking pies
+5,1,0,2,25,rent is paid at the beginning of the month
+6,1,0,2,25,the dow jones index has risen
+7,1,0,2,25,this camera takes nice photographs
+8,1,0,2,25,an occasional taste of chocolate
+9,1,0,2,25,we missed your birthday
+10,1,0,2,25,find a nearby parking spot
+11,2,1,2,25,do not drink too much
+12,2,1,2,25,all work and no play
+13,2,1,2,25,this mission statement is baloney
+14,2,1,2,25,vote according to your conscience
+15,2,1,2,25,knee bone is connected to the thigh bone
+16,2,1,2,25,put garbage in an abandoned mine
+17,2,1,2,25,he played a hero in that movie
+18,2,1,2,25,space is a high priority
+19,2,1,2,25,the high waves will swamp us
+20,2,1,2,25,freud wrote of the ego
+21,3,1,2,25,the children are playing
+22,3,1,2,25,bring the offenders to justice
+23,3,1,2,25,he underwent triple bypass surgery
+24,3,1,2,25,mary had a little lamb
+25,3,1,2,25,this is too much to handle
+26,3,1,2,25,your presentation was inspiring
+27,3,1,2,25,one heck of a question
+28,3,1,2,25,a fox is a very smart animal
+29,3,1,2,25,no more war no more bloodshed
+30,3,1,2,25,the bus was very crowded
+31,4,0,2,50,see you later alligator
+32,4,0,2,50,earthquakes are predictable
+33,4,0,2,50,important for political parties
+34,4,0,2,50,a very traditional way to dress
+35,4,0,2,50,the cotton is high
+36,4,0,2,50,i like to play tennis
+37,4,0,2,50,can we play cards tonight
+38,4,0,2,50,my preferred treat is chocolate
+39,4,0,2,50,i can see the rings on saturn
+40,4,0,2,50,teaching services will help
+41,5,1,2,50,raindrops keep falling on my head
+42,5,1,2,50,always cover all the bases
+43,5,1,2,50,the insulation is not working
+44,5,1,2,50,we run the risk of failure
+45,5,1,2,50,no kissing in the library
+46,5,1,2,50,get rid of that immediately
+47,5,1,2,50,watch out for low flying objects
+48,5,1,2,50,join us on the patio
+49,5,1,2,50,is there any indication of this
+50,5,1,2,50,universities are too expensive
+51,6,1,2,50,pumping brakes when roads are slippery
+52,6,1,2,50,i cannot believe i ate the whole thing
+53,6,1,2,50,but the levee was dry
+54,6,1,2,50,sit at the front of the bus
+55,6,1,2,50,sad to hear that news
+56,6,1,2,50,flashing red light means stop
+57,6,1,2,50,peek out the window
+58,6,1,2,50,the objective of the exercise
+59,6,1,2,50,they love to yap about nothing
+60,6,1,2,50,the algorithm is too complicated
+61,7,0,2,75,we must redouble our efforts
+62,7,0,2,75,the chancellor was very boring
+63,7,0,2,75,consequences of a wrong turn
+64,7,0,2,75,learn to walk before you run
+65,7,0,2,75,well connected with people
+66,7,0,2,75,a problem with the engine
+67,7,0,2,75,the ventilation system is broken
+68,7,0,2,75,relations are very strained
+69,7,0,2,75,prepare for the exam in advance
+70,7,0,2,75,irregular verbs are the hardest to learn
+71,8,1,2,75,a thoroughly disgusting thing to say
+72,8,1,2,75,come and see our new car
+73,8,1,2,75,my favorite place to visit
+74,8,1,2,75,the accident scene is a shrine for fans
+75,8,1,2,75,you are an ardent capitalist
+76,8,1,2,75,very reluctant to enter
+77,8,1,2,75,beautiful paintings in the gallery
+78,8,1,2,75,she wears too much makeup
+79,8,1,2,75,a steep learning curve in riding a unicycle
+80,8,1,2,75,her majesty visited our country
+81,9,1,2,75,bank transaction was not registered
+82,9,1,2,75,i will put on my glasses
+83,9,1,2,75,my bike has a flat tire
+84,9,1,2,75,my favorite web browser
+85,9,1,2,75,six daughters and seven sons
+86,9,1,2,75,this is a very good idea
+87,9,1,2,75,take it to the recycling depot
+88,9,1,2,75,safe to walk the streets in the evening
+89,9,1,2,75,you are not a jedi yet
+90,9,1,2,75,be discreet about your meeting
+91,10,0,2,0,a feeling of complete exasperation
+92,10,0,2,0,shall we play a round of cards
+93,10,0,2,0,a good response to the question
+94,10,0,2,0,spill coffee on the carpet
+95,10,0,2,0,two or three cups of coffee
+96,10,0,2,0,an offer you cannot refuse
+97,10,0,2,0,dolphins leap high out of the water
+98,10,0,2,0,it is very windy today
+99,10,0,2,0,you must make an appointment
+100,10,0,2,0,the aspirations of a nation
+101,11,1,2,0,he watched in astonishment
+102,11,1,2,0,do you get nervous when you speak
+103,11,1,2,0,a touchdown in the last minute
+104,11,1,2,0,interactions between men and women
+105,11,1,2,0,the fax machine is broken
+106,11,1,2,0,question that must be answered
+107,11,1,2,0,a big scratch on the tabletop
+108,11,1,2,0,good at addition and subtraction
+109,11,1,2,0,do not walk too quickly
+110,11,1,2,0,your etiquette needs some work
+111,12,1,2,0,please provide your date of birth
+112,12,1,2,0,wear a crown with many jewels
+113,12,1,2,0,i skimmed through your proposal
+114,12,1,2,0,you are a wonderful example
+115,12,1,2,0,work hard to reach the summit
+116,12,1,2,0,the sum of the parts
+117,12,1,2,0,valium in the economy size
+118,12,1,2,0,you must be getting old
+119,12,1,2,0,physics and chemistry are hard
+120,12,1,2,0,the second largest country
+121,13,0,2,100,breathing is difficult
+122,13,0,2,100,every apple from every tree
+123,13,0,2,100,the presidential suite is very busy
+124,13,0,2,100,fall is my favorite season
+125,13,0,2,100,be home before midnight
+126,13,0,2,100,there are winners and losers
+127,13,0,2,100,important news always seems to be late
+128,13,0,2,100,the cat has a pleasant temperament
+129,13,0,2,100,a psychiatrist will help you
+130,13,0,2,100,taking the train is usually faster
+131,14,1,2,100,one of the poorest nations
+132,14,1,2,100,salesmen must make their monthly quota
+133,14,1,2,100,a little encouragement is needed
+134,14,1,2,100,this phenomenon will never occur
+135,14,1,2,100,all good boys deserve fudge
+136,14,1,2,100,this is a non profit organization
+137,14,1,2,100,he is still on our team
+138,14,1,2,100,the imagination of the nation
+139,14,1,2,100,quit while you are ahead
+140,14,1,2,100,the trains are always late
+141,15,1,2,100,travel at the speed of light
+142,15,1,2,100,that agreement is rife with problems
+143,15,1,2,100,dinosaurs have been extinct for ages
+144,15,1,2,100,this equation is too complicated
+145,15,1,2,100,these cookies are so amazing
+146,15,1,2,100,machinery is too complicated
+147,15,1,2,100,the ropes of a new organization
+148,15,1,2,100,house with new electrical panel
+149,15,1,2,100,burglars never leave their business card
+150,15,1,2,100,the first time he tried to swim

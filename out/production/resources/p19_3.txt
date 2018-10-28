@@ -1,0 +1,150 @@
+1,1,0,2,25,the accident scene is a shrine for fans
+2,1,0,2,25,sit at the front of the bus
+3,1,0,2,25,experience is hard to come by
+4,1,0,2,25,stability of the nation
+5,1,0,2,25,zero in on the facts
+6,1,0,2,25,hands on experience with a job
+7,1,0,2,25,have a good weekend
+8,1,0,2,25,this leather jacket is too warm
+9,1,0,2,25,i cannot believe i ate the whole thing
+10,1,0,2,25,two or three cups of coffee
+11,2,1,2,25,rent is paid at the beginning of the month
+12,2,1,2,25,he is shouting loudly
+13,2,1,2,25,put garbage in an abandoned mine
+14,2,1,2,25,the ropes of a new organization
+15,2,1,2,25,it looks like a shack
+16,2,1,2,25,the capitol of our nation
+17,2,1,2,25,there are winners and losers
+18,2,1,2,25,irregular verbs are the hardest to learn
+19,2,1,2,25,an injustice is committed every day
+20,2,1,2,25,the bus was very crowded
+21,3,1,2,25,just in time for the party
+22,3,1,2,25,if at first you do not succeed
+23,3,1,2,25,you should visit a doctor
+24,3,1,2,25,microscopes make small things look big
+25,3,1,2,25,we must redouble our efforts
+26,3,1,2,25,travel at the speed of light
+27,3,1,2,25,take a coffee break
+28,3,1,2,25,the registration period is over
+29,3,1,2,25,he cooled off after she left
+30,3,1,2,25,the insulation is not working
+31,4,0,2,100,get rid of that immediately
+32,4,0,2,100,the pen is mightier than the sword
+33,4,0,2,100,one of the poorest nations
+34,4,0,2,100,fall is my favorite season
+35,4,0,2,100,the chamber makes important decisions
+36,4,0,2,100,stiff penalty for staying out late
+37,4,0,2,100,no exchange without a bill
+38,4,0,2,100,the second largest country
+39,4,0,2,100,circumstances are unacceptable
+40,4,0,2,100,space is a high priority
+41,5,1,2,100,i skimmed through your proposal
+42,5,1,2,100,why do you ask silly questions
+43,5,1,2,100,sharp cheese keeps the mind sharp
+44,5,1,2,100,traveling requires a lot of fuel
+45,5,1,2,100,sad to hear that news
+46,5,1,2,100,fish are jumping
+47,5,1,2,100,the winner of the race
+48,5,1,2,100,where did you get that tie
+49,5,1,2,100,lydia wants to go home
+50,5,1,2,100,but the levee was dry
+51,6,1,2,100,you must be getting old
+52,6,1,2,100,question that must be answered
+53,6,1,2,100,the fourth edition was better
+54,6,1,2,100,the treasury department is broke
+55,6,1,2,100,this library has many books
+56,6,1,2,100,do you get nervous when you speak
+57,6,1,2,100,the fire blazed all weekend
+58,6,1,2,100,just like it says on the canned good
+59,6,1,2,100,canada has three territories
+60,6,1,2,100,knee bone is connected to the thigh bone
+61,7,0,2,0,prescription drugs require a note
+62,7,0,2,0,i am allergic to bees and peanuts
+63,7,0,2,0,universities are too expensive
+64,7,0,2,0,do not drink too much
+65,7,0,2,0,she wears too much makeup
+66,7,0,2,0,this system of taxation
+67,7,0,2,0,the food at this restaurant
+68,7,0,2,0,join us on the patio
+69,7,0,2,0,we park in driveways
+70,7,0,2,0,three two one zero blast off
+71,8,1,2,0,dormitory doors are locked at midnight
+72,8,1,2,0,do a good deed to someone
+73,8,1,2,0,i can still feel your presence
+74,8,1,2,0,beautiful paintings in the gallery
+75,8,1,2,0,this person is a disaster
+76,8,1,2,0,the king sends you to the tower
+77,8,1,2,0,play it again sam
+78,8,1,2,0,goldilocks and the three bears
+79,8,1,2,0,did you see that spectacular explosion
+80,8,1,2,0,the dreamers of dreams
+81,9,1,2,0,can we play cards tonight
+82,9,1,2,0,we missed your birthday
+83,9,1,2,0,suburbs are sprawling everywhere
+84,9,1,2,0,that is a very nasty cut
+85,9,1,2,0,motivational seminars make me sick
+86,9,1,2,0,my dog sheds his hair
+87,9,1,2,0,bank transaction was not registered
+88,9,1,2,0,try to enjoy your maternity leave
+89,9,1,2,0,please take a bath this month
+90,9,1,2,0,a dog is the best friend of a man
+91,10,0,2,75,the sum of the parts
+92,10,0,2,75,this is a very good idea
+93,10,0,2,75,weeping willows are found near water
+94,10,0,2,75,tickets are very expensive
+95,10,0,2,75,my favorite sport is racketball
+96,10,0,2,75,that sticker needs to be validated
+97,10,0,2,75,these barracks are big enough
+98,10,0,2,75,taking the train is usually faster
+99,10,0,2,75,we accept personal checks
+100,10,0,2,75,i like to play tennis
+101,11,1,2,75,six daughters and seven sons
+102,11,1,2,75,the collapse of the roman empire
+103,11,1,2,75,the music is better than it sounds
+104,11,1,2,75,if you come home late the doors are locked
+105,11,1,2,75,saving that child was a heroic effort
+106,11,1,2,75,i want to hold your hand
+107,11,1,2,75,life is but a dream
+108,11,1,2,75,he underwent triple bypass surgery
+109,11,1,2,75,the algorithm is too complicated
+110,11,1,2,75,an inefficient way to heat a house
+111,12,1,2,75,we have enough witnesses
+112,12,1,2,75,parking tickets can be challenged
+113,12,1,2,75,you are an ardent capitalist
+114,12,1,2,75,the largest of the five oceans
+115,12,1,2,75,the cream rises to the top
+116,12,1,2,75,time to go shopping
+117,12,1,2,75,rain rain go away
+118,12,1,2,75,there will be some fog tonight
+119,12,1,2,75,salesmen must make their monthly quota
+120,12,1,2,75,mary had a little lamb
+121,13,0,2,50,important for political parties
+122,13,0,2,50,chemical spill took forever
+123,13,0,2,50,faster than a speeding bullet
+124,13,0,2,50,mystery of the lost lagoon
+125,13,0,2,50,nothing wrong with his style
+126,13,0,2,50,this is a non profit organization
+127,13,0,2,50,my fingers are very cold
+128,13,0,2,50,that referendum asked a silly question
+129,13,0,2,50,i am wearing a tie and a jacket
+130,13,0,2,50,what a lovely red jacket
+131,14,1,2,50,i like baroque and classical music
+132,14,1,2,50,we dine out on the weekends
+133,14,1,2,50,the kids are very excited
+134,14,1,2,50,the stock exchange dipped
+135,14,1,2,50,a psychiatrist will help you
+136,14,1,2,50,questioning the wisdom of the courts
+137,14,1,2,50,sprawling subdivisions are bad
+138,14,1,2,50,the sun rises in the east
+139,14,1,2,50,where did you get such a silly idea
+140,14,1,2,50,do you like to go camping
+141,15,1,2,50,the cotton is high
+142,15,1,2,50,call for more details
+143,15,1,2,50,seasoned golfers love the game
+144,15,1,2,50,i am going to a music lesson
+145,15,1,2,50,listen to five hours of opera
+146,15,1,2,50,raindrops keep falling on my head
+147,15,1,2,50,see you later alligator
+148,15,1,2,50,head shoulders knees and toes
+149,15,1,2,50,bring the offenders to justice
+150,15,1,2,50,one never takes too many precautions

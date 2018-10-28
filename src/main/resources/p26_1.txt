@@ -1,0 +1,150 @@
+1,1,0,1,0,get aboard the ship is leaving
+2,1,0,1,0,handicapped persons need consideration
+3,1,0,1,0,we better investigate this
+4,1,0,1,0,tickets are very expensive
+5,1,0,1,0,fine but only in moderation
+6,1,0,1,0,this leather jacket is too warm
+7,1,0,1,0,the library is closed today
+8,1,0,1,0,have a good weekend
+9,1,0,1,0,vote according to your conscience
+10,1,0,1,0,circumstances are unacceptable
+11,2,1,1,0,the location of the crime
+12,2,1,1,0,head shoulders knees and toes
+13,2,1,1,0,prescription drugs require a note
+14,2,1,1,0,taking the train is usually faster
+15,2,1,1,0,please follow the guidelines
+16,2,1,1,0,meet tomorrow in the lavatory
+17,2,1,1,0,if you were not so stupid
+18,2,1,1,0,seasoned golfers love the game
+19,2,1,1,0,my fingers are very cold
+20,2,1,1,0,i am wearing a tie and a jacket
+21,3,1,1,0,sad to hear that news
+22,3,1,1,0,just what the doctor ordered
+23,3,1,1,0,for your information only
+24,3,1,1,0,correct your diction immediately
+25,3,1,1,0,destruction of the rain forest
+26,3,1,1,0,my preferred treat is chocolate
+27,3,1,1,0,toss the ball around
+28,3,1,1,0,quit while you are ahead
+29,3,1,1,0,he was wearing a sweatshirt
+30,3,1,1,0,saving that child was a heroic effort
+31,4,0,1,25,jumping right out of the water
+32,4,0,1,25,yes you are very smart
+33,4,0,1,25,beautiful paintings in the gallery
+34,4,0,1,25,do not say anything
+35,4,0,1,25,the algorithm is too complicated
+36,4,0,1,25,the most beautiful sunset
+37,4,0,1,25,faster than a speeding bullet
+38,4,0,1,25,knee bone is connected to the thigh bone
+39,4,0,1,25,the fire raged for an entire month
+40,4,0,1,25,my mother makes good cookies
+41,5,1,1,25,all work and no play
+42,5,1,1,25,do not drink the water
+43,5,1,1,25,he is still on our team
+44,5,1,1,25,are you talking to me
+45,5,1,1,25,that agreement is rife with problems
+46,5,1,1,25,a problem with the engine
+47,5,1,1,25,want to join us for lunch
+48,5,1,1,25,what a monkey sees a monkey will do
+49,5,1,1,25,teaching services will help
+50,5,1,1,25,be discreet about your meeting
+51,6,1,1,25,important news always seems to be late
+52,6,1,1,25,go out for some pizza and beer
+53,6,1,1,25,the fourth edition was better
+54,6,1,1,25,do not walk too quickly
+55,6,1,1,25,he is shouting loudly
+56,6,1,1,25,give me one spoonful of coffee
+57,6,1,1,25,elephants are afraid of mice
+58,6,1,1,25,the store will close at ten
+59,6,1,1,25,coalition governments never work
+60,6,1,1,25,buckle up for safety
+61,7,0,1,75,learn to walk before you run
+62,7,0,1,75,our life expectancy has increased
+63,7,0,1,75,that is a very odd question
+64,7,0,1,75,all good boys deserve fudge
+65,7,0,1,75,universally understood to be wrong
+66,7,0,1,75,no kissing in the library
+67,7,0,1,75,i do not care if you do that
+68,7,0,1,75,the sum of the parts
+69,7,0,1,75,the sun rises in the east
+70,7,0,1,75,flashing red light means stop
+71,8,1,1,75,it is very windy today
+72,8,1,1,75,soon we will return from the city
+73,8,1,1,75,a fox is a very smart animal
+74,8,1,1,75,a little encouragement is needed
+75,8,1,1,75,players must know all the rules
+76,8,1,1,75,the postal service is very slow
+77,8,1,1,75,please take a bath this month
+78,8,1,1,75,the dog will bite you
+79,8,1,1,75,you must be getting old
+80,8,1,1,75,the ropes of a new organization
+81,9,1,1,75,construction makes traveling difficult
+82,9,1,1,75,we must redouble our efforts
+83,9,1,1,75,prepare for the exam in advance
+84,9,1,1,75,my favorite place to visit
+85,9,1,1,75,you are an ardent capitalist
+86,9,1,1,75,lydia wants to go home
+87,9,1,1,75,the world is a stage
+88,9,1,1,75,our fax number has changed
+89,9,1,1,75,hair gel is very greasy
+90,9,1,1,75,this library has many books
+91,10,0,1,100,do you get nervous when you speak
+92,10,0,1,100,it looks like a shack
+93,10,0,1,100,a steep learning curve in riding a unicycle
+94,10,0,1,100,what you see is what you get
+95,10,0,1,100,i spilled coffee on the carpet
+96,10,0,1,100,a dog is the best friend of a man
+97,10,0,1,100,this is a non profit organization
+98,10,0,1,100,a picture is worth many words
+99,10,0,1,100,your presentation was inspiring
+100,10,0,1,100,valid until the end of the year
+101,11,1,1,100,he called seven times
+102,11,1,1,100,the chamber makes important decisions
+103,11,1,1,100,express delivery is very fast
+104,11,1,1,100,pumping brakes when roads are slippery
+105,11,1,1,100,he watched in astonishment
+106,11,1,1,100,this watch is too expensive
+107,11,1,1,100,please try to be home before midnight
+108,11,1,1,100,an offer you cannot refuse
+109,11,1,1,100,movie about a nutty professor
+110,11,1,1,100,file all complaints in writing
+111,12,1,1,100,double double toil and trouble
+112,12,1,1,100,bad for the environment
+113,12,1,1,100,our silver anniversary is coming
+114,12,1,1,100,my favorite subject is psychology
+115,12,1,1,100,the cat has a pleasant temperament
+116,12,1,1,100,quick there is someone knocking
+117,12,1,1,100,hands on experience with a job
+118,12,1,1,100,apartments are too expensive
+119,12,1,1,100,that referendum asked a silly question
+120,12,1,1,100,video camera with a zoom lens
+121,13,0,1,50,completely sold out of that
+122,13,0,1,50,my dog sheds his hair
+123,13,0,1,50,consequences of a wrong turn
+124,13,0,1,50,breathing is difficult
+125,13,0,1,50,nobody cares anymore
+126,13,0,1,50,i can see the rings on saturn
+127,13,0,1,50,granite is the hardest of all rocks
+128,13,0,1,50,are you sure you want this
+129,13,0,1,50,the capitol of our nation
+130,13,0,1,50,frequently asked questions
+131,14,1,1,50,a glance in the right direction
+132,14,1,1,50,the power of denial
+133,14,1,1,50,if you come home late the doors are locked
+134,14,1,1,50,coming up with killer sound bites
+135,14,1,1,50,i just cannot figure this out
+136,14,1,1,50,the high waves will swamp us
+137,14,1,1,50,the pen is mightier than the sword
+138,14,1,1,50,never mix religion and politics
+139,14,1,1,50,the biggest hamburger i have ever seen
+140,14,1,1,50,there will be some fog tonight
+141,15,1,1,50,most judges are very honest
+142,15,1,1,50,no more war no more bloodshed
+143,15,1,1,50,the children are playing
+144,15,1,1,50,you must make an appointment
+145,15,1,1,50,i will put on my glasses
+146,15,1,1,50,this camera takes nice photographs
+147,15,1,1,50,these cookies are so amazing
+148,15,1,1,50,pay off a mortgage for a house
+149,15,1,1,50,arguing with the boss is futile
+150,15,1,1,50,every saturday he folds the laundry

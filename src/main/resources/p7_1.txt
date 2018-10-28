@@ -1,0 +1,150 @@
+1,1,0,0,100,one of the poorest nations
+2,1,0,0,100,take a coffee break
+3,1,0,0,100,stability of the nation
+4,1,0,0,100,vanilla flavored ice cream
+5,1,0,0,100,sing the gospel and the blues
+6,1,0,0,100,the plug does not fit the socket
+7,1,0,0,100,work hard to reach the summit
+8,1,0,0,100,wear a crown with many jewels
+9,1,0,0,100,this is a very good idea
+10,1,0,0,100,sad to hear that news
+11,2,1,0,100,longer than a football field
+12,2,1,0,100,the dow jones index has risen
+13,2,1,0,100,do not lie in court or else
+14,2,1,0,100,that is a very nasty cut
+15,2,1,0,100,this camera takes nice photographs
+16,2,1,0,100,if you were not so stupid
+17,2,1,0,100,earthquakes are predictable
+18,2,1,0,100,we are subjects and must obey
+19,2,1,0,100,a rattle snake is very poisonous
+20,2,1,0,100,do a good deed to someone
+21,3,1,0,100,lie detector tests never work
+22,3,1,0,100,the fourth edition was better
+23,3,1,0,100,do you like to go camping
+24,3,1,0,100,that is very unfortunate
+25,3,1,0,100,spill coffee on the carpet
+26,3,1,0,100,on the way to the cottage
+27,3,1,0,100,in sharp contrast to your words
+28,3,1,0,100,win first prize in the contest
+29,3,1,0,100,the collapse of the roman empire
+30,3,1,0,100,do not squander your time
+31,4,0,0,50,i am going to a music lesson
+32,4,0,0,50,with each step forward
+33,4,0,0,50,destruction of the rain forest
+34,4,0,0,50,this system of taxation
+35,4,0,0,50,people blow their own horn a lot
+36,4,0,0,50,look in the syllabus for the course
+37,4,0,0,50,my car always breaks in the winter
+38,4,0,0,50,good jobs for those with education
+39,4,0,0,50,the dreamers of dreams
+40,4,0,0,50,the chancellor was very boring
+41,5,1,0,50,information super highway
+42,5,1,0,50,healthy food is good for you
+43,5,1,0,50,i took the rover from the shop
+44,5,1,0,50,a dog is the best friend of a man
+45,5,1,0,50,electric cars need big fuel cells
+46,5,1,0,50,santa claus got stuck
+47,5,1,0,50,elections bring out the best
+48,5,1,0,50,rapidly running short on words
+49,5,1,0,50,the back yard of our house
+50,5,1,0,50,a good stimulus deserves a good response
+51,6,1,0,50,tickets are very expensive
+52,6,1,0,50,traveling to conferences is fun
+53,6,1,0,50,dolphins leap high out of the water
+54,6,1,0,50,reading week is just about here
+55,6,1,0,50,get rid of that immediately
+56,6,1,0,50,i do not care if you do that
+57,6,1,0,50,there will be some fog tonight
+58,6,1,0,50,goldilocks and the three bears
+59,6,1,0,50,so you think you deserve a raise
+60,6,1,0,50,universally understood to be wrong
+61,7,0,0,25,take it to the recycling depot
+62,7,0,0,25,the minimum amount of time
+63,7,0,0,25,we have enough witnesses
+64,7,0,0,25,every apple from every tree
+65,7,0,0,25,gamblers eventually lose their shirts
+66,7,0,0,25,my bank account is overdrawn
+67,7,0,0,25,what you see is what you get
+68,7,0,0,25,this equation is too complicated
+69,7,0,0,25,the biggest hamburger i have ever seen
+70,7,0,0,25,you want to eat your cake
+71,8,1,0,25,irregular verbs are the hardest to learn
+72,8,1,0,25,if you come home late the doors are locked
+73,8,1,0,25,the store will close at ten
+74,8,1,0,25,play it again sam
+75,8,1,0,25,for murder you get a long prison sentence
+76,8,1,0,25,did you see that spectacular explosion
+77,8,1,0,25,prescription drugs require a note
+78,8,1,0,25,elephants are afraid of mice
+79,8,1,0,25,granite is the hardest of all rocks
+80,8,1,0,25,is there any indication of this
+81,9,1,0,25,listen to five hours of opera
+82,9,1,0,25,parking lot is full of trucks
+83,9,1,0,25,never mix religion and politics
+84,9,1,0,25,only an idiot would lie in court
+85,9,1,0,25,the first time he tried to swim
+86,9,1,0,25,i spilled coffee on the carpet
+87,9,1,0,25,give me one spoonful of coffee
+88,9,1,0,25,a big scratch on the tabletop
+89,9,1,0,25,safe to walk the streets in the evening
+90,9,1,0,25,that land is owned by the government
+91,10,0,0,0,the cat has a pleasant temperament
+92,10,0,0,0,hair gel is very greasy
+93,10,0,0,0,communicate through email
+94,10,0,0,0,luckily my wallet was found
+95,10,0,0,0,the quick brown fox jumped
+96,10,0,0,0,a lot of chlorine in the water
+97,10,0,0,0,handicapped persons need consideration
+98,10,0,0,0,microscopes make small things look big
+99,10,0,0,0,faster than a speeding bullet
+100,10,0,0,0,there are winners and losers
+101,11,1,0,0,well connected with people
+102,11,1,0,0,important for political parties
+103,11,1,0,0,relations are very strained
+104,11,1,0,0,the aspirations of a nation
+105,11,1,0,0,he is just like everyone else
+106,11,1,0,0,a feeling of complete exasperation
+107,11,1,0,0,very reluctant to enter
+108,11,1,0,0,an injustice is committed every day
+109,11,1,0,0,olympic athletes use drugs
+110,11,1,0,0,protect your environment
+111,12,1,0,0,this phenomenon will never occur
+112,12,1,0,0,a quarter of a century
+113,12,1,0,0,that referendum asked a silly question
+114,12,1,0,0,saving that child was a heroic effort
+115,12,1,0,0,an airport is a very busy place
+116,12,1,0,0,we must redouble our efforts
+117,12,1,0,0,stay away from strangers
+118,12,1,0,0,a good response to the question
+119,12,1,0,0,be persistent to win a strike
+120,12,1,0,0,i can still feel your presence
+121,13,0,0,75,the ropes of a new organization
+122,13,0,0,75,a thoroughly disgusting thing to say
+123,13,0,0,75,i skimmed through your proposal
+124,13,0,0,75,sharp cheese keeps the mind sharp
+125,13,0,0,75,the imagination of the nation
+126,13,0,0,75,a little encouragement is needed
+127,13,0,0,75,drugs should be avoided
+128,13,0,0,75,all together in one big pile
+129,13,0,0,75,do not feel too bad about it
+130,13,0,0,75,the objective of the exercise
+131,14,1,0,75,teaching services will help
+132,14,1,0,75,where did you get that tie
+133,14,1,0,75,buckle up for safety
+134,14,1,0,75,the power of denial
+135,14,1,0,75,it is difficult to concentrate
+136,14,1,0,75,staying up all night is a bad idea
+137,14,1,0,75,mary had a little lamb
+138,14,1,0,75,the generation gap gets wider
+139,14,1,0,75,this leather jacket is too warm
+140,14,1,0,75,raindrops keep falling on my head
+141,15,1,0,75,the facts get in the way
+142,15,1,0,75,an excellent way to communicate
+143,15,1,0,75,gas bills are sent monthly
+144,15,1,0,75,effort is what it will take
+145,15,1,0,75,every saturday he folds the laundry
+146,15,1,0,75,dormitory doors are locked at midnight
+147,15,1,0,75,valium in the economy size
+148,15,1,0,75,her majesty visited our country
+149,15,1,0,75,the protesters blocked all traffic
+150,15,1,0,75,the food at this restaurant

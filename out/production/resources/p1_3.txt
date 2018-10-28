@@ -1,0 +1,150 @@
+1,1,0,2,50,victims deserve more redress
+2,1,0,2,50,i am wearing a tie and a jacket
+3,1,0,2,50,please provide your date of birth
+4,1,0,2,50,stiff penalty for staying out late
+5,1,0,2,50,coming up with killer sound bites
+6,1,0,2,50,vote according to your conscience
+7,1,0,2,50,gun powder must be handled with care
+8,1,0,2,50,my bike has a flat tire
+9,1,0,2,50,the opposing team is over there
+10,1,0,2,50,the presidential suite is very busy
+11,2,1,2,50,the early bird gets the worm
+12,2,1,2,50,our silver anniversary is coming
+13,2,1,2,50,we must redouble our efforts
+14,2,1,2,50,the postal service is very slow
+15,2,1,2,50,the most beautiful sunset
+16,2,1,2,50,the world is a stage
+17,2,1,2,50,always cover all the bases
+18,2,1,2,50,chemical spill took forever
+19,2,1,2,50,life is but a dream
+20,2,1,2,50,fall is my favorite season
+21,3,1,2,50,where did i leave my glasses
+22,3,1,2,50,video camera with a zoom lens
+23,3,1,2,50,protect your environment
+24,3,1,2,50,two or three cups of coffee
+25,3,1,2,50,they love to yap about nothing
+26,3,1,2,50,salesmen must make their monthly quota
+27,3,1,2,50,bank transaction was not registered
+28,3,1,2,50,prayer in schools offends some
+29,3,1,2,50,travel at the speed of light
+30,3,1,2,50,do you get nervous when you speak
+31,4,0,2,75,a glance in the right direction
+32,4,0,2,75,never too rich and never too thin
+33,4,0,2,75,be persistent to win a strike
+34,4,0,2,75,head shoulders knees and toes
+35,4,0,2,75,my mother makes good cookies
+36,4,0,2,75,the music is better than it sounds
+37,4,0,2,75,i will put on my glasses
+38,4,0,2,75,a yard is almost as long as a meter
+39,4,0,2,75,the gun discharged by accident
+40,4,0,2,75,faster than a speeding bullet
+41,5,1,2,75,gamblers eventually lose their shirts
+42,5,1,2,75,i like baroque and classical music
+43,5,1,2,75,six daughters and seven sons
+44,5,1,2,75,important news always seems to be late
+45,5,1,2,75,stay away from strangers
+46,5,1,2,75,we dine out on the weekends
+47,5,1,2,75,a picture is worth many words
+48,5,1,2,75,careless driving results in a fine
+49,5,1,2,75,pay off a mortgage for a house
+50,5,1,2,75,a good response to the question
+51,6,1,2,75,this watch is too expensive
+52,6,1,2,75,that is very unfortunate
+53,6,1,2,75,soon we will return from the city
+54,6,1,2,75,thank you for your help
+55,6,1,2,75,i am going to a music lesson
+56,6,1,2,75,an airport is a very busy place
+57,6,1,2,75,he is still on our team
+58,6,1,2,75,i skimmed through your proposal
+59,6,1,2,75,my car always breaks in the winter
+60,6,1,2,75,parking lot is full of trucks
+61,7,0,2,0,public transit is much faster
+62,7,0,2,0,the rationale behind the decision
+63,7,0,2,0,your etiquette needs some work
+64,7,0,2,0,watch out for low flying objects
+65,7,0,2,0,you must be getting old
+66,7,0,2,0,the sun rises in the east
+67,7,0,2,0,a feeling of complete exasperation
+68,7,0,2,0,the daring young man
+69,7,0,2,0,the bathroom is good for reading
+70,7,0,2,0,do a good deed to someone
+71,8,1,2,0,relations are very strained
+72,8,1,2,0,they watched the entire movie
+73,8,1,2,0,are you talking to me
+74,8,1,2,0,gas bills are sent monthly
+75,8,1,2,0,what you see is what you get
+76,8,1,2,0,beware the ides of march
+77,8,1,2,0,you should visit a doctor
+78,8,1,2,0,love means many things
+79,8,1,2,0,we have enough witnesses
+80,8,1,2,0,i hate baking pies
+81,9,1,2,0,elections bring out the best
+82,9,1,2,0,popularity is desired by all
+83,9,1,2,0,my favorite sport is racketball
+84,9,1,2,0,what goes up must come down
+85,9,1,2,0,accompanied by an adult
+86,9,1,2,0,questioning the wisdom of the courts
+87,9,1,2,0,my dog sheds his hair
+88,9,1,2,0,the dreamers of dreams
+89,9,1,2,0,companies announce a merger
+90,9,1,2,0,my watch fell in the water
+91,10,0,2,25,players must know all the rules
+92,10,0,2,25,traveling to conferences is fun
+93,10,0,2,25,did you see that spectacular explosion
+94,10,0,2,25,shall we play a round of cards
+95,10,0,2,25,insurance is important for bad drivers
+96,10,0,2,25,you will lose your voice
+97,10,0,2,25,our housekeeper does a thorough job
+98,10,0,2,25,the living is easy
+99,10,0,2,25,earthquakes are predictable
+100,10,0,2,25,why do you ask silly questions
+101,11,1,2,25,the high waves will swamp us
+102,11,1,2,25,a much higher risk of getting cancer
+103,11,1,2,25,jumping right out of the water
+104,11,1,2,25,mary had a little lamb
+105,11,1,2,25,sit at the front of the bus
+106,11,1,2,25,that is a very odd question
+107,11,1,2,25,come and see our new car
+108,11,1,2,25,correct your diction immediately
+109,11,1,2,25,this system of taxation
+110,11,1,2,25,dinosaurs have been extinct for ages
+111,12,1,2,25,seasoned golfers love the game
+112,12,1,2,25,i spilled coffee on the carpet
+113,12,1,2,25,microscopes make small things look big
+114,12,1,2,25,we better investigate this
+115,12,1,2,25,labor unions know how to organize
+116,12,1,2,25,batman wears a cape
+117,12,1,2,25,this equation is too complicated
+118,12,1,2,25,we missed your birthday
+119,12,1,2,25,in sharp contrast to your words
+120,12,1,2,25,a subject one can really enjoy
+121,13,0,2,100,rapidly running short on words
+122,13,0,2,100,destruction of the rain forest
+123,13,0,2,100,put garbage in an abandoned mine
+124,13,0,2,100,spill coffee on the carpet
+125,13,0,2,100,irregular verbs are the hardest to learn
+126,13,0,2,100,presidents drive expensive cars
+127,13,0,2,100,join us on the patio
+128,13,0,2,100,meet tomorrow in the lavatory
+129,13,0,2,100,do you prefer a window seat
+130,13,0,2,100,the food at this restaurant
+131,14,1,2,100,taking the train is usually faster
+132,14,1,2,100,burglars never leave their business card
+133,14,1,2,100,completely sold out of that
+134,14,1,2,100,what a monkey sees a monkey will do
+135,14,1,2,100,olympic athletes use drugs
+136,14,1,2,100,a rattle snake is very poisonous
+137,14,1,2,100,just in time for the party
+138,14,1,2,100,arguing with the boss is futile
+139,14,1,2,100,she wears too much makeup
+140,14,1,2,100,we went grocery shopping
+141,15,1,2,100,do you like to go camping
+142,15,1,2,100,the treasury department is broke
+143,15,1,2,100,it is difficult to concentrate
+144,15,1,2,100,that referendum asked a silly question
+145,15,1,2,100,round robin scheduling
+146,15,1,2,100,the chancellor was very boring
+147,15,1,2,100,the treasurer must balance her books
+148,15,1,2,100,no kissing in the library
+149,15,1,2,100,quick there is someone knocking
+150,15,1,2,100,time to go shopping

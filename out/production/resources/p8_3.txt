@@ -1,0 +1,150 @@
+1,1,0,2,100,video camera with a zoom lens
+2,1,0,2,100,where did you get such a silly idea
+3,1,0,2,100,my bike has a flat tire
+4,1,0,2,100,the force is with you
+5,1,0,2,100,experience is hard to come by
+6,1,0,2,100,that sticker needs to be validated
+7,1,0,2,100,in sharp contrast to your words
+8,1,0,2,100,you must make an appointment
+9,1,0,2,100,we must redouble our efforts
+10,1,0,2,100,where did i leave my glasses
+11,2,1,2,100,the aspirations of a nation
+12,2,1,2,100,the chancellor was very boring
+13,2,1,2,100,raindrops keep falling on my head
+14,2,1,2,100,sad to hear that news
+15,2,1,2,100,the assault took six months
+16,2,1,2,100,question that must be answered
+17,2,1,2,100,my favorite place to visit
+18,2,1,2,100,the minimum amount of time
+19,2,1,2,100,the fax machine is broken
+20,2,1,2,100,tell a lie and your nose will grow
+21,3,1,2,100,stay away from strangers
+22,3,1,2,100,coalition governments never work
+23,3,1,2,100,be discreet about your meeting
+24,3,1,2,100,exercise is good for the mind
+25,3,1,2,100,the coronation was very exciting
+26,3,1,2,100,our housekeeper does a thorough job
+27,3,1,2,100,this leather jacket is too warm
+28,3,1,2,100,the water was monitored daily
+29,3,1,2,100,valid until the end of the year
+30,3,1,2,100,my fingers are very cold
+31,4,0,2,75,go out for some pizza and beer
+32,4,0,2,75,good at addition and subtraction
+33,4,0,2,75,the cream rises to the top
+34,4,0,2,75,the bathroom is good for reading
+35,4,0,2,75,a lot of chlorine in the water
+36,4,0,2,75,rapidly running short on words
+37,4,0,2,75,what a monkey sees a monkey will do
+38,4,0,2,75,my dog sheds his hair
+39,4,0,2,75,the world is a stage
+40,4,0,2,75,good jobs for those with education
+41,5,1,2,75,the fire blazed all weekend
+42,5,1,2,75,a steep learning curve in riding a unicycle
+43,5,1,2,75,that agreement is rife with problems
+44,5,1,2,75,not quite so smart as you think
+45,5,1,2,75,nothing wrong with his style
+46,5,1,2,75,this is a very good idea
+47,5,1,2,75,time to go shopping
+48,5,1,2,75,the presidential suite is very busy
+49,5,1,2,75,but the levee was dry
+50,5,1,2,75,healthy food is good for you
+51,6,1,2,75,soon we will return from the city
+52,6,1,2,75,this mission statement is baloney
+53,6,1,2,75,freud wrote of the ego
+54,6,1,2,75,sign the withdrawal slip
+55,6,1,2,75,exceed the maximum speed limit
+56,6,1,2,75,stiff penalty for staying out late
+57,6,1,2,75,please provide your date of birth
+58,6,1,2,75,the largest of the five oceans
+59,6,1,2,75,that referendum asked a silly question
+60,6,1,2,75,the living is easy
+61,7,0,2,25,reading week is just about here
+62,7,0,2,25,players must know all the rules
+63,7,0,2,25,the dog buried the bone
+64,7,0,2,25,i want to hold your hand
+65,7,0,2,25,companies announce a merger
+66,7,0,2,25,that is very unfortunate
+67,7,0,2,25,frequently asked questions
+68,7,0,2,25,prepare for the exam in advance
+69,7,0,2,25,information super highway
+70,7,0,2,25,labor unions know how to organize
+71,8,1,2,25,the location of the crime
+72,8,1,2,25,consequences of a wrong turn
+73,8,1,2,25,the dog will bite you
+74,8,1,2,25,an excellent way to communicate
+75,8,1,2,25,the elevator door appears to be stuck
+76,8,1,2,25,a psychiatrist will help you
+77,8,1,2,25,our life expectancy has increased
+78,8,1,2,25,machinery is too complicated
+79,8,1,2,25,vote according to your conscience
+80,8,1,2,25,one of the poorest nations
+81,9,1,2,25,our silver anniversary is coming
+82,9,1,2,25,are you talking to me
+83,9,1,2,25,rain rain go away
+84,9,1,2,25,beautiful paintings in the gallery
+85,9,1,2,25,the pen is mightier than the sword
+86,9,1,2,25,quit while you are ahead
+87,9,1,2,25,keep receipts for all your expenses
+88,9,1,2,25,all together in one big pile
+89,9,1,2,25,my preferred treat is chocolate
+90,9,1,2,25,want to join us for lunch
+91,10,0,2,50,a picture is worth many words
+92,10,0,2,50,play it again sam
+93,10,0,2,50,a big scratch on the tabletop
+94,10,0,2,50,an inefficient way to heat a house
+95,10,0,2,50,elephants are afraid of mice
+96,10,0,2,50,the king sends you to the tower
+97,10,0,2,50,a duck quacks to ask for food
+98,10,0,2,50,my watch fell in the water
+99,10,0,2,50,popularity is desired by all
+100,10,0,2,50,my bank account is overdrawn
+101,11,1,2,50,look in the syllabus for the course
+102,11,1,2,50,the high waves will swamp us
+103,11,1,2,50,olympic athletes use drugs
+104,11,1,2,50,the library is closed today
+105,11,1,2,50,this watch is too expensive
+106,11,1,2,50,elections bring out the best
+107,11,1,2,50,a good stimulus deserves a good response
+108,11,1,2,50,the early bird gets the worm
+109,11,1,2,50,all good boys deserve fudge
+110,11,1,2,50,an airport is a very busy place
+111,12,1,2,50,i will put on my glasses
+112,12,1,2,50,did you see that spectacular explosion
+113,12,1,2,50,longer than a football field
+114,12,1,2,50,batman wears a cape
+115,12,1,2,50,the chamber makes important decisions
+116,12,1,2,50,my bare face in the wind
+117,12,1,2,50,three two one zero blast off
+118,12,1,2,50,zero in on the facts
+119,12,1,2,50,a yard is almost as long as a meter
+120,12,1,2,50,important for political parties
+121,13,0,2,0,parking tickets can be challenged
+122,13,0,2,0,put garbage in an abandoned mine
+123,13,0,2,0,it should be sunny tomorrow
+124,13,0,2,0,sent this by registered mail
+125,13,0,2,0,medieval times were very hard
+126,13,0,2,0,he is still on our team
+127,13,0,2,0,work hard to reach the summit
+128,13,0,2,0,questioning the wisdom of the courts
+129,13,0,2,0,do not squander your time
+130,13,0,2,0,every apple from every tree
+131,14,1,2,0,she wears too much makeup
+132,14,1,2,0,sit at the front of the bus
+133,14,1,2,0,do you like to go camping
+134,14,1,2,0,he is just like everyone else
+135,14,1,2,0,the music is better than it sounds
+136,14,1,2,0,if you come home late the doors are locked
+137,14,1,2,0,the store will close at ten
+138,14,1,2,0,you have my sympathy
+139,14,1,2,0,staying up all night is a bad idea
+140,14,1,2,0,i listen to the tape every day
+141,15,1,2,0,two or three cups of coffee
+142,15,1,2,0,head shoulders knees and toes
+143,15,1,2,0,the treasurer must balance her books
+144,15,1,2,0,hair gel is very greasy
+145,15,1,2,0,rent is paid at the beginning of the month
+146,15,1,2,0,do you prefer a window seat
+147,15,1,2,0,the laser printer is jammed
+148,15,1,2,0,her majesty visited our country
+149,15,1,2,0,pay off a mortgage for a house
+150,15,1,2,0,an occasional taste of chocolate

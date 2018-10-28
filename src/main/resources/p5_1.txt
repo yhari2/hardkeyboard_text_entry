@@ -1,0 +1,150 @@
+1,1,0,0,25,the back yard of our house
+2,1,0,0,25,freud wrote of the ego
+3,1,0,0,25,february has an extra day
+4,1,0,0,25,stiff penalty for staying out late
+5,1,0,0,25,the collapse of the roman empire
+6,1,0,0,25,a yard is almost as long as a meter
+7,1,0,0,25,dormitory doors are locked at midnight
+8,1,0,0,25,seasoned golfers love the game
+9,1,0,0,25,every saturday he folds the laundry
+10,1,0,0,25,rain rain go away
+11,2,1,0,25,watch out for low flying objects
+12,2,1,0,25,our fax number has changed
+13,2,1,0,25,this camera takes nice photographs
+14,2,1,0,25,my dog sheds his hair
+15,2,1,0,25,the assault took six months
+16,2,1,0,25,the fire blazed all weekend
+17,2,1,0,25,pay off a mortgage for a house
+18,2,1,0,25,a quarter of a century
+19,2,1,0,25,the high waves will swamp us
+20,2,1,0,25,careless driving results in a fine
+21,3,1,0,25,no exchange without a bill
+22,3,1,0,25,want to join us for lunch
+23,3,1,0,25,if you were not so stupid
+24,3,1,0,25,the first time he tried to swim
+25,3,1,0,25,the water was monitored daily
+26,3,1,0,25,i like baroque and classical music
+27,3,1,0,25,go out for some pizza and beer
+28,3,1,0,25,fine but only in moderation
+29,3,1,0,25,find a nearby parking spot
+30,3,1,0,25,the imagination of the nation
+31,4,0,0,50,parking tickets can be challenged
+32,4,0,0,50,not quite so smart as you think
+33,4,0,0,50,presidents drive expensive cars
+34,4,0,0,50,the chamber makes important decisions
+35,4,0,0,50,wear a crown with many jewels
+36,4,0,0,50,one hour is allotted for questions
+37,4,0,0,50,user friendly interface
+38,4,0,0,50,the registration period is over
+39,4,0,0,50,my favorite subject is psychology
+40,4,0,0,50,sit at the front of the bus
+41,5,1,0,50,you must be getting old
+42,5,1,0,50,a little encouragement is needed
+43,5,1,0,50,the early bird gets the worm
+44,5,1,0,50,this is too much to handle
+45,5,1,0,50,on the way to the cottage
+46,5,1,0,50,employee recruitment takes a lot of effort
+47,5,1,0,50,he called seven times
+48,5,1,0,50,the force is with you
+49,5,1,0,50,an offer you cannot refuse
+50,5,1,0,50,i agree with you
+51,6,1,0,50,the coronation was very exciting
+52,6,1,0,50,sprawling subdivisions are bad
+53,6,1,0,50,a feeling of complete exasperation
+54,6,1,0,50,the children are playing
+55,6,1,0,50,we better investigate this
+56,6,1,0,50,do not walk too quickly
+57,6,1,0,50,most judges are very honest
+58,6,1,0,50,the insulation is not working
+59,6,1,0,50,the chancellor was very boring
+60,6,1,0,50,the acceptance speech was boring
+61,7,0,0,0,the presidential suite is very busy
+62,7,0,0,0,we run the risk of failure
+63,7,0,0,0,a coupon for a free sample
+64,7,0,0,0,traveling to conferences is fun
+65,7,0,0,0,important news always seems to be late
+66,7,0,0,0,the power of denial
+67,7,0,0,0,burglars never leave their business card
+68,7,0,0,0,what to do when the oil runs dry
+69,7,0,0,0,no kissing in the library
+70,7,0,0,0,this is a non profit organization
+71,8,1,0,0,a lot of chlorine in the water
+72,8,1,0,0,olympic athletes use drugs
+73,8,1,0,0,relations are very strained
+74,8,1,0,0,a touchdown in the last minute
+75,8,1,0,0,the second largest country
+76,8,1,0,0,call for more details
+77,8,1,0,0,do not worry about this
+78,8,1,0,0,gun powder must be handled with care
+79,8,1,0,0,the bathroom is good for reading
+80,8,1,0,0,lie detector tests never work
+81,9,1,0,0,a glance in the right direction
+82,9,1,0,0,i will meet you at noon
+83,9,1,0,0,exercise is good for the mind
+84,9,1,0,0,make my day you sucker
+85,9,1,0,0,that is a very odd question
+86,9,1,0,0,fish are jumping
+87,9,1,0,0,toss the ball around
+88,9,1,0,0,parking lot is full of trucks
+89,9,1,0,0,drugs should be avoided
+90,9,1,0,0,i like to play tennis
+91,10,0,0,75,gamblers eventually lose their shirts
+92,10,0,0,75,protect your environment
+93,10,0,0,75,coming up with killer sound bites
+94,10,0,0,75,important for political parties
+95,10,0,0,75,i watched blazing saddles
+96,10,0,0,75,universally understood to be wrong
+97,10,0,0,75,handicapped persons need consideration
+98,10,0,0,75,a subject one can really enjoy
+99,10,0,0,75,starlight and dewdrop
+100,10,0,0,75,we must redouble our efforts
+101,11,1,0,75,longer than a football field
+102,11,1,0,75,apartments are too expensive
+103,11,1,0,75,do not drink the water
+104,11,1,0,75,two or three cups of coffee
+105,11,1,0,75,six daughters and seven sons
+106,11,1,0,75,this library has many books
+107,11,1,0,75,an occasional taste of chocolate
+108,11,1,0,75,dolphins leap high out of the water
+109,11,1,0,75,the voters turfed him out
+110,11,1,0,75,prescription drugs require a note
+111,12,1,0,75,a security force of eight thousand
+112,12,1,0,75,time to go shopping
+113,12,1,0,75,our life expectancy has increased
+114,12,1,0,75,i am going to a music lesson
+115,12,1,0,75,the winner of the race
+116,12,1,0,75,with each step forward
+117,12,1,0,75,he was wearing a sweatshirt
+118,12,1,0,75,mary had a little lamb
+119,12,1,0,75,keep receipts for all your expenses
+120,12,1,0,75,bad for the environment
+121,13,0,0,100,the food at this restaurant
+122,13,0,0,100,the capitol of our nation
+123,13,0,0,100,the generation gap gets wider
+124,13,0,0,100,the ropes of a new organization
+125,13,0,0,100,an airport is a very busy place
+126,13,0,0,100,the cat has a pleasant temperament
+127,13,0,0,100,weeping willows are found near water
+128,13,0,0,100,my favorite web browser
+129,13,0,0,100,circumstances are unacceptable
+130,13,0,0,100,you must make an appointment
+131,14,1,0,100,please take a bath this month
+132,14,1,0,100,raindrops keep falling on my head
+133,14,1,0,100,you are a wonderful example
+134,14,1,0,100,the cotton is high
+135,14,1,0,100,gas bills are sent monthly
+136,14,1,0,100,completely sold out of that
+137,14,1,0,100,buckle up for safety
+138,14,1,0,100,win first prize in the contest
+139,14,1,0,100,experience is hard to come by
+140,14,1,0,100,love means many things
+141,15,1,0,100,i spilled coffee on the carpet
+142,15,1,0,100,players must know all the rules
+143,15,1,0,100,did you see that spectacular explosion
+144,15,1,0,100,they watched the entire movie
+145,15,1,0,100,so you think you deserve a raise
+146,15,1,0,100,a fox is a very smart animal
+147,15,1,0,100,we accept personal checks
+148,15,1,0,100,this person is a disaster
+149,15,1,0,100,never mix religion and politics
+150,15,1,0,100,the stock exchange dipped

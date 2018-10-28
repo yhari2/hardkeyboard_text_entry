@@ -1,0 +1,150 @@
+1,1,0,0,25,i skimmed through your proposal
+2,1,0,0,25,the union will go on strike
+3,1,0,0,25,completely sold out of that
+4,1,0,0,25,historic meeting without a result
+5,1,0,0,25,keep receipts for all your expenses
+6,1,0,0,25,circumstances are unacceptable
+7,1,0,0,25,the objective of the exercise
+8,1,0,0,25,want to join us for lunch
+9,1,0,0,25,the postal service is very slow
+10,1,0,0,25,healthy food is good for you
+11,2,1,0,25,do not drink too much
+12,2,1,0,25,the price of gas is high
+13,2,1,0,25,listen to five hours of opera
+14,2,1,0,25,the registration period is over
+15,2,1,0,25,there will be some fog tonight
+16,2,1,0,25,stiff penalty for staying out late
+17,2,1,0,25,learn to walk before you run
+18,2,1,0,25,these barracks are big enough
+19,2,1,0,25,i do not care if you do that
+20,2,1,0,25,the elevator door appears to be stuck
+21,3,1,0,25,a rattle snake is very poisonous
+22,3,1,0,25,he is still on our team
+23,3,1,0,25,the fourth edition was better
+24,3,1,0,25,he played a hero in that movie
+25,3,1,0,25,everybody loses in custody battles
+26,3,1,0,25,one hour is allotted for questions
+27,3,1,0,25,a good joke deserves a good laugh
+28,3,1,0,25,travel at the speed of light
+29,3,1,0,25,they watched the entire movie
+30,3,1,0,25,the treasury department is broke
+31,4,0,0,50,exercise is good for the mind
+32,4,0,0,50,bank transaction was not registered
+33,4,0,0,50,nothing finer than discovering a treasure
+34,4,0,0,50,the early bird gets the worm
+35,4,0,0,50,machinery is too complicated
+36,4,0,0,50,this leather jacket is too warm
+37,4,0,0,50,saving that child was a heroic effort
+38,4,0,0,50,do not squander your time
+39,4,0,0,50,that agreement is rife with problems
+40,4,0,0,50,questioning the wisdom of the courts
+41,5,1,0,50,just what the doctor ordered
+42,5,1,0,50,you will lose your voice
+43,5,1,0,50,the food at this restaurant
+44,5,1,0,50,a lot of chlorine in the water
+45,5,1,0,50,insurance is important for bad drivers
+46,5,1,0,50,take it to the recycling depot
+47,5,1,0,50,knee bone is connected to the thigh bone
+48,5,1,0,50,valid until the end of the year
+49,5,1,0,50,this person is a disaster
+50,5,1,0,50,the largest of the five oceans
+51,6,1,0,50,this system of taxation
+52,6,1,0,50,this camera takes nice photographs
+53,6,1,0,50,mystery of the lost lagoon
+54,6,1,0,50,go out for some pizza and beer
+55,6,1,0,50,the picket line gives me the chills
+56,6,1,0,50,we are subjects and must obey
+57,6,1,0,50,the power of denial
+58,6,1,0,50,flashing red light means stop
+59,6,1,0,50,good jobs for those with education
+60,6,1,0,50,bring the offenders to justice
+61,7,0,0,75,make up a few more phrases
+62,7,0,0,75,for murder you get a long prison sentence
+63,7,0,0,75,always cover all the bases
+64,7,0,0,75,he called seven times
+65,7,0,0,75,an offer you cannot refuse
+66,7,0,0,75,the pen is mightier than the sword
+67,7,0,0,75,this phenomenon will never occur
+68,7,0,0,75,call for more details
+69,7,0,0,75,peering through a small hole
+70,7,0,0,75,we accept personal checks
+71,8,1,0,75,world population is growing
+72,8,1,0,75,an inefficient way to heat a house
+73,8,1,0,75,the sum of the parts
+74,8,1,0,75,universally understood to be wrong
+75,8,1,0,75,we missed your birthday
+76,8,1,0,75,a correction had to be published
+77,8,1,0,75,interactions between men and women
+78,8,1,0,75,the trains are always late
+79,8,1,0,75,i will put on my glasses
+80,8,1,0,75,get your priorities in order
+81,9,1,0,75,the gun discharged by accident
+82,9,1,0,75,only an idiot would lie in court
+83,9,1,0,75,for your information only
+84,9,1,0,75,the library is closed today
+85,9,1,0,75,february has an extra day
+86,9,1,0,75,the second largest country
+87,9,1,0,75,an airport is a very busy place
+88,9,1,0,75,a quarter of a century
+89,9,1,0,75,the collapse of the roman empire
+90,9,1,0,75,a subject one can really enjoy
+91,10,0,0,0,she wears too much makeup
+92,10,0,0,0,the plug does not fit the socket
+93,10,0,0,0,universities are too expensive
+94,10,0,0,0,faster than a speeding bullet
+95,10,0,0,0,the quick brown fox jumped
+96,10,0,0,0,mom made her a turtleneck
+97,10,0,0,0,presidents drive expensive cars
+98,10,0,0,0,dashing through the snow
+99,10,0,0,0,all work and no play
+100,10,0,0,0,see you later alligator
+101,11,1,0,0,the world is a stage
+102,11,1,0,0,i cannot believe i ate the whole thing
+103,11,1,0,0,question that must be answered
+104,11,1,0,0,reading week is just about here
+105,11,1,0,0,important news always seems to be late
+106,11,1,0,0,double double toil and trouble
+107,11,1,0,0,do not feel too bad about it
+108,11,1,0,0,elephants are afraid of mice
+109,11,1,0,0,chemical spill took forever
+110,11,1,0,0,motivational seminars make me sick
+111,12,1,0,0,relations are very strained
+112,12,1,0,0,the bathroom is good for reading
+113,12,1,0,0,this library has many books
+114,12,1,0,0,come and see our new car
+115,12,1,0,0,rain rain go away
+116,12,1,0,0,you are not a jedi yet
+117,12,1,0,0,do you get nervous when you speak
+118,12,1,0,0,i watched blazing saddles
+119,12,1,0,0,that land is owned by the government
+120,12,1,0,0,physics and chemistry are hard
+121,13,0,0,100,we better investigate this
+122,13,0,0,100,a much higher risk of getting cancer
+123,13,0,0,100,vote according to your conscience
+124,13,0,0,100,the fire raged for an entire month
+125,13,0,0,100,do not drink the water
+126,13,0,0,100,rapidly running short on words
+127,13,0,0,100,please try to be home before midnight
+128,13,0,0,100,the bus was very crowded
+129,13,0,0,100,he watched in astonishment
+130,13,0,0,100,file all complaints in writing
+131,14,1,0,100,coming up with killer sound bites
+132,14,1,0,100,one never takes too many precautions
+133,14,1,0,100,weeping willows are found near water
+134,14,1,0,100,interesting observation was made
+135,14,1,0,100,so you think you deserve a raise
+136,14,1,0,100,we run the risk of failure
+137,14,1,0,100,a problem with the engine
+138,14,1,0,100,the cat has a pleasant temperament
+139,14,1,0,100,i listen to the tape every day
+140,14,1,0,100,thank you for your help
+141,15,1,0,100,canada has three territories
+142,15,1,0,100,user friendly interface
+143,15,1,0,100,the presidential suite is very busy
+144,15,1,0,100,this is a non profit organization
+145,15,1,0,100,the music is better than it sounds
+146,15,1,0,100,the kids are very excited
+147,15,1,0,100,be home before midnight
+148,15,1,0,100,a good stimulus deserves a good response
+149,15,1,0,100,two or three cups of coffee
+150,15,1,0,100,limited warranty of two years

@@ -1,0 +1,150 @@
+1,1,0,1,25,peek out the window
+2,1,0,1,25,what to do when the oil runs dry
+3,1,0,1,25,beware the ides of march
+4,1,0,1,25,the voters turfed him out
+5,1,0,1,25,the chamber makes important decisions
+6,1,0,1,25,breathing is difficult
+7,1,0,1,25,i do not fully agree with you
+8,1,0,1,25,i am wearing a tie and a jacket
+9,1,0,1,25,your etiquette needs some work
+10,1,0,1,25,one never takes too many precautions
+11,2,1,1,25,acutely aware of his good looks
+12,2,1,1,25,great disturbance in the force
+13,2,1,1,25,batman wears a cape
+14,2,1,1,25,make up a few more phrases
+15,2,1,1,25,bank transaction was not registered
+16,2,1,1,25,one heck of a question
+17,2,1,1,25,santa claus got stuck
+18,2,1,1,25,the assignment is due today
+19,2,1,1,25,my fingers are very cold
+20,2,1,1,25,my preferred treat is chocolate
+21,3,1,1,25,if at first you do not succeed
+22,3,1,1,25,a dog is the best friend of a man
+23,3,1,1,25,that is a very nasty cut
+24,3,1,1,25,neither a borrower nor a lender be
+25,3,1,1,25,it is difficult to concentrate
+26,3,1,1,25,the facts get in the way
+27,3,1,1,25,six daughters and seven sons
+28,3,1,1,25,everybody loses in custody battles
+29,3,1,1,25,i am allergic to bees and peanuts
+30,3,1,1,25,this is too much to handle
+31,4,0,1,100,wishful thinking is fine
+32,4,0,1,100,they watched the entire movie
+33,4,0,1,100,granite is the hardest of all rocks
+34,4,0,1,100,the treasurer must balance her books
+35,4,0,1,100,world population is growing
+36,4,0,1,100,a lot of chlorine in the water
+37,4,0,1,100,machinery is too complicated
+38,4,0,1,100,the sum of the parts
+39,4,0,1,100,do not walk too quickly
+40,4,0,1,100,that referendum asked a silly question
+41,5,1,1,100,labor unions know how to organize
+42,5,1,1,100,the back yard of our house
+43,5,1,1,100,that is very unfortunate
+44,5,1,1,100,i agree with you
+45,5,1,1,100,lie detector tests never work
+46,5,1,1,100,the protesters blocked all traffic
+47,5,1,1,100,nobody cares anymore
+48,5,1,1,100,a touchdown in the last minute
+49,5,1,1,100,are you sure you want this
+50,5,1,1,100,experience is hard to come by
+51,6,1,1,100,my bike has a flat tire
+52,6,1,1,100,sprawling subdivisions are bad
+53,6,1,1,100,bad for the environment
+54,6,1,1,100,my car always breaks in the winter
+55,6,1,1,100,the gun discharged by accident
+56,6,1,1,100,bring the offenders to justice
+57,6,1,1,100,i skimmed through your proposal
+58,6,1,1,100,obligations must be met first
+59,6,1,1,100,our silver anniversary is coming
+60,6,1,1,100,sent this by registered mail
+61,7,0,1,75,salesmen must make their monthly quota
+62,7,0,1,75,we better investigate this
+63,7,0,1,75,rapidly running short on words
+64,7,0,1,75,he watched in astonishment
+65,7,0,1,75,head shoulders knees and toes
+66,7,0,1,75,please take a bath this month
+67,7,0,1,75,the trains are always late
+68,7,0,1,75,important news always seems to be late
+69,7,0,1,75,you are a wonderful example
+70,7,0,1,75,the generation gap gets wider
+71,8,1,1,75,vote according to your conscience
+72,8,1,1,75,sing the gospel and the blues
+73,8,1,1,75,i spilled coffee on the carpet
+74,8,1,1,75,you must be getting old
+75,8,1,1,75,the coronation was very exciting
+76,8,1,1,75,all good boys deserve fudge
+77,8,1,1,75,safe to walk the streets in the evening
+78,8,1,1,75,you will lose your voice
+79,8,1,1,75,everyone wants to win the lottery
+80,8,1,1,75,frequently asked questions
+81,9,1,1,75,never mix religion and politics
+82,9,1,1,75,he played a hero in that movie
+83,9,1,1,75,do you like to shop on sunday
+84,9,1,1,75,i do not care if you do that
+85,9,1,1,75,healthy food is good for you
+86,9,1,1,75,do not drink the water
+87,9,1,1,75,did you see that spectacular explosion
+88,9,1,1,75,please keep this confidential
+89,9,1,1,75,the union will go on strike
+90,9,1,1,75,traveling to conferences is fun
+91,10,0,1,0,the picket line gives me the chills
+92,10,0,1,0,do not worry about this
+93,10,0,1,0,we drive on parkways
+94,10,0,1,0,find a nearby parking spot
+95,10,0,1,0,the minimum amount of time
+96,10,0,1,0,with each step forward
+97,10,0,1,0,play it again sam
+98,10,0,1,0,the stock exchange dipped
+99,10,0,1,0,the acceptance speech was boring
+100,10,0,1,0,flashing red light means stop
+101,11,1,1,0,please follow the guidelines
+102,11,1,1,0,the ropes of a new organization
+103,11,1,1,0,he is shouting loudly
+104,11,1,1,0,beautiful paintings in the gallery
+105,11,1,1,0,superman never wore a mask
+106,11,1,1,0,vanilla flavored ice cream
+107,11,1,1,0,our fax number has changed
+108,11,1,1,0,drove my chevy to the levee
+109,11,1,1,0,always cover all the bases
+110,11,1,1,0,we are having spaghetti
+111,12,1,1,0,this is a very good idea
+112,12,1,1,0,pay off a mortgage for a house
+113,12,1,1,0,a thoroughly disgusting thing to say
+114,12,1,1,0,work hard to reach the summit
+115,12,1,1,0,information super highway
+116,12,1,1,0,the winner of the race
+117,12,1,1,0,can i skate with my sister today
+118,12,1,1,0,two or three cups of coffee
+119,12,1,1,0,my watch fell in the water
+120,12,1,1,0,universally understood to be wrong
+121,13,0,1,50,motivational seminars make me sick
+122,13,0,1,50,you are not a jedi yet
+123,13,0,1,50,these cookies are so amazing
+124,13,0,1,50,the laser printer is jammed
+125,13,0,1,50,coming up with killer sound bites
+126,13,0,1,50,dolphins leap high out of the water
+127,13,0,1,50,gamblers eventually lose their shirts
+128,13,0,1,50,are you talking to me
+129,13,0,1,50,our housekeeper does a thorough job
+130,13,0,1,50,this equation is too complicated
+131,14,1,1,50,if you were not so stupid
+132,14,1,1,50,if you come home late the doors are locked
+133,14,1,1,50,what you see is what you get
+134,14,1,1,50,the assault took six months
+135,14,1,1,50,life is but a dream
+136,14,1,1,50,a duck quacks to ask for food
+137,14,1,1,50,construction makes traveling difficult
+138,14,1,1,50,video camera with a zoom lens
+139,14,1,1,50,be discreet about your meeting
+140,14,1,1,50,the aspirations of a nation
+141,15,1,1,50,sign the withdrawal slip
+142,15,1,1,50,nothing wrong with his style
+143,15,1,1,50,look in the syllabus for the course
+144,15,1,1,50,there are winners and losers
+145,15,1,1,50,love means many things
+146,15,1,1,50,the dog buried the bone
+147,15,1,1,50,fine but only in moderation
+148,15,1,1,50,the power of denial
+149,15,1,1,50,the water was monitored daily
+150,15,1,1,50,we missed your birthday

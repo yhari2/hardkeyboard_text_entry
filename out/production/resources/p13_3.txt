@@ -1,0 +1,150 @@
+1,1,0,2,0,raindrops keep falling on my head
+2,1,0,2,0,nothing finer than discovering a treasure
+3,1,0,2,0,the capitol of our nation
+4,1,0,2,0,i hate baking pies
+5,1,0,2,0,seasoned golfers love the game
+6,1,0,2,0,questioning the wisdom of the courts
+7,1,0,2,0,what a lovely red jacket
+8,1,0,2,0,the algorithm is too complicated
+9,1,0,2,0,companies announce a merger
+10,1,0,2,0,you are an ardent capitalist
+11,2,1,2,0,acutely aware of his good looks
+12,2,1,2,0,it should be sunny tomorrow
+13,2,1,2,0,valium in the economy size
+14,2,1,2,0,the registration period is over
+15,2,1,2,0,never mix religion and politics
+16,2,1,2,0,earthquakes are predictable
+17,2,1,2,0,this is a non profit organization
+18,2,1,2,0,peek out the window
+19,2,1,2,0,put garbage in an abandoned mine
+20,2,1,2,0,my favorite subject is psychology
+21,3,1,2,0,try to enjoy your maternity leave
+22,3,1,2,0,a dog is the best friend of a man
+23,3,1,2,0,go out for some pizza and beer
+24,3,1,2,0,listen to five hours of opera
+25,3,1,2,0,the punishment should fit the crime
+26,3,1,2,0,i can still feel your presence
+27,3,1,2,0,the fire raged for an entire month
+28,3,1,2,0,good at addition and subtraction
+29,3,1,2,0,mary had a little lamb
+30,3,1,2,0,if diplomacy does not work
+31,4,0,2,100,weeping willows are found near water
+32,4,0,2,100,you are a wonderful example
+33,4,0,2,100,machinery is too complicated
+34,4,0,2,100,the music is better than it sounds
+35,4,0,2,100,a coupon for a free sample
+36,4,0,2,100,we better investigate this
+37,4,0,2,100,you should visit a doctor
+38,4,0,2,100,you must make an appointment
+39,4,0,2,100,love means many things
+40,4,0,2,100,do you like to go camping
+41,5,1,2,100,prepare for the exam in advance
+42,5,1,2,100,the proprietor was unavailable
+43,5,1,2,100,the biggest hamburger i have ever seen
+44,5,1,2,100,the library is closed today
+45,5,1,2,100,i am going to a music lesson
+46,5,1,2,100,i took the rover from the shop
+47,5,1,2,100,take it to the recycling depot
+48,5,1,2,100,my bare face in the wind
+49,5,1,2,100,neither a borrower nor a lender be
+50,5,1,2,100,a glance in the right direction
+51,6,1,2,100,exceed the maximum speed limit
+52,6,1,2,100,elections bring out the best
+53,6,1,2,100,meet tomorrow in the lavatory
+54,6,1,2,100,everyone wants to win the lottery
+55,6,1,2,100,we dine out on the weekends
+56,6,1,2,100,granite is the hardest of all rocks
+57,6,1,2,100,the dow jones index has risen
+58,6,1,2,100,universities are too expensive
+59,6,1,2,100,goldilocks and the three bears
+60,6,1,2,100,an airport is a very busy place
+61,7,0,2,75,quit while you are ahead
+62,7,0,2,75,that is a very nasty cut
+63,7,0,2,75,the high waves will swamp us
+64,7,0,2,75,you are not a jedi yet
+65,7,0,2,75,sit at the front of the bus
+66,7,0,2,75,house with new electrical panel
+67,7,0,2,75,why do you ask silly questions
+68,7,0,2,75,stay away from strangers
+69,7,0,2,75,the ventilation system is broken
+70,7,0,2,75,consequences of a wrong turn
+71,8,1,2,75,sprawling subdivisions are bad
+72,8,1,2,75,what goes up must come down
+73,8,1,2,75,this person is a disaster
+74,8,1,2,75,win first prize in the contest
+75,8,1,2,75,staying up all night is a bad idea
+76,8,1,2,75,the collapse of the roman empire
+77,8,1,2,75,the minimum amount of time
+78,8,1,2,75,one never takes too many precautions
+79,8,1,2,75,the back yard of our house
+80,8,1,2,75,life is but a dream
+81,9,1,2,75,my watch fell in the water
+82,9,1,2,75,fish are jumping
+83,9,1,2,75,do not say anything
+84,9,1,2,75,we run the risk of failure
+85,9,1,2,75,we are having spaghetti
+86,9,1,2,75,the winner of the race
+87,9,1,2,75,effort is what it will take
+88,9,1,2,75,double double toil and trouble
+89,9,1,2,75,do not walk too quickly
+90,9,1,2,75,this camera takes nice photographs
+91,10,0,2,50,canada has three territories
+92,10,0,2,50,parking lot is full of trucks
+93,10,0,2,50,the world is a stage
+94,10,0,2,50,two or three cups of coffee
+95,10,0,2,50,parking tickets can be challenged
+96,10,0,2,50,i want to hold your hand
+97,10,0,2,50,beautiful paintings in the gallery
+98,10,0,2,50,canada has ten provinces
+99,10,0,2,50,the power of denial
+100,10,0,2,50,prescription drugs require a note
+101,11,1,2,50,olympic athletes use drugs
+102,11,1,2,50,you will lose your voice
+103,11,1,2,50,santa claus got stuck
+104,11,1,2,50,superman never wore a mask
+105,11,1,2,50,would you like to come to my house
+106,11,1,2,50,one heck of a question
+107,11,1,2,50,gun powder must be handled with care
+108,11,1,2,50,burglars never leave their business card
+109,11,1,2,50,do not worry about this
+110,11,1,2,50,the chamber makes important decisions
+111,12,1,2,50,a rattle snake is very poisonous
+112,12,1,2,50,get rid of that immediately
+113,12,1,2,50,we went grocery shopping
+114,12,1,2,50,shall we play a round of cards
+115,12,1,2,50,an injustice is committed every day
+116,12,1,2,50,the stock exchange dipped
+117,12,1,2,50,the location of the crime
+118,12,1,2,50,the dog buried the bone
+119,12,1,2,50,have a good weekend
+120,12,1,2,50,popularity is desired by all
+121,13,0,2,25,experience is hard to come by
+122,13,0,2,25,a much higher risk of getting cancer
+123,13,0,2,25,with each step forward
+124,13,0,2,25,buckle up for safety
+125,13,0,2,25,most judges are very honest
+126,13,0,2,25,where did you get such a silly idea
+127,13,0,2,25,we accept personal checks
+128,13,0,2,25,make up a few more phrases
+129,13,0,2,25,medieval times were very hard
+130,13,0,2,25,my bank account is overdrawn
+131,14,1,2,25,just in time for the party
+132,14,1,2,25,round robin scheduling
+133,14,1,2,25,chemical spill took forever
+134,14,1,2,25,he was wearing a sweatshirt
+135,14,1,2,25,my preferred treat is chocolate
+136,14,1,2,25,do you prefer a window seat
+137,14,1,2,25,my car always breaks in the winter
+138,14,1,2,25,one hour is allotted for questions
+139,14,1,2,25,this mission statement is baloney
+140,14,1,2,25,all good boys deserve fudge
+141,15,1,2,25,starlight and dewdrop
+142,15,1,2,25,vote according to your conscience
+143,15,1,2,25,be persistent to win a strike
+144,15,1,2,25,where did you get that tie
+145,15,1,2,25,it looks like a shack
+146,15,1,2,25,thank you for your help
+147,15,1,2,25,longer than a football field
+148,15,1,2,25,stiff penalty for staying out late
+149,15,1,2,25,we are subjects and must obey
+150,15,1,2,25,traveling to conferences is fun

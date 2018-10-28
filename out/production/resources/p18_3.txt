@@ -1,0 +1,150 @@
+1,1,0,2,100,my dog sheds his hair
+2,1,0,2,100,did you have a good time
+3,1,0,2,100,this is a very good idea
+4,1,0,2,100,the force is with you
+5,1,0,2,100,our life expectancy has increased
+6,1,0,2,100,handicapped persons need consideration
+7,1,0,2,100,take a coffee break
+8,1,0,2,100,santa claus got stuck
+9,1,0,2,100,i am wearing a tie and a jacket
+10,1,0,2,100,try to enjoy your maternity leave
+11,2,1,2,100,where did you get that tie
+12,2,1,2,100,valium in the economy size
+13,2,1,2,100,not quite so smart as you think
+14,2,1,2,100,pumping brakes when roads are slippery
+15,2,1,2,100,the treasury department is broke
+16,2,1,2,100,fish are jumping
+17,2,1,2,100,he was wearing a sweatshirt
+18,2,1,2,100,the cat has a pleasant temperament
+19,2,1,2,100,february has an extra day
+20,2,1,2,100,the protesters blocked all traffic
+21,3,1,2,100,this person is a disaster
+22,3,1,2,100,i will meet you at noon
+23,3,1,2,100,you are not a jedi yet
+24,3,1,2,100,listen to five hours of opera
+25,3,1,2,100,if you come home late the doors are locked
+26,3,1,2,100,sprawling subdivisions are bad
+27,3,1,2,100,movie about a nutty professor
+28,3,1,2,100,where can my little dog be
+29,3,1,2,100,but the levee was dry
+30,3,1,2,100,good at addition and subtraction
+31,4,0,2,75,we went grocery shopping
+32,4,0,2,75,the gun discharged by accident
+33,4,0,2,75,the presidential suite is very busy
+34,4,0,2,75,we are subjects and must obey
+35,4,0,2,75,a problem with the engine
+36,4,0,2,75,no kissing in the library
+37,4,0,2,75,bank transaction was not registered
+38,4,0,2,75,an injustice is committed every day
+39,4,0,2,75,my mother makes good cookies
+40,4,0,2,75,a psychiatrist will help you
+41,5,1,2,75,i watched blazing saddles
+42,5,1,2,75,this leather jacket is too warm
+43,5,1,2,75,the water was monitored daily
+44,5,1,2,75,a correction had to be published
+45,5,1,2,75,head shoulders knees and toes
+46,5,1,2,75,the store will close at ten
+47,5,1,2,75,double double toil and trouble
+48,5,1,2,75,he called seven times
+49,5,1,2,75,life is but a dream
+50,5,1,2,75,gas bills are sent monthly
+51,6,1,2,75,circumstances are unacceptable
+52,6,1,2,75,i cannot believe i ate the whole thing
+53,6,1,2,75,we better investigate this
+54,6,1,2,75,people blow their own horn a lot
+55,6,1,2,75,travel at the speed of light
+56,6,1,2,75,i hate baking pies
+57,6,1,2,75,video camera with a zoom lens
+58,6,1,2,75,we must redouble our efforts
+59,6,1,2,75,neither a borrower nor a lender be
+60,6,1,2,75,a rattle snake is very poisonous
+61,7,0,2,25,companies announce a merger
+62,7,0,2,25,we have enough witnesses
+63,7,0,2,25,the opposing team is over there
+64,7,0,2,25,please take a bath this month
+65,7,0,2,25,granite is the hardest of all rocks
+66,7,0,2,25,suburbs are sprawling everywhere
+67,7,0,2,25,this watch is too expensive
+68,7,0,2,25,he is just like everyone else
+69,7,0,2,25,do not say anything
+70,7,0,2,25,the high waves will swamp us
+71,8,1,2,25,freud wrote of the ego
+72,8,1,2,25,the dow jones index has risen
+73,8,1,2,25,careless driving results in a fine
+74,8,1,2,25,wear a crown with many jewels
+75,8,1,2,25,meet tomorrow in the lavatory
+76,8,1,2,25,apartments are too expensive
+77,8,1,2,25,rejection letters are discouraging
+78,8,1,2,25,the most beautiful sunset
+79,8,1,2,25,i spilled coffee on the carpet
+80,8,1,2,25,the sun rises in the east
+81,9,1,2,25,this is too much to handle
+82,9,1,2,25,quick there is someone knocking
+83,9,1,2,25,sharp cheese keeps the mind sharp
+84,9,1,2,25,what goes up must come down
+85,9,1,2,25,a yard is almost as long as a meter
+86,9,1,2,25,file all complaints in writing
+87,9,1,2,25,microscopes make small things look big
+88,9,1,2,25,irregular verbs are the hardest to learn
+89,9,1,2,25,labor unions know how to organize
+90,9,1,2,25,my bank account is overdrawn
+91,10,0,2,0,a big scratch on the tabletop
+92,10,0,2,0,it looks like a shack
+93,10,0,2,0,drugs should be avoided
+94,10,0,2,0,just what the doctor ordered
+95,10,0,2,0,safe to walk the streets in the evening
+96,10,0,2,0,well connected with people
+97,10,0,2,0,you will lose your voice
+98,10,0,2,0,consequences of a wrong turn
+99,10,0,2,0,i skimmed through your proposal
+100,10,0,2,0,one of the poorest nations
+101,11,1,2,0,every apple from every tree
+102,11,1,2,0,the second largest country
+103,11,1,2,0,there will be some fog tonight
+104,11,1,2,0,the fax machine is broken
+105,11,1,2,0,put garbage in an abandoned mine
+106,11,1,2,0,why do you ask silly questions
+107,11,1,2,0,tell a lie and your nose will grow
+108,11,1,2,0,important news always seems to be late
+109,11,1,2,0,employee recruitment takes a lot of effort
+110,11,1,2,0,the back yard of our house
+111,12,1,2,0,the music is better than it sounds
+112,12,1,2,0,i do not care if you do that
+113,12,1,2,0,elephants are afraid of mice
+114,12,1,2,0,express delivery is very fast
+115,12,1,2,0,her majesty visited our country
+116,12,1,2,0,breathing is difficult
+117,12,1,2,0,i like to play tennis
+118,12,1,2,0,the minimum amount of time
+119,12,1,2,0,please provide your date of birth
+120,12,1,2,0,olympic athletes use drugs
+121,13,0,2,50,our housekeeper does a thorough job
+122,13,0,2,50,lie detector tests never work
+123,13,0,2,50,the bus was very crowded
+124,13,0,2,50,we dine out on the weekends
+125,13,0,2,50,zero in on the facts
+126,13,0,2,50,a much higher risk of getting cancer
+127,13,0,2,50,a touchdown in the last minute
+128,13,0,2,50,have a good weekend
+129,13,0,2,50,a dog is the best friend of a man
+130,13,0,2,50,the proprietor was unavailable
+131,14,1,2,50,flashing red light means stop
+132,14,1,2,50,these barracks are big enough
+133,14,1,2,50,he watched in astonishment
+134,14,1,2,50,the kids are very excited
+135,14,1,2,50,a steep learning curve in riding a unicycle
+136,14,1,2,50,the generation gap gets wider
+137,14,1,2,50,a good joke deserves a good laugh
+138,14,1,2,50,prepare for the exam in advance
+139,14,1,2,50,the elevator door appears to be stuck
+140,14,1,2,50,a fox is a very smart animal
+141,15,1,2,50,sit at the front of the bus
+142,15,1,2,50,i can still feel your presence
+143,15,1,2,50,never too rich and never too thin
+144,15,1,2,50,the price of gas is high
+145,15,1,2,50,experience is hard to come by
+146,15,1,2,50,rapidly running short on words
+147,15,1,2,50,they watched the entire movie
+148,15,1,2,50,the plug does not fit the socket
+149,15,1,2,50,you are a wonderful example
+150,15,1,2,50,the ventilation system is broken

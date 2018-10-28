@@ -1,0 +1,150 @@
+1,1,0,1,100,i like baroque and classical music
+2,1,0,1,100,companies announce a merger
+3,1,0,1,100,the price of gas is high
+4,1,0,1,100,rejection letters are discouraging
+5,1,0,1,100,longer than a football field
+6,1,0,1,100,the first time he tried to swim
+7,1,0,1,100,the laser printer is jammed
+8,1,0,1,100,accompanied by an adult
+9,1,0,1,100,the presidential suite is very busy
+10,1,0,1,100,a quarter of a century
+11,2,1,1,100,a subject one can really enjoy
+12,2,1,1,100,rain rain go away
+13,2,1,1,100,the chancellor was very boring
+14,2,1,1,100,the accident scene is a shrine for fans
+15,2,1,1,100,a little encouragement is needed
+16,2,1,1,100,can i skate with my sister today
+17,2,1,1,100,saving that child was a heroic effort
+18,2,1,1,100,teaching services will help
+19,2,1,1,100,are you sure you want this
+20,2,1,1,100,find a nearby parking spot
+21,3,1,1,100,we are subjects and must obey
+22,3,1,1,100,every apple from every tree
+23,3,1,1,100,a picture is worth many words
+24,3,1,1,100,sad to hear that news
+25,3,1,1,100,the ropes of a new organization
+26,3,1,1,100,take a coffee break
+27,3,1,1,100,i will meet you at noon
+28,3,1,1,100,one hour is allotted for questions
+29,3,1,1,100,completely sold out of that
+30,3,1,1,100,gas bills are sent monthly
+31,4,0,1,75,i do not fully agree with you
+32,4,0,1,75,this mission statement is baloney
+33,4,0,1,75,have a good weekend
+34,4,0,1,75,the living is easy
+35,4,0,1,75,three two one zero blast off
+36,4,0,1,75,our silver anniversary is coming
+37,4,0,1,75,we are having spaghetti
+38,4,0,1,75,granite is the hardest of all rocks
+39,4,0,1,75,we park in driveways
+40,4,0,1,75,you must make an appointment
+41,5,1,1,75,quit while you are ahead
+42,5,1,1,75,he called seven times
+43,5,1,1,75,staying up all night is a bad idea
+44,5,1,1,75,one never takes too many precautions
+45,5,1,1,75,the aspirations of a nation
+46,5,1,1,75,gamblers eventually lose their shirts
+47,5,1,1,75,that is a very odd question
+48,5,1,1,75,we missed your birthday
+49,5,1,1,75,drugs should be avoided
+50,5,1,1,75,the daring young man
+51,6,1,1,75,shivering is one way to keep warm
+52,6,1,1,75,my favorite sport is racketball
+53,6,1,1,75,a problem with the engine
+54,6,1,1,75,the music is better than it sounds
+55,6,1,1,75,the cotton is high
+56,6,1,1,75,nothing wrong with his style
+57,6,1,1,75,work hard to reach the summit
+58,6,1,1,75,do a good deed to someone
+59,6,1,1,75,the bathroom is good for reading
+60,6,1,1,75,fish are jumping
+61,7,0,1,50,my bare face in the wind
+62,7,0,1,50,please try to be home before midnight
+63,7,0,1,50,peering through a small hole
+64,7,0,1,50,beware the ides of march
+65,7,0,1,50,the force is with you
+66,7,0,1,50,the gun discharged by accident
+67,7,0,1,50,soon we will return from the city
+68,7,0,1,50,obligations must be met first
+69,7,0,1,50,elections bring out the best
+70,7,0,1,50,the acceptance speech was boring
+71,8,1,1,50,be discreet about your meeting
+72,8,1,1,50,i am wearing a tie and a jacket
+73,8,1,1,50,drove my chevy to the levee
+74,8,1,1,50,thank you for your help
+75,8,1,1,50,so you think you deserve a raise
+76,8,1,1,50,the largest of the five oceans
+77,8,1,1,50,the punishment should fit the crime
+78,8,1,1,50,everyone wants to win the lottery
+79,8,1,1,50,questioning the wisdom of the courts
+80,8,1,1,50,do not squander your time
+81,9,1,1,50,where did i leave my glasses
+82,9,1,1,50,zero in on the facts
+83,9,1,1,50,an inefficient way to heat a house
+84,9,1,1,50,if you come home late the doors are locked
+85,9,1,1,50,an occasional taste of chocolate
+86,9,1,1,50,important news always seems to be late
+87,9,1,1,50,the voters turfed him out
+88,9,1,1,50,the registration period is over
+89,9,1,1,50,no exchange without a bill
+90,9,1,1,50,fine but only in moderation
+91,10,0,1,0,traveling to conferences is fun
+92,10,0,1,0,what to do when the oil runs dry
+93,10,0,1,0,be home before midnight
+94,10,0,1,0,want to join us for lunch
+95,10,0,1,0,what a monkey sees a monkey will do
+96,10,0,1,0,the stock exchange dipped
+97,10,0,1,0,love means many things
+98,10,0,1,0,canada has ten provinces
+99,10,0,1,0,round robin scheduling
+100,10,0,1,0,the plug does not fit the socket
+101,11,1,1,0,this is a non profit organization
+102,11,1,1,0,you must be getting old
+103,11,1,1,0,the objective of the exercise
+104,11,1,1,0,it is difficult to concentrate
+105,11,1,1,0,rent is paid at the beginning of the month
+106,11,1,1,0,video camera with a zoom lens
+107,11,1,1,0,valid until the end of the year
+108,11,1,1,0,presidents drive expensive cars
+109,11,1,1,0,do not drink the water
+110,11,1,1,0,the dreamers of dreams
+111,12,1,1,0,a rattle snake is very poisonous
+112,12,1,1,0,do you like to go camping
+113,12,1,1,0,he is just like everyone else
+114,12,1,1,0,the quick brown fox jumped
+115,12,1,1,0,suburbs are sprawling everywhere
+116,12,1,1,0,take it to the recycling depot
+117,12,1,1,0,i hate baking pies
+118,12,1,1,0,tickets are very expensive
+119,12,1,1,0,six daughters and seven sons
+120,12,1,1,0,just what the doctor ordered
+121,13,0,1,25,sprawling subdivisions are bad
+122,13,0,1,25,call for more details
+123,13,0,1,25,for your information only
+124,13,0,1,25,be persistent to win a strike
+125,13,0,1,25,an offer you cannot refuse
+126,13,0,1,25,learn to walk before you run
+127,13,0,1,25,careless driving results in a fine
+128,13,0,1,25,please keep this confidential
+129,13,0,1,25,chemical spill took forever
+130,13,0,1,25,the union will go on strike
+131,14,1,1,25,buckle up for safety
+132,14,1,1,25,i can see the rings on saturn
+133,14,1,1,25,he underwent triple bypass surgery
+134,14,1,1,25,prepare for the exam in advance
+135,14,1,1,25,coalition governments never work
+136,14,1,1,25,double double toil and trouble
+137,14,1,1,25,vote according to your conscience
+138,14,1,1,25,great disturbance in the force
+139,14,1,1,25,bank transaction was not registered
+140,14,1,1,25,reading week is just about here
+141,15,1,1,25,do not feel too bad about it
+142,15,1,1,25,construction makes traveling difficult
+143,15,1,1,25,do not lie in court or else
+144,15,1,1,25,the elevator door appears to be stuck
+145,15,1,1,25,a steep learning curve in riding a unicycle
+146,15,1,1,25,santa claus got stuck
+147,15,1,1,25,the fourth edition was better
+148,15,1,1,25,get rid of that immediately
+149,15,1,1,25,the chamber makes important decisions
+150,15,1,1,25,rapidly running short on words

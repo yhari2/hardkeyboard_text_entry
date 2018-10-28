@@ -1,0 +1,150 @@
+1,1,0,1,0,healthy food is good for you
+2,1,0,1,0,exercise is good for the mind
+3,1,0,1,0,the bus was very crowded
+4,1,0,1,0,the objective of the exercise
+5,1,0,1,0,a touchdown in the last minute
+6,1,0,1,0,interactions between men and women
+7,1,0,1,0,this phenomenon will never occur
+8,1,0,1,0,on the way to the cottage
+9,1,0,1,0,wishful thinking is fine
+10,1,0,1,0,peek out the window
+11,2,1,1,0,house with new electrical panel
+12,2,1,1,0,suburbs are sprawling everywhere
+13,2,1,1,0,dormitory doors are locked at midnight
+14,2,1,1,0,limited warranty of two years
+15,2,1,1,0,the price of gas is high
+16,2,1,1,0,an excellent way to communicate
+17,2,1,1,0,the facts get in the way
+18,2,1,1,0,superman never wore a mask
+19,2,1,1,0,a psychiatrist will help you
+20,2,1,1,0,a rattle snake is very poisonous
+21,3,1,1,0,we dine out on the weekends
+22,3,1,1,0,they love to yap about nothing
+23,3,1,1,0,information super highway
+24,3,1,1,0,i watched blazing saddles
+25,3,1,1,0,earthquakes are predictable
+26,3,1,1,0,physics and chemistry are hard
+27,3,1,1,0,for murder you get a long prison sentence
+28,3,1,1,0,double double toil and trouble
+29,3,1,1,0,a fox is a very smart animal
+30,3,1,1,0,thank you for your help
+31,4,0,1,50,nothing finer than discovering a treasure
+32,4,0,1,50,rapidly running short on words
+33,4,0,1,50,no kissing in the library
+34,4,0,1,50,a very traditional way to dress
+35,4,0,1,50,not quite so smart as you think
+36,4,0,1,50,i do not fully agree with you
+37,4,0,1,50,machinery is too complicated
+38,4,0,1,50,canada has ten provinces
+39,4,0,1,50,my favorite place to visit
+40,4,0,1,50,head shoulders knees and toes
+41,5,1,1,50,public transit is much faster
+42,5,1,1,50,you will lose your voice
+43,5,1,1,50,video camera with a zoom lens
+44,5,1,1,50,the ropes of a new organization
+45,5,1,1,50,hair gel is very greasy
+46,5,1,1,50,pay off a mortgage for a house
+47,5,1,1,50,fall is my favorite season
+48,5,1,1,50,jumping right out of the water
+49,5,1,1,50,my bike has a flat tire
+50,5,1,1,50,drugs should be avoided
+51,6,1,1,50,one hour is allotted for questions
+52,6,1,1,50,all together in one big pile
+53,6,1,1,50,rent is paid at the beginning of the month
+54,6,1,1,50,motivational seminars make me sick
+55,6,1,1,50,work hard to reach the summit
+56,6,1,1,50,a thoroughly disgusting thing to say
+57,6,1,1,50,they might find your comment offensive
+58,6,1,1,50,a much higher risk of getting cancer
+59,6,1,1,50,february has an extra day
+60,6,1,1,50,the chancellor was very boring
+61,7,0,1,100,a steep learning curve in riding a unicycle
+62,7,0,1,100,my bare face in the wind
+63,7,0,1,100,why do you ask silly questions
+64,7,0,1,100,that is a very odd question
+65,7,0,1,100,the gun discharged by accident
+66,7,0,1,100,this camera takes nice photographs
+67,7,0,1,100,we must redouble our efforts
+68,7,0,1,100,the bathroom is good for reading
+69,7,0,1,100,i agree with you
+70,7,0,1,100,you are an ardent capitalist
+71,8,1,1,100,but the levee was dry
+72,8,1,1,100,mystery of the lost lagoon
+73,8,1,1,100,electric cars need big fuel cells
+74,8,1,1,100,sharp cheese keeps the mind sharp
+75,8,1,1,100,no more war no more bloodshed
+76,8,1,1,100,do you get nervous when you speak
+77,8,1,1,100,a picture is worth many words
+78,8,1,1,100,a feeling of complete exasperation
+79,8,1,1,100,never mix religion and politics
+80,8,1,1,100,this system of taxation
+81,9,1,1,100,everybody loses in custody battles
+82,9,1,1,100,i like to play tennis
+83,9,1,1,100,correct your diction immediately
+84,9,1,1,100,a security force of eight thousand
+85,9,1,1,100,i cannot believe i ate the whole thing
+86,9,1,1,100,we better investigate this
+87,9,1,1,100,i do not care if you do that
+88,9,1,1,100,you should visit a doctor
+89,9,1,1,100,travel at the speed of light
+90,9,1,1,100,a tumor is okay provided it is benign
+91,10,0,1,25,experience is hard to come by
+92,10,0,1,25,medieval times were very hard
+93,10,0,1,25,bring the offenders to justice
+94,10,0,1,25,that is a very nasty cut
+95,10,0,1,25,gamblers eventually lose their shirts
+96,10,0,1,25,one heck of a question
+97,10,0,1,25,insurance is important for bad drivers
+98,10,0,1,25,construction makes traveling difficult
+99,10,0,1,25,the daring young man
+100,10,0,1,25,can we play cards tonight
+101,11,1,1,25,i can see the rings on saturn
+102,11,1,1,25,all good boys deserve fudge
+103,11,1,1,25,parking lot is full of trucks
+104,11,1,1,25,coming up with killer sound bites
+105,11,1,1,25,this is a very good idea
+106,11,1,1,25,where can my little dog be
+107,11,1,1,25,the force is with you
+108,11,1,1,25,drove my chevy to the levee
+109,11,1,1,25,prevailing wind from the east
+110,11,1,1,25,you must make an appointment
+111,12,1,1,25,a coupon for a free sample
+112,12,1,1,25,most judges are very honest
+113,12,1,1,25,the four seasons will come
+114,12,1,1,25,valium in the economy size
+115,12,1,1,25,a correction had to be published
+116,12,1,1,25,i can play much better now
+117,12,1,1,25,in sharp contrast to your words
+118,12,1,1,25,a subject one can really enjoy
+119,12,1,1,25,safe to walk the streets in the evening
+120,12,1,1,25,what a monkey sees a monkey will do
+121,13,0,1,75,put garbage in an abandoned mine
+122,13,0,1,75,a good joke deserves a good laugh
+123,13,0,1,75,get rid of that immediately
+124,13,0,1,75,the first time he tried to swim
+125,13,0,1,75,the high waves will swamp us
+126,13,0,1,75,the fax machine is broken
+127,13,0,1,75,all work and no play
+128,13,0,1,75,do you prefer a window seat
+129,13,0,1,75,this person is a disaster
+130,13,0,1,75,rain rain go away
+131,14,1,1,75,i will meet you at noon
+132,14,1,1,75,he called seven times
+133,14,1,1,75,a big scratch on the tabletop
+134,14,1,1,75,rectangular objects have four sides
+135,14,1,1,75,one never takes too many precautions
+136,14,1,1,75,do not walk too quickly
+137,14,1,1,75,my watch fell in the water
+138,14,1,1,75,my mother makes good cookies
+139,14,1,1,75,the most beautiful sunset
+140,14,1,1,75,my dog sheds his hair
+141,15,1,1,75,sing the gospel and the blues
+142,15,1,1,75,what you see is what you get
+143,15,1,1,75,bad for the environment
+144,15,1,1,75,do you like to shop on sunday
+145,15,1,1,75,breathing is difficult
+146,15,1,1,75,he is just like everyone else
+147,15,1,1,75,careless driving results in a fine
+148,15,1,1,75,i hate baking pies
+149,15,1,1,75,sprawling subdivisions are bad
+150,15,1,1,75,the food at this restaurant

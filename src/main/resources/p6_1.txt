@@ -1,0 +1,150 @@
+1,1,0,1,50,on the way to the cottage
+2,1,0,1,50,i watched blazing saddles
+3,1,0,1,50,it looks like a shack
+4,1,0,1,50,the fax machine is broken
+5,1,0,1,50,where did you get that tie
+6,1,0,1,50,starlight and dewdrop
+7,1,0,1,50,the bus was very crowded
+8,1,0,1,50,the treasurer must balance her books
+9,1,0,1,50,what goes up must come down
+10,1,0,1,50,neither a borrower nor a lender be
+11,2,1,1,50,come and see our new car
+12,2,1,1,50,the quick brown fox jumped
+13,2,1,1,50,traveling requires a lot of fuel
+14,2,1,1,50,did you see that spectacular explosion
+15,2,1,1,50,we drive on parkways
+16,2,1,1,50,the algorithm is too complicated
+17,2,1,1,50,my bare face in the wind
+18,2,1,1,50,the cat has a pleasant temperament
+19,2,1,1,50,life is but a dream
+20,2,1,1,50,we went grocery shopping
+21,3,1,1,50,i hate baking pies
+22,3,1,1,50,sent this by registered mail
+23,3,1,1,50,be persistent to win a strike
+24,3,1,1,50,the chancellor was very boring
+25,3,1,1,50,they watched the entire movie
+26,3,1,1,50,love means many things
+27,3,1,1,50,protect your environment
+28,3,1,1,50,just in time for the party
+29,3,1,1,50,beware the ides of march
+30,3,1,1,50,valium in the economy size
+31,4,0,1,100,freud wrote of the ego
+32,4,0,1,100,do a good deed to someone
+33,4,0,1,100,he played a hero in that movie
+34,4,0,1,100,a dog is the best friend of a man
+35,4,0,1,100,the living is easy
+36,4,0,1,100,he was wearing a sweatshirt
+37,4,0,1,100,can i skate with my sister today
+38,4,0,1,100,the proprietor was unavailable
+39,4,0,1,100,my preferred treat is chocolate
+40,4,0,1,100,just like it says on the canned good
+41,5,1,1,100,space is a high priority
+42,5,1,1,100,get rid of that immediately
+43,5,1,1,100,seasoned golfers love the game
+44,5,1,1,100,a very traditional way to dress
+45,5,1,1,100,the trains are always late
+46,5,1,1,100,valid until the end of the year
+47,5,1,1,100,time to go shopping
+48,5,1,1,100,limited warranty of two years
+49,5,1,1,100,most judges are very honest
+50,5,1,1,100,an inefficient way to heat a house
+51,6,1,1,100,my bank account is overdrawn
+52,6,1,1,100,our housekeeper does a thorough job
+53,6,1,1,100,that is very unfortunate
+54,6,1,1,100,this phenomenon will never occur
+55,6,1,1,100,he underwent triple bypass surgery
+56,6,1,1,100,a yard is almost as long as a meter
+57,6,1,1,100,the ventilation system is broken
+58,6,1,1,100,we must redouble our efforts
+59,6,1,1,100,the facts get in the way
+60,6,1,1,100,have a good weekend
+61,7,0,1,75,look in the syllabus for the course
+62,7,0,1,75,parking lot is full of trucks
+63,7,0,1,75,the assignment is due today
+64,7,0,1,75,this system of taxation
+65,7,0,1,75,the assault took six months
+66,7,0,1,75,interactions between men and women
+67,7,0,1,75,please try to be home before midnight
+68,7,0,1,75,do you like to go camping
+69,7,0,1,75,my favorite sport is racketball
+70,7,0,1,75,mary had a little lamb
+71,8,1,1,75,rapidly running short on words
+72,8,1,1,75,where did you get such a silly idea
+73,8,1,1,75,the pen is mightier than the sword
+74,8,1,1,75,the dog will bite you
+75,8,1,1,75,a fox is a very smart animal
+76,8,1,1,75,with each step forward
+77,8,1,1,75,the protesters blocked all traffic
+78,8,1,1,75,this leather jacket is too warm
+79,8,1,1,75,machinery is too complicated
+80,8,1,1,75,the cotton is high
+81,9,1,1,75,the minimum amount of time
+82,9,1,1,75,zero in on the facts
+83,9,1,1,75,he watched in astonishment
+84,9,1,1,75,shall we play a round of cards
+85,9,1,1,75,the world is a stage
+86,9,1,1,75,nothing wrong with his style
+87,9,1,1,75,sad to hear that news
+88,9,1,1,75,the sum of the parts
+89,9,1,1,75,our silver anniversary is coming
+90,9,1,1,75,i listen to the tape every day
+91,10,0,1,25,the union will go on strike
+92,10,0,1,25,good at addition and subtraction
+93,10,0,1,25,prepare for the exam in advance
+94,10,0,1,25,exceed the maximum speed limit
+95,10,0,1,25,staying up all night is a bad idea
+96,10,0,1,25,tickets are very expensive
+97,10,0,1,25,knee bone is connected to the thigh bone
+98,10,0,1,25,faster than a speeding bullet
+99,10,0,1,25,peering through a small hole
+100,10,0,1,25,a much higher risk of getting cancer
+101,11,1,1,25,vote according to your conscience
+102,11,1,1,25,goldilocks and the three bears
+103,11,1,1,25,did you have a good time
+104,11,1,1,25,beautiful paintings in the gallery
+105,11,1,1,25,do you like to shop on sunday
+106,11,1,1,25,the water was monitored daily
+107,11,1,1,25,do you get nervous when you speak
+108,11,1,1,25,he is shouting loudly
+109,11,1,1,25,you will lose your voice
+110,11,1,1,25,travel at the speed of light
+111,12,1,1,25,bank transaction was not registered
+112,12,1,1,25,the dreamers of dreams
+113,12,1,1,25,what you see is what you get
+114,12,1,1,25,great disturbance in the force
+115,12,1,1,25,the voters turfed him out
+116,12,1,1,25,shivering is one way to keep warm
+117,12,1,1,25,all work and no play
+118,12,1,1,25,obligations must be met first
+119,12,1,1,25,do not lie in court or else
+120,12,1,1,25,the gun discharged by accident
+121,13,0,1,0,one hour is allotted for questions
+122,13,0,1,0,he is just like everyone else
+123,13,0,1,0,the location of the crime
+124,13,0,1,0,do not walk too quickly
+125,13,0,1,0,employee recruitment takes a lot of effort
+126,13,0,1,0,the punishment should fit the crime
+127,13,0,1,0,medieval times were very hard
+128,13,0,1,0,nothing finer than discovering a treasure
+129,13,0,1,0,dinosaurs have been extinct for ages
+130,13,0,1,0,the opposing team is over there
+131,14,1,1,0,try to enjoy your maternity leave
+132,14,1,1,0,my watch fell in the water
+133,14,1,1,0,fine but only in moderation
+134,14,1,1,0,learn to walk before you run
+135,14,1,1,0,soon we will return from the city
+136,14,1,1,0,taking the train is usually faster
+137,14,1,1,0,your presentation was inspiring
+138,14,1,1,0,prevailing wind from the east
+139,14,1,1,0,healthy food is good for you
+140,14,1,1,0,for your information only
+141,15,1,1,0,i will meet you at noon
+142,15,1,1,0,questioning the wisdom of the courts
+143,15,1,1,0,an airport is a very busy place
+144,15,1,1,0,buckle up for safety
+145,15,1,1,0,rent is paid at the beginning of the month
+146,15,1,1,0,you are a wonderful example
+147,15,1,1,0,you must make an appointment
+148,15,1,1,0,where can my little dog be
+149,15,1,1,0,people blow their own horn a lot
+150,15,1,1,0,interesting observation was made

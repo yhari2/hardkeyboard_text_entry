@@ -1,0 +1,150 @@
+1,1,0,1,50,did you have a good time
+2,1,0,1,50,want to join us for lunch
+3,1,0,1,50,traveling requires a lot of fuel
+4,1,0,1,50,very reluctant to enter
+5,1,0,1,50,all together in one big pile
+6,1,0,1,50,the trains are always late
+7,1,0,1,50,for your information only
+8,1,0,1,50,circumstances are unacceptable
+9,1,0,1,50,the sun rises in the east
+10,1,0,1,50,bank transaction was not registered
+11,2,1,1,50,salesmen must make their monthly quota
+12,2,1,1,50,you are an ardent capitalist
+13,2,1,1,50,come and see our new car
+14,2,1,1,50,the king sends you to the tower
+15,2,1,1,50,it should be sunny tomorrow
+16,2,1,1,50,our fax number has changed
+17,2,1,1,50,user friendly interface
+18,2,1,1,50,the chancellor was very boring
+19,2,1,1,50,he played a hero in that movie
+20,2,1,1,50,the assignment is due today
+21,3,1,1,50,the cotton is high
+22,3,1,1,50,most judges are very honest
+23,3,1,1,50,do not lie in court or else
+24,3,1,1,50,a glance in the right direction
+25,3,1,1,50,wear a crown with many jewels
+26,3,1,1,50,keep receipts for all your expenses
+27,3,1,1,50,sad to hear that news
+28,3,1,1,50,call for more details
+29,3,1,1,50,the winner of the race
+30,3,1,1,50,microscopes make small things look big
+31,4,0,1,0,just what the doctor ordered
+32,4,0,1,0,popularity is desired by all
+33,4,0,1,0,where did you get such a silly idea
+34,4,0,1,0,raindrops keep falling on my head
+35,4,0,1,0,question that must be answered
+36,4,0,1,0,life is but a dream
+37,4,0,1,0,express delivery is very fast
+38,4,0,1,0,the laser printer is jammed
+39,4,0,1,0,the high waves will swamp us
+40,4,0,1,0,he called seven times
+41,5,1,1,0,my mother makes good cookies
+42,5,1,1,0,he cooled off after she left
+43,5,1,1,0,you want to eat your cake
+44,5,1,1,0,every saturday he folds the laundry
+45,5,1,1,0,the largest of the five oceans
+46,5,1,1,0,construction makes traveling difficult
+47,5,1,1,0,gamblers eventually lose their shirts
+48,5,1,1,0,he is still on our team
+49,5,1,1,0,the back yard of our house
+50,5,1,1,0,we drive on parkways
+51,6,1,1,0,join us on the patio
+52,6,1,1,0,olympic athletes use drugs
+53,6,1,1,0,beware the ides of march
+54,6,1,1,0,the library is closed today
+55,6,1,1,0,seasoned golfers love the game
+56,6,1,1,0,i want to hold your hand
+57,6,1,1,0,movie about a nutty professor
+58,6,1,1,0,i do not care if you do that
+59,6,1,1,0,faster than a speeding bullet
+60,6,1,1,0,do you get nervous when you speak
+61,7,0,1,25,the fire blazed all weekend
+62,7,0,1,25,a duck quacks to ask for food
+63,7,0,1,25,are you talking to me
+64,7,0,1,25,the dreamers of dreams
+65,7,0,1,25,we went grocery shopping
+66,7,0,1,25,careless driving results in a fine
+67,7,0,1,25,i took the rover from the shop
+68,7,0,1,25,people blow their own horn a lot
+69,7,0,1,25,beautiful paintings in the gallery
+70,7,0,1,25,the cat has a pleasant temperament
+71,8,1,1,25,shivering is one way to keep warm
+72,8,1,1,25,motivational seminars make me sick
+73,8,1,1,25,would you like to come to my house
+74,8,1,1,25,fall is my favorite season
+75,8,1,1,25,reading week is just about here
+76,8,1,1,25,he is just like everyone else
+77,8,1,1,25,soon we will return from the city
+78,8,1,1,25,machinery is too complicated
+79,8,1,1,25,the union will go on strike
+80,8,1,1,25,an inefficient way to heat a house
+81,9,1,1,25,the generation gap gets wider
+82,9,1,1,25,i cannot believe i ate the whole thing
+83,9,1,1,25,the accident scene is a shrine for fans
+84,9,1,1,25,see you later alligator
+85,9,1,1,25,get aboard the ship is leaving
+86,9,1,1,25,if at first you do not succeed
+87,9,1,1,25,handicapped persons need consideration
+88,9,1,1,25,everybody loses in custody battles
+89,9,1,1,25,a subject one can really enjoy
+90,9,1,1,25,good at addition and subtraction
+91,10,0,1,100,there are winners and losers
+92,10,0,1,100,prepare for the exam in advance
+93,10,0,1,100,experience is hard to come by
+94,10,0,1,100,stability of the nation
+95,10,0,1,100,the dog buried the bone
+96,10,0,1,100,frequently asked questions
+97,10,0,1,100,the water was monitored daily
+98,10,0,1,100,suburbs are sprawling everywhere
+99,10,0,1,100,labor unions know how to organize
+100,10,0,1,100,coming up with killer sound bites
+101,11,1,1,100,do you prefer a window seat
+102,11,1,1,100,neither a borrower nor a lender be
+103,11,1,1,100,the store will close at ten
+104,11,1,1,100,thank you for your help
+105,11,1,1,100,no kissing in the library
+106,11,1,1,100,drugs should be avoided
+107,11,1,1,100,the second largest country
+108,11,1,1,100,the early bird gets the worm
+109,11,1,1,100,round robin scheduling
+110,11,1,1,100,a dog is the best friend of a man
+111,12,1,1,100,the ventilation system is broken
+112,12,1,1,100,do not drink the water
+113,12,1,1,100,do not say anything
+114,12,1,1,100,take it to the recycling depot
+115,12,1,1,100,we must redouble our efforts
+116,12,1,1,100,prevailing wind from the east
+117,12,1,1,100,stiff penalty for staying out late
+118,12,1,1,100,the presidential suite is very busy
+119,12,1,1,100,that land is owned by the government
+120,12,1,1,100,the most beautiful sunset
+121,13,0,1,75,bad for the environment
+122,13,0,1,75,i like to play tennis
+123,13,0,1,75,superman never wore a mask
+124,13,0,1,75,traveling to conferences is fun
+125,13,0,1,75,the quick brown fox jumped
+126,13,0,1,75,jumping right out of the water
+127,13,0,1,75,mystery of the lost lagoon
+128,13,0,1,75,gas bills are sent monthly
+129,13,0,1,75,sprawling subdivisions are bad
+130,13,0,1,75,our silver anniversary is coming
+131,14,1,1,75,your presentation was inspiring
+132,14,1,1,75,gun powder must be handled with care
+133,14,1,1,75,the bathroom is good for reading
+134,14,1,1,75,do not feel too bad about it
+135,14,1,1,75,so you think you deserve a raise
+136,14,1,1,75,the postal service is very slow
+137,14,1,1,75,learn to walk before you run
+138,14,1,1,75,this watch is too expensive
+139,14,1,1,75,an excellent way to communicate
+140,14,1,1,75,our life expectancy has increased
+141,15,1,1,75,canada has ten provinces
+142,15,1,1,75,accompanied by an adult
+143,15,1,1,75,dolphins leap high out of the water
+144,15,1,1,75,the stock exchange dipped
+145,15,1,1,75,my fingers are very cold
+146,15,1,1,75,good jobs for those with education
+147,15,1,1,75,one never takes too many precautions
+148,15,1,1,75,do not walk too quickly
+149,15,1,1,75,we dine out on the weekends
+150,15,1,1,75,the daring young man

@@ -1,0 +1,150 @@
+1,1,0,2,75,an airport is a very busy place
+2,1,0,2,75,our silver anniversary is coming
+3,1,0,2,75,vanilla flavored ice cream
+4,1,0,2,75,the ropes of a new organization
+5,1,0,2,75,neither a borrower nor a lender be
+6,1,0,2,75,the insulation is not working
+7,1,0,2,75,be persistent to win a strike
+8,1,0,2,75,i like to play tennis
+9,1,0,2,75,i do not care if you do that
+10,1,0,2,75,information super highway
+11,2,1,2,75,the dow jones index has risen
+12,2,1,2,75,interesting observation was made
+13,2,1,2,75,protect your environment
+14,2,1,2,75,did you have a good time
+15,2,1,2,75,completely sold out of that
+16,2,1,2,75,the store will close at ten
+17,2,1,2,75,universally understood to be wrong
+18,2,1,2,75,fine but only in moderation
+19,2,1,2,75,a dog is the best friend of a man
+20,2,1,2,75,the quick brown fox jumped
+21,3,1,2,75,never too rich and never too thin
+22,3,1,2,75,yes you are very smart
+23,3,1,2,75,the minimum amount of time
+24,3,1,2,75,popularity is desired by all
+25,3,1,2,75,the assault took six months
+26,3,1,2,75,sad to hear that news
+27,3,1,2,75,fish are jumping
+28,3,1,2,75,please provide your date of birth
+29,3,1,2,75,the sum of the parts
+30,3,1,2,75,make my day you sucker
+31,4,0,2,50,the back yard of our house
+32,4,0,2,50,the aspirations of a nation
+33,4,0,2,50,careless driving results in a fine
+34,4,0,2,50,the laser printer is jammed
+35,4,0,2,50,do you like to go camping
+36,4,0,2,50,play it again sam
+37,4,0,2,50,prevailing wind from the east
+38,4,0,2,50,physics and chemistry are hard
+39,4,0,2,50,flashing red light means stop
+40,4,0,2,50,a glance in the right direction
+41,5,1,2,50,that sticker needs to be validated
+42,5,1,2,50,the chancellor was very boring
+43,5,1,2,50,movie about a nutty professor
+44,5,1,2,50,players must know all the rules
+45,5,1,2,50,the protesters blocked all traffic
+46,5,1,2,50,this phenomenon will never occur
+47,5,1,2,50,a security force of eight thousand
+48,5,1,2,50,the world is a stage
+49,5,1,2,50,beautiful paintings in the gallery
+50,5,1,2,50,that referendum asked a silly question
+51,6,1,2,50,zero in on the facts
+52,6,1,2,50,so you think you deserve a raise
+53,6,1,2,50,a good stimulus deserves a good response
+54,6,1,2,50,a yard is almost as long as a meter
+55,6,1,2,50,they might find your comment offensive
+56,6,1,2,50,is there any indication of this
+57,6,1,2,50,we are subjects and must obey
+58,6,1,2,50,an offer you cannot refuse
+59,6,1,2,50,sprawling subdivisions are bad
+60,6,1,2,50,the second largest country
+61,7,0,2,0,time to go shopping
+62,7,0,2,0,the trains are always late
+63,7,0,2,0,the four seasons will come
+64,7,0,2,0,frequently asked questions
+65,7,0,2,0,the most beautiful sunset
+66,7,0,2,0,do not walk too quickly
+67,7,0,2,0,relations are very strained
+68,7,0,2,0,just like it says on the canned good
+69,7,0,2,0,questioning the wisdom of the courts
+70,7,0,2,0,the imagination of the nation
+71,8,1,2,0,learn to walk before you run
+72,8,1,2,0,the living is easy
+73,8,1,2,0,a psychiatrist will help you
+74,8,1,2,0,if diplomacy does not work
+75,8,1,2,0,the cream rises to the top
+76,8,1,2,0,the presidential suite is very busy
+77,8,1,2,0,peek out the window
+78,8,1,2,0,all good boys deserve fudge
+79,8,1,2,0,dormitory doors are locked at midnight
+80,8,1,2,0,our housekeeper does a thorough job
+81,9,1,2,0,seasoned golfers love the game
+82,9,1,2,0,i hate baking pies
+83,9,1,2,0,do not worry about this
+84,9,1,2,0,granite is the hardest of all rocks
+85,9,1,2,0,employee recruitment takes a lot of effort
+86,9,1,2,0,important for political parties
+87,9,1,2,0,traveling requires a lot of fuel
+88,9,1,2,0,everybody loses in custody battles
+89,9,1,2,0,the union will go on strike
+90,9,1,2,0,win first prize in the contest
+91,10,0,2,25,a big scratch on the tabletop
+92,10,0,2,25,correct your diction immediately
+93,10,0,2,25,see you later alligator
+94,10,0,2,25,batman wears a cape
+95,10,0,2,25,the winner of the race
+96,10,0,2,25,rapidly running short on words
+97,10,0,2,25,take a coffee break
+98,10,0,2,25,a very traditional way to dress
+99,10,0,2,25,obligations must be met first
+100,10,0,2,25,this leather jacket is too warm
+101,11,1,2,25,shall we play a round of cards
+102,11,1,2,25,stay away from strangers
+103,11,1,2,25,the largest of the five oceans
+104,11,1,2,25,most judges are very honest
+105,11,1,2,25,he cooled off after she left
+106,11,1,2,25,just in time for the party
+107,11,1,2,25,i am allergic to bees and peanuts
+108,11,1,2,25,universities are too expensive
+109,11,1,2,25,i want to hold your hand
+110,11,1,2,25,healthy food is good for you
+111,12,1,2,25,elephants are afraid of mice
+112,12,1,2,25,are you sure you want this
+113,12,1,2,25,double double toil and trouble
+114,12,1,2,25,you are a wonderful example
+115,12,1,2,25,the cat has a pleasant temperament
+116,12,1,2,25,valid until the end of the year
+117,12,1,2,25,the first time he tried to swim
+118,12,1,2,25,put garbage in an abandoned mine
+119,12,1,2,25,that is a very odd question
+120,12,1,2,25,my bank account is overdrawn
+121,13,0,2,100,weeping willows are found near water
+122,13,0,2,100,where did you get such a silly idea
+123,13,0,2,100,the acceptance speech was boring
+124,13,0,2,100,pay off a mortgage for a house
+125,13,0,2,100,are you talking to me
+126,13,0,2,100,my favorite place to visit
+127,13,0,2,100,the registration period is over
+128,13,0,2,100,nothing finer than discovering a treasure
+129,13,0,2,100,an inefficient way to heat a house
+130,13,0,2,100,where did i leave my glasses
+131,14,1,2,100,a little encouragement is needed
+132,14,1,2,100,i like baroque and classical music
+133,14,1,2,100,the food at this restaurant
+134,14,1,2,100,vote according to your conscience
+135,14,1,2,100,nothing wrong with his style
+136,14,1,2,100,saving that child was a heroic effort
+137,14,1,2,100,where can my little dog be
+138,14,1,2,100,raindrops keep falling on my head
+139,14,1,2,100,we have enough witnesses
+140,14,1,2,100,jumping right out of the water
+141,15,1,2,100,there will be some fog tonight
+142,15,1,2,100,my favorite sport is racketball
+143,15,1,2,100,this is too much to handle
+144,15,1,2,100,he watched in astonishment
+145,15,1,2,100,we went grocery shopping
+146,15,1,2,100,dashing through the snow
+147,15,1,2,100,experience is hard to come by
+148,15,1,2,100,the fire blazed all weekend
+149,15,1,2,100,do not lie in court or else
+150,15,1,2,100,the chamber makes important decisions

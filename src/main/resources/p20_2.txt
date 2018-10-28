@@ -1,0 +1,150 @@
+1,1,0,0,25,where did you get that tie
+2,1,0,0,25,companies announce a merger
+3,1,0,0,25,for your information only
+4,1,0,0,25,your presentation was inspiring
+5,1,0,0,25,want to join us for lunch
+6,1,0,0,25,february has an extra day
+7,1,0,0,25,my dog sheds his hair
+8,1,0,0,25,he is shouting loudly
+9,1,0,0,25,join us on the patio
+10,1,0,0,25,canada has three territories
+11,2,1,0,25,round robin scheduling
+12,2,1,0,25,the registration period is over
+13,2,1,0,25,historic meeting without a result
+14,2,1,0,25,please keep this confidential
+15,2,1,0,25,elections bring out the best
+16,2,1,0,25,teaching services will help
+17,2,1,0,25,wear a crown with many jewels
+18,2,1,0,25,my watch fell in the water
+19,2,1,0,25,the children are playing
+20,2,1,0,25,the kids are very excited
+21,3,1,0,25,physics and chemistry are hard
+22,3,1,0,25,that agreement is rife with problems
+23,3,1,0,25,two or three cups of coffee
+24,3,1,0,25,frequently asked questions
+25,3,1,0,25,superman never wore a mask
+26,3,1,0,25,raindrops keep falling on my head
+27,3,1,0,25,we missed your birthday
+28,3,1,0,25,the early bird gets the worm
+29,3,1,0,25,suburbs are sprawling everywhere
+30,3,1,0,25,the store will close at ten
+31,4,0,0,50,all work and no play
+32,4,0,0,50,correct your diction immediately
+33,4,0,0,50,get rid of that immediately
+34,4,0,0,50,one of the poorest nations
+35,4,0,0,50,faster than a speeding bullet
+36,4,0,0,50,this system of taxation
+37,4,0,0,50,freud wrote of the ego
+38,4,0,0,50,a good joke deserves a good laugh
+39,4,0,0,50,drove my chevy to the levee
+40,4,0,0,50,an injustice is committed every day
+41,5,1,0,50,the largest of the five oceans
+42,5,1,0,50,it looks like a shack
+43,5,1,0,50,hair gel is very greasy
+44,5,1,0,50,buckle up for safety
+45,5,1,0,50,an offer you cannot refuse
+46,5,1,0,50,what to do when the oil runs dry
+47,5,1,0,50,the fire raged for an entire month
+48,5,1,0,50,watch out for low flying objects
+49,5,1,0,50,the sum of the parts
+50,5,1,0,50,he is just like everyone else
+51,6,1,0,50,he underwent triple bypass surgery
+52,6,1,0,50,the chancellor was very boring
+53,6,1,0,50,dormitory doors are locked at midnight
+54,6,1,0,50,circumstances are unacceptable
+55,6,1,0,50,a correction had to be published
+56,6,1,0,50,not quite so smart as you think
+57,6,1,0,50,lydia wants to go home
+58,6,1,0,50,that sticker needs to be validated
+59,6,1,0,50,i am allergic to bees and peanuts
+60,6,1,0,50,a steep learning curve in riding a unicycle
+61,7,0,0,75,i spilled coffee on the carpet
+62,7,0,0,75,traveling to conferences is fun
+63,7,0,0,75,arguing with the boss is futile
+64,7,0,0,75,the fourth edition was better
+65,7,0,0,75,exercise is good for the mind
+66,7,0,0,75,he cooled off after she left
+67,7,0,0,75,i hate baking pies
+68,7,0,0,75,in sharp contrast to your words
+69,7,0,0,75,i want to hold your hand
+70,7,0,0,75,quit while you are ahead
+71,8,1,0,75,gas bills are sent monthly
+72,8,1,0,75,see you later alligator
+73,8,1,0,75,for murder you get a long prison sentence
+74,8,1,0,75,we are having spaghetti
+75,8,1,0,75,this is too much to handle
+76,8,1,0,75,please try to be home before midnight
+77,8,1,0,75,the ventilation system is broken
+78,8,1,0,75,i will meet you at noon
+79,8,1,0,75,communicate through email
+80,8,1,0,75,staying up all night is a bad idea
+81,9,1,0,75,motivational seminars make me sick
+82,9,1,0,75,what a lovely red jacket
+83,9,1,0,75,double double toil and trouble
+84,9,1,0,75,no kissing in the library
+85,9,1,0,75,players must know all the rules
+86,9,1,0,75,try to enjoy your maternity leave
+87,9,1,0,75,please provide your date of birth
+88,9,1,0,75,express delivery is very fast
+89,9,1,0,75,people blow their own horn a lot
+90,9,1,0,75,that is very unfortunate
+91,10,0,0,0,a coupon for a free sample
+92,10,0,0,0,we better investigate this
+93,10,0,0,0,come and see our new car
+94,10,0,0,0,movie about a nutty professor
+95,10,0,0,0,do not drink the water
+96,10,0,0,0,rejection letters are discouraging
+97,10,0,0,0,travel at the speed of light
+98,10,0,0,0,if at first you do not succeed
+99,10,0,0,0,an occasional taste of chocolate
+100,10,0,0,0,the algorithm is too complicated
+101,11,1,0,0,an excellent way to communicate
+102,11,1,0,0,pay off a mortgage for a house
+103,11,1,0,0,my bike has a flat tire
+104,11,1,0,0,this mission statement is baloney
+105,11,1,0,0,universally understood to be wrong
+106,11,1,0,0,a yard is almost as long as a meter
+107,11,1,0,0,experience is hard to come by
+108,11,1,0,0,he called seven times
+109,11,1,0,0,make up a few more phrases
+110,11,1,0,0,my car always breaks in the winter
+111,12,1,0,0,granite is the hardest of all rocks
+112,12,1,0,0,fall is my favorite season
+113,12,1,0,0,can i skate with my sister today
+114,12,1,0,0,knee bone is connected to the thigh bone
+115,12,1,0,0,so you think you deserve a raise
+116,12,1,0,0,nothing wrong with his style
+117,12,1,0,0,they watched the entire movie
+118,12,1,0,0,the voters turfed him out
+119,12,1,0,0,please take a bath this month
+120,12,1,0,0,this watch is too expensive
+121,13,0,0,100,this phenomenon will never occur
+122,13,0,0,100,the facts get in the way
+123,13,0,0,100,you are an ardent capitalist
+124,13,0,0,100,victims deserve more redress
+125,13,0,0,100,if diplomacy does not work
+126,13,0,0,100,where did you get such a silly idea
+127,13,0,0,100,shall we play a round of cards
+128,13,0,0,100,call for more details
+129,13,0,0,100,is there any indication of this
+130,13,0,0,100,the second largest country
+131,14,1,0,100,but the levee was dry
+132,14,1,0,100,you have my sympathy
+133,14,1,0,100,listen to five hours of opera
+134,14,1,0,100,that is a very odd question
+135,14,1,0,100,a quarter of a century
+136,14,1,0,100,play it again sam
+137,14,1,0,100,one heck of a question
+138,14,1,0,100,question that must be answered
+139,14,1,0,100,the dog will bite you
+140,14,1,0,100,take a coffee break
+141,15,1,0,100,this person is a disaster
+142,15,1,0,100,the food at this restaurant
+143,15,1,0,100,the accident scene is a shrine for fans
+144,15,1,0,100,handicapped persons need consideration
+145,15,1,0,100,a good response to the question
+146,15,1,0,100,i took the rover from the shop
+147,15,1,0,100,traveling requires a lot of fuel
+148,15,1,0,100,the coronation was very exciting
+149,15,1,0,100,i can still feel your presence
+150,15,1,0,100,jumping right out of the water

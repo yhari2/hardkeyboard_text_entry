@@ -1,0 +1,150 @@
+1,1,0,2,100,hair gel is very greasy
+2,1,0,2,100,rain rain go away
+3,1,0,2,100,he is still on our team
+4,1,0,2,100,the four seasons will come
+5,1,0,2,100,lie detector tests never work
+6,1,0,2,100,for your information only
+7,1,0,2,100,no kissing in the library
+8,1,0,2,100,i cannot believe i ate the whole thing
+9,1,0,2,100,do a good deed to someone
+10,1,0,2,100,do you like to shop on sunday
+11,2,1,2,100,neither a borrower nor a lender be
+12,2,1,2,100,only an idiot would lie in court
+13,2,1,2,100,a subject one can really enjoy
+14,2,1,2,100,shall we play a round of cards
+15,2,1,2,100,coming up with killer sound bites
+16,2,1,2,100,in sharp contrast to your words
+17,2,1,2,100,no more war no more bloodshed
+18,2,1,2,100,they might find your comment offensive
+19,2,1,2,100,healthy food is good for you
+20,2,1,2,100,you are a wonderful example
+21,3,1,2,100,this mission statement is baloney
+22,3,1,2,100,our silver anniversary is coming
+23,3,1,2,100,elephants are afraid of mice
+24,3,1,2,100,i do not fully agree with you
+25,3,1,2,100,travel at the speed of light
+26,3,1,2,100,where did you get that tie
+27,3,1,2,100,information super highway
+28,3,1,2,100,do not drink the water
+29,3,1,2,100,my favorite subject is psychology
+30,3,1,2,100,that is a very odd question
+31,4,0,2,75,the picket line gives me the chills
+32,4,0,2,75,the coronation was very exciting
+33,4,0,2,75,i am allergic to bees and peanuts
+34,4,0,2,75,please follow the guidelines
+35,4,0,2,75,he called seven times
+36,4,0,2,75,with each step forward
+37,4,0,2,75,he is just like everyone else
+38,4,0,2,75,the water was monitored daily
+39,4,0,2,75,wishful thinking is fine
+40,4,0,2,75,canada has three territories
+41,5,1,2,75,seasoned golfers love the game
+42,5,1,2,75,sing the gospel and the blues
+43,5,1,2,75,knee bone is connected to the thigh bone
+44,5,1,2,75,what goes up must come down
+45,5,1,2,75,i like baroque and classical music
+46,5,1,2,75,most judges are very honest
+47,5,1,2,75,the kids are very excited
+48,5,1,2,75,beautiful paintings in the gallery
+49,5,1,2,75,a steep learning curve in riding a unicycle
+50,5,1,2,75,why do you ask silly questions
+51,6,1,2,75,this person is a disaster
+52,6,1,2,75,an inefficient way to heat a house
+53,6,1,2,75,communicate through email
+54,6,1,2,75,physics and chemistry are hard
+55,6,1,2,75,taking the train is usually faster
+56,6,1,2,75,the algorithm is too complicated
+57,6,1,2,75,we have enough witnesses
+58,6,1,2,75,take a coffee break
+59,6,1,2,75,public transit is much faster
+60,6,1,2,75,mary had a little lamb
+61,7,0,2,25,goldilocks and the three bears
+62,7,0,2,25,a picture is worth many words
+63,7,0,2,25,teaching services will help
+64,7,0,2,25,dashing through the snow
+65,7,0,2,25,the treasurer must balance her books
+66,7,0,2,25,space is a high priority
+67,7,0,2,25,there are winners and losers
+68,7,0,2,25,the music is better than it sounds
+69,7,0,2,25,it should be sunny tomorrow
+70,7,0,2,25,do you like to go camping
+71,8,1,2,25,my favorite web browser
+72,8,1,2,25,an occasional taste of chocolate
+73,8,1,2,25,my mother makes good cookies
+74,8,1,2,25,the generation gap gets wider
+75,8,1,2,25,a coupon for a free sample
+76,8,1,2,25,the children are playing
+77,8,1,2,25,i am wearing a tie and a jacket
+78,8,1,2,25,on the way to the cottage
+79,8,1,2,25,the elevator door appears to be stuck
+80,8,1,2,25,presidents drive expensive cars
+81,9,1,2,25,where did i leave my glasses
+82,9,1,2,25,the insulation is not working
+83,9,1,2,25,the gun discharged by accident
+84,9,1,2,25,longer than a football field
+85,9,1,2,25,exceed the maximum speed limit
+86,9,1,2,25,the capitol of our nation
+87,9,1,2,25,please try to be home before midnight
+88,9,1,2,25,the imagination of the nation
+89,9,1,2,25,very reluctant to enter
+90,9,1,2,25,we must redouble our efforts
+91,10,0,2,0,a big scratch on the tabletop
+92,10,0,2,0,the ventilation system is broken
+93,10,0,2,0,just in time for the party
+94,10,0,2,0,there will be some fog tonight
+95,10,0,2,0,starlight and dewdrop
+96,10,0,2,0,a fox is a very smart animal
+97,10,0,2,0,do not feel too bad about it
+98,10,0,2,0,the cat has a pleasant temperament
+99,10,0,2,0,he cooled off after she left
+100,10,0,2,0,parking tickets can be challenged
+101,11,1,2,0,freud wrote of the ego
+102,11,1,2,0,the protesters blocked all traffic
+103,11,1,2,0,this equation is too complicated
+104,11,1,2,0,if at first you do not succeed
+105,11,1,2,0,accompanied by an adult
+106,11,1,2,0,interactions between men and women
+107,11,1,2,0,microscopes make small things look big
+108,11,1,2,0,the daring young man
+109,11,1,2,0,you must make an appointment
+110,11,1,2,0,play it again sam
+111,12,1,2,0,please provide your date of birth
+112,12,1,2,0,make my day you sucker
+113,12,1,2,0,i listen to the tape every day
+114,12,1,2,0,learn to walk before you run
+115,12,1,2,0,the trains are always late
+116,12,1,2,0,fish are jumping
+117,12,1,2,0,a thoroughly disgusting thing to say
+118,12,1,2,0,the second largest country
+119,12,1,2,0,prayer in schools offends some
+120,12,1,2,0,quick there is someone knocking
+121,13,0,2,50,the sun rises in the east
+122,13,0,2,50,our fax number has changed
+123,13,0,2,50,quit while you are ahead
+124,13,0,2,50,gun powder must be handled with care
+125,13,0,2,50,earthquakes are predictable
+126,13,0,2,50,i want to hold your hand
+127,13,0,2,50,all work and no play
+128,13,0,2,50,the dog will bite you
+129,13,0,2,50,every saturday he folds the laundry
+130,13,0,2,50,my favorite place to visit
+131,14,1,2,50,find a nearby parking spot
+132,14,1,2,50,is there any indication of this
+133,14,1,2,50,a psychiatrist will help you
+134,14,1,2,50,please keep this confidential
+135,14,1,2,50,time to go shopping
+136,14,1,2,50,bank transaction was not registered
+137,14,1,2,50,the bus was very crowded
+138,14,1,2,50,i skimmed through your proposal
+139,14,1,2,50,the price of gas is high
+140,14,1,2,50,we are subjects and must obey
+141,15,1,2,50,exercise is good for the mind
+142,15,1,2,50,world population is growing
+143,15,1,2,50,if diplomacy does not work
+144,15,1,2,50,the laser printer is jammed
+145,15,1,2,50,the presidential suite is very busy
+146,15,1,2,50,one hour is allotted for questions
+147,15,1,2,50,pay off a mortgage for a house
+148,15,1,2,50,frequently asked questions
+149,15,1,2,50,go out for some pizza and beer
+150,15,1,2,50,toss the ball around

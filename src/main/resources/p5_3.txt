@@ -1,0 +1,150 @@
+1,1,0,2,100,traveling requires a lot of fuel
+2,1,0,2,100,we are having spaghetti
+3,1,0,2,100,do not drink the water
+4,1,0,2,100,file all complaints in writing
+5,1,0,2,100,canada has ten provinces
+6,1,0,2,100,a picture is worth many words
+7,1,0,2,100,the aspirations of a nation
+8,1,0,2,100,dinosaurs have been extinct for ages
+9,1,0,2,100,the location of the crime
+10,1,0,2,100,you want to eat your cake
+11,2,1,2,100,a steep learning curve in riding a unicycle
+12,2,1,2,100,this is a non profit organization
+13,2,1,2,100,my dog sheds his hair
+14,2,1,2,100,every saturday he folds the laundry
+15,2,1,2,100,tell a lie and your nose will grow
+16,2,1,2,100,vote according to your conscience
+17,2,1,2,100,a good stimulus deserves a good response
+18,2,1,2,100,a big scratch on the tabletop
+19,2,1,2,100,i hate baking pies
+20,2,1,2,100,did you have a good time
+21,3,1,2,100,a dog is the best friend of a man
+22,3,1,2,100,look in the syllabus for the course
+23,3,1,2,100,medieval times were very hard
+24,3,1,2,100,shall we play a round of cards
+25,3,1,2,100,just what the doctor ordered
+26,3,1,2,100,the water was monitored daily
+27,3,1,2,100,do not lie in court or else
+28,3,1,2,100,put garbage in an abandoned mine
+29,3,1,2,100,knee bone is connected to the thigh bone
+30,3,1,2,100,we went grocery shopping
+31,4,0,2,0,get rid of that immediately
+32,4,0,2,0,nobody cares anymore
+33,4,0,2,0,bring the offenders to justice
+34,4,0,2,0,the king sends you to the tower
+35,4,0,2,0,please try to be home before midnight
+36,4,0,2,0,good jobs for those with education
+37,4,0,2,0,mystery of the lost lagoon
+38,4,0,2,0,you must be getting old
+39,4,0,2,0,do you prefer a window seat
+40,4,0,2,0,raindrops keep falling on my head
+41,5,1,2,0,fine but only in moderation
+42,5,1,2,0,give me one spoonful of coffee
+43,5,1,2,0,all work and no play
+44,5,1,2,0,make up a few more phrases
+45,5,1,2,0,double double toil and trouble
+46,5,1,2,0,just like it says on the canned good
+47,5,1,2,0,the music is better than it sounds
+48,5,1,2,0,experience is hard to come by
+49,5,1,2,0,olympic athletes use drugs
+50,5,1,2,0,dormitory doors are locked at midnight
+51,6,1,2,0,nothing finer than discovering a treasure
+52,6,1,2,0,i like baroque and classical music
+53,6,1,2,0,the fourth edition was better
+54,6,1,2,0,the fax machine is broken
+55,6,1,2,0,no more war no more bloodshed
+56,6,1,2,0,he is just like everyone else
+57,6,1,2,0,the acceptance speech was boring
+58,6,1,2,0,go out for some pizza and beer
+59,6,1,2,0,accompanied by an adult
+60,6,1,2,0,superman never wore a mask
+61,7,0,2,75,prescription drugs require a note
+62,7,0,2,75,the postal service is very slow
+63,7,0,2,75,the coronation was very exciting
+64,7,0,2,75,if at first you do not succeed
+65,7,0,2,75,just in time for the party
+66,7,0,2,75,the protesters blocked all traffic
+67,7,0,2,75,you are not a jedi yet
+68,7,0,2,75,they watched the entire movie
+69,7,0,2,75,in sharp contrast to your words
+70,7,0,2,75,do you get nervous when you speak
+71,8,1,2,75,coming up with killer sound bites
+72,8,1,2,75,the children are playing
+73,8,1,2,75,frequently asked questions
+74,8,1,2,75,most judges are very honest
+75,8,1,2,75,sent this by registered mail
+76,8,1,2,75,traveling to conferences is fun
+77,8,1,2,75,there will be some fog tonight
+78,8,1,2,75,construction makes traveling difficult
+79,8,1,2,75,thank you for your help
+80,8,1,2,75,popularity is desired by all
+81,9,1,2,75,stay away from strangers
+82,9,1,2,75,parking tickets can be challenged
+83,9,1,2,75,stiff penalty for staying out late
+84,9,1,2,75,labor unions know how to organize
+85,9,1,2,75,the opposing team is over there
+86,9,1,2,75,the daring young man
+87,9,1,2,75,a good response to the question
+88,9,1,2,75,he watched in astonishment
+89,9,1,2,75,well connected with people
+90,9,1,2,75,we better investigate this
+91,10,0,2,25,vanilla flavored ice cream
+92,10,0,2,25,companies announce a merger
+93,10,0,2,25,three two one zero blast off
+94,10,0,2,25,an occasional taste of chocolate
+95,10,0,2,25,the cat has a pleasant temperament
+96,10,0,2,25,prevailing wind from the east
+97,10,0,2,25,irregular verbs are the hardest to learn
+98,10,0,2,25,a lot of chlorine in the water
+99,10,0,2,25,i just cannot figure this out
+100,10,0,2,25,a problem with the engine
+101,11,1,2,25,the back yard of our house
+102,11,1,2,25,we have enough witnesses
+103,11,1,2,25,find a nearby parking spot
+104,11,1,2,25,starlight and dewdrop
+105,11,1,2,25,flashing red light means stop
+106,11,1,2,25,people blow their own horn a lot
+107,11,1,2,25,sit at the front of the bus
+108,11,1,2,25,toss the ball around
+109,11,1,2,25,our fax number has changed
+110,11,1,2,25,do not walk too quickly
+111,12,1,2,25,he called seven times
+112,12,1,2,25,an airport is a very busy place
+113,12,1,2,25,rent is paid at the beginning of the month
+114,12,1,2,25,it is very windy today
+115,12,1,2,25,microscopes make small things look big
+116,12,1,2,25,the force is with you
+117,12,1,2,25,did you see that spectacular explosion
+118,12,1,2,25,employee recruitment takes a lot of effort
+119,12,1,2,25,what you see is what you get
+120,12,1,2,25,everybody loses in custody battles
+121,13,0,2,50,get your priorities in order
+122,13,0,2,50,we are subjects and must obey
+123,13,0,2,50,february has an extra day
+124,13,0,2,50,weeping willows are found near water
+125,13,0,2,50,the fire raged for an entire month
+126,13,0,2,50,that referendum asked a silly question
+127,13,0,2,50,wear a crown with many jewels
+128,13,0,2,50,head shoulders knees and toes
+129,13,0,2,50,reading week is just about here
+130,13,0,2,50,are you talking to me
+131,14,1,2,50,it looks like a shack
+132,14,1,2,50,we park in driveways
+133,14,1,2,50,the store will close at ten
+134,14,1,2,50,circumstances are unacceptable
+135,14,1,2,50,the library is closed today
+136,14,1,2,50,i agree with you
+137,14,1,2,50,do you like to shop on sunday
+138,14,1,2,50,an injustice is committed every day
+139,14,1,2,50,a most ridiculous thing
+140,14,1,2,50,if you were not so stupid
+141,15,1,2,50,consequences of a wrong turn
+142,15,1,2,50,my car always breaks in the winter
+143,15,1,2,50,i spilled coffee on the carpet
+144,15,1,2,50,quick there is someone knocking
+145,15,1,2,50,they love to yap about nothing
+146,15,1,2,50,parking lot is full of trucks
+147,15,1,2,50,rapidly running short on words
+148,15,1,2,50,a duck quacks to ask for food
+149,15,1,2,50,the punishment should fit the crime
+150,15,1,2,50,lie detector tests never work

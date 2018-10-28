@@ -1,0 +1,150 @@
+1,1,0,0,25,employee recruitment takes a lot of effort
+2,1,0,0,25,i want to hold your hand
+3,1,0,0,25,freud wrote of the ego
+4,1,0,0,25,a security force of eight thousand
+5,1,0,0,25,there will be some fog tonight
+6,1,0,0,25,dinosaurs have been extinct for ages
+7,1,0,0,25,be home before midnight
+8,1,0,0,25,the assignment is due today
+9,1,0,0,25,dormitory doors are locked at midnight
+10,1,0,0,25,the algorithm is too complicated
+11,2,1,0,25,he is just like everyone else
+12,2,1,0,25,it should be sunny tomorrow
+13,2,1,0,25,machinery is too complicated
+14,2,1,0,25,can we play cards tonight
+15,2,1,0,25,no more war no more bloodshed
+16,2,1,0,25,pumping brakes when roads are slippery
+17,2,1,0,25,a yard is almost as long as a meter
+18,2,1,0,25,what to do when the oil runs dry
+19,2,1,0,25,wishful thinking is fine
+20,2,1,0,25,learn to walk before you run
+21,3,1,0,25,an airport is a very busy place
+22,3,1,0,25,the minimum amount of time
+23,3,1,0,25,get your priorities in order
+24,3,1,0,25,i am going to a music lesson
+25,3,1,0,25,toss the ball around
+26,3,1,0,25,shivering is one way to keep warm
+27,3,1,0,25,questioning the wisdom of the courts
+28,3,1,0,25,irregular verbs are the hardest to learn
+29,3,1,0,25,keep receipts for all your expenses
+30,3,1,0,25,we have enough witnesses
+31,4,0,0,0,a touchdown in the last minute
+32,4,0,0,0,the imagination of the nation
+33,4,0,0,0,but the levee was dry
+34,4,0,0,0,it is difficult to concentrate
+35,4,0,0,0,an injustice is committed every day
+36,4,0,0,0,mom made her a turtleneck
+37,4,0,0,0,the dreamers of dreams
+38,4,0,0,0,february has an extra day
+39,4,0,0,0,a very traditional way to dress
+40,4,0,0,0,the punishment should fit the crime
+41,5,1,0,0,motivational seminars make me sick
+42,5,1,0,0,sent this by registered mail
+43,5,1,0,0,make my day you sucker
+44,5,1,0,0,weeping willows are found near water
+45,5,1,0,0,lie detector tests never work
+46,5,1,0,0,the stock exchange dipped
+47,5,1,0,0,where did you get such a silly idea
+48,5,1,0,0,valium in the economy size
+49,5,1,0,0,do not feel too bad about it
+50,5,1,0,0,are you talking to me
+51,6,1,0,0,love means many things
+52,6,1,0,0,our life expectancy has increased
+53,6,1,0,0,my favorite place to visit
+54,6,1,0,0,the fax machine is broken
+55,6,1,0,0,buckle up for safety
+56,6,1,0,0,a big scratch on the tabletop
+57,6,1,0,0,get aboard the ship is leaving
+58,6,1,0,0,you must make an appointment
+59,6,1,0,0,the location of the crime
+60,6,1,0,0,this equation is too complicated
+61,7,0,0,100,protect your environment
+62,7,0,0,100,wear a crown with many jewels
+63,7,0,0,100,she wears too much makeup
+64,7,0,0,100,i watched blazing saddles
+65,7,0,0,100,the high waves will swamp us
+66,7,0,0,100,a fox is a very smart animal
+67,7,0,0,100,it looks like a shack
+68,7,0,0,100,interesting observation was made
+69,7,0,0,100,physics and chemistry are hard
+70,7,0,0,100,the power of denial
+71,8,1,0,100,prevailing wind from the east
+72,8,1,0,100,a quarter of a century
+73,8,1,0,100,granite is the hardest of all rocks
+74,8,1,0,100,a good joke deserves a good laugh
+75,8,1,0,100,the protesters blocked all traffic
+76,8,1,0,100,go out for some pizza and beer
+77,8,1,0,100,he underwent triple bypass surgery
+78,8,1,0,100,breathing is difficult
+79,8,1,0,100,the daring young man
+80,8,1,0,100,work hard to reach the summit
+81,9,1,0,100,the plug does not fit the socket
+82,9,1,0,100,elections bring out the best
+83,9,1,0,100,user friendly interface
+84,9,1,0,100,sign the withdrawal slip
+85,9,1,0,100,house with new electrical panel
+86,9,1,0,100,the store will close at ten
+87,9,1,0,100,i agree with you
+88,9,1,0,100,drugs should be avoided
+89,9,1,0,100,coalition governments never work
+90,9,1,0,100,the quick brown fox jumped
+91,10,0,0,50,travel at the speed of light
+92,10,0,0,50,the back yard of our house
+93,10,0,0,50,coming up with killer sound bites
+94,10,0,0,50,i can see the rings on saturn
+95,10,0,0,50,gamblers eventually lose their shirts
+96,10,0,0,50,where did i leave my glasses
+97,10,0,0,50,historic meeting without a result
+98,10,0,0,50,her majesty visited our country
+99,10,0,0,50,do not drink the water
+100,10,0,0,50,obligations must be met first
+101,11,1,0,50,they love to yap about nothing
+102,11,1,0,50,the chancellor was very boring
+103,11,1,0,50,we missed your birthday
+104,11,1,0,50,the kids are very excited
+105,11,1,0,50,the registration period is over
+106,11,1,0,50,burglars never leave their business card
+107,11,1,0,50,a psychiatrist will help you
+108,11,1,0,50,come and see our new car
+109,11,1,0,50,all good boys deserve fudge
+110,11,1,0,50,do you get nervous when you speak
+111,12,1,0,50,a much higher risk of getting cancer
+112,12,1,0,50,this leather jacket is too warm
+113,12,1,0,50,put garbage in an abandoned mine
+114,12,1,0,50,i do not fully agree with you
+115,12,1,0,50,interactions between men and women
+116,12,1,0,50,one never takes too many precautions
+117,12,1,0,50,file all complaints in writing
+118,12,1,0,50,public transit is much faster
+119,12,1,0,50,you must be getting old
+120,12,1,0,50,fine but only in moderation
+121,13,0,0,75,vote according to your conscience
+122,13,0,0,75,time to go shopping
+123,13,0,0,75,why do you ask silly questions
+124,13,0,0,75,the bus was very crowded
+125,13,0,0,75,this is too much to handle
+126,13,0,0,75,on the way to the cottage
+127,13,0,0,75,your etiquette needs some work
+128,13,0,0,75,hair gel is very greasy
+129,13,0,0,75,the world is a stage
+130,13,0,0,75,it is very windy today
+131,14,1,0,75,microscopes make small things look big
+132,14,1,0,75,our housekeeper does a thorough job
+133,14,1,0,75,canada has three territories
+134,14,1,0,75,jumping right out of the water
+135,14,1,0,75,yes you are very smart
+136,14,1,0,75,express delivery is very fast
+137,14,1,0,75,important for political parties
+138,14,1,0,75,the objective of the exercise
+139,14,1,0,75,just in time for the party
+140,14,1,0,75,victims deserve more redress
+141,15,1,0,75,the aspirations of a nation
+142,15,1,0,75,starlight and dewdrop
+143,15,1,0,75,see you later alligator
+144,15,1,0,75,video camera with a zoom lens
+145,15,1,0,75,that is a very odd question
+146,15,1,0,75,luckily my wallet was found
+147,15,1,0,75,i listen to the tape every day
+148,15,1,0,75,all together in one big pile
+149,15,1,0,75,traveling requires a lot of fuel
+150,15,1,0,75,electric cars need big fuel cells

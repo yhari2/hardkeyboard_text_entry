@@ -1,0 +1,150 @@
+1,1,0,1,75,want to join us for lunch
+2,1,0,1,75,a yard is almost as long as a meter
+3,1,0,1,75,effort is what it will take
+4,1,0,1,75,it is difficult to concentrate
+5,1,0,1,75,the water was monitored daily
+6,1,0,1,75,i can still feel your presence
+7,1,0,1,75,fish are jumping
+8,1,0,1,75,take it to the recycling depot
+9,1,0,1,75,all together in one big pile
+10,1,0,1,75,a lot of chlorine in the water
+11,2,1,1,75,yes you are very smart
+12,2,1,1,75,a much higher risk of getting cancer
+13,2,1,1,75,double double toil and trouble
+14,2,1,1,75,this leather jacket is too warm
+15,2,1,1,75,the elevator door appears to be stuck
+16,2,1,1,75,circumstances are unacceptable
+17,2,1,1,75,you are not a jedi yet
+18,2,1,1,75,important for political parties
+19,2,1,1,75,my watch fell in the water
+20,2,1,1,75,jumping right out of the water
+21,3,1,1,75,starlight and dewdrop
+22,3,1,1,75,my favorite web browser
+23,3,1,1,75,the treasury department is broke
+24,3,1,1,75,the cream rises to the top
+25,3,1,1,75,why do you ask silly questions
+26,3,1,1,75,sent this by registered mail
+27,3,1,1,75,do not lie in court or else
+28,3,1,1,75,interactions between men and women
+29,3,1,1,75,stay away from strangers
+30,3,1,1,75,rectangular objects have four sides
+31,4,0,1,100,the chamber makes important decisions
+32,4,0,1,100,they watched the entire movie
+33,4,0,1,100,the punishment should fit the crime
+34,4,0,1,100,all work and no play
+35,4,0,1,100,this is a very good idea
+36,4,0,1,100,earthquakes are predictable
+37,4,0,1,100,the bathroom is good for reading
+38,4,0,1,100,please keep this confidential
+39,4,0,1,100,a good response to the question
+40,4,0,1,100,we went grocery shopping
+41,5,1,1,100,is there any indication of this
+42,5,1,1,100,the ropes of a new organization
+43,5,1,1,100,watch out for low flying objects
+44,5,1,1,100,take a coffee break
+45,5,1,1,100,pumping brakes when roads are slippery
+46,5,1,1,100,dolphins leap high out of the water
+47,5,1,1,100,lie detector tests never work
+48,5,1,1,100,the sum of the parts
+49,5,1,1,100,frequently asked questions
+50,5,1,1,100,the insulation is not working
+51,6,1,1,100,teaching services will help
+52,6,1,1,100,do not worry about this
+53,6,1,1,100,a feeling of complete exasperation
+54,6,1,1,100,hands on experience with a job
+55,6,1,1,100,we dine out on the weekends
+56,6,1,1,100,we are having spaghetti
+57,6,1,1,100,so you think you deserve a raise
+58,6,1,1,100,victims deserve more redress
+59,6,1,1,100,quit while you are ahead
+60,6,1,1,100,for murder you get a long prison sentence
+61,7,0,1,25,a thoroughly disgusting thing to say
+62,7,0,1,25,traveling requires a lot of fuel
+63,7,0,1,25,valium in the economy size
+64,7,0,1,25,come and see our new car
+65,7,0,1,25,i do not fully agree with you
+66,7,0,1,25,you must make an appointment
+67,7,0,1,25,apartments are too expensive
+68,7,0,1,25,go out for some pizza and beer
+69,7,0,1,25,nobody cares anymore
+70,7,0,1,25,the children are playing
+71,8,1,1,25,the high waves will swamp us
+72,8,1,1,25,we drive on parkways
+73,8,1,1,25,destruction of the rain forest
+74,8,1,1,25,can we play cards tonight
+75,8,1,1,25,the collapse of the roman empire
+76,8,1,1,25,one heck of a question
+77,8,1,1,25,an injustice is committed every day
+78,8,1,1,25,put garbage in an abandoned mine
+79,8,1,1,25,the ventilation system is broken
+80,8,1,1,25,coalition governments never work
+81,9,1,1,25,my mother makes good cookies
+82,9,1,1,25,rejection letters are discouraging
+83,9,1,1,25,the generation gap gets wider
+84,9,1,1,25,soon we will return from the city
+85,9,1,1,25,the bus was very crowded
+86,9,1,1,25,suburbs are sprawling everywhere
+87,9,1,1,25,my fingers are very cold
+88,9,1,1,25,relations are very strained
+89,9,1,1,25,the registration period is over
+90,9,1,1,25,knee bone is connected to the thigh bone
+91,10,0,1,0,your presentation was inspiring
+92,10,0,1,0,where can my little dog be
+93,10,0,1,0,microscopes make small things look big
+94,10,0,1,0,the stock exchange dipped
+95,10,0,1,0,make my day you sucker
+96,10,0,1,0,wear a crown with many jewels
+97,10,0,1,0,this is a non profit organization
+98,10,0,1,0,an airport is a very busy place
+99,10,0,1,0,do not walk too quickly
+100,10,0,1,0,head shoulders knees and toes
+101,11,1,1,0,universally understood to be wrong
+102,11,1,1,0,be persistent to win a strike
+103,11,1,1,0,i spilled coffee on the carpet
+104,11,1,1,0,do you prefer a window seat
+105,11,1,1,0,the dog buried the bone
+106,11,1,1,0,prepare for the exam in advance
+107,11,1,1,0,make up a few more phrases
+108,11,1,1,0,traveling to conferences is fun
+109,11,1,1,0,that is very unfortunate
+110,11,1,1,0,public transit is much faster
+111,12,1,1,0,this person is a disaster
+112,12,1,1,0,weeping willows are found near water
+113,12,1,1,0,prevailing wind from the east
+114,12,1,1,0,sing the gospel and the blues
+115,12,1,1,0,well connected with people
+116,12,1,1,0,do not feel too bad about it
+117,12,1,1,0,wishful thinking is fine
+118,12,1,1,0,can i skate with my sister today
+119,12,1,1,0,elephants are afraid of mice
+120,12,1,1,0,what a monkey sees a monkey will do
+121,13,0,1,50,just in time for the party
+122,13,0,1,50,with each step forward
+123,13,0,1,50,meet tomorrow in the lavatory
+124,13,0,1,50,are you talking to me
+125,13,0,1,50,labor unions know how to organize
+126,13,0,1,50,there will be some fog tonight
+127,13,0,1,50,where did you get such a silly idea
+128,13,0,1,50,on the way to the cottage
+129,13,0,1,50,rent is paid at the beginning of the month
+130,13,0,1,50,taking the train is usually faster
+131,14,1,1,50,be home before midnight
+132,14,1,1,50,good at addition and subtraction
+133,14,1,1,50,i listen to the tape every day
+134,14,1,1,50,sprawling subdivisions are bad
+135,14,1,1,50,learn to walk before you run
+136,14,1,1,50,a dog is the best friend of a man
+137,14,1,1,50,peek out the window
+138,14,1,1,50,join us on the patio
+139,14,1,1,50,he is shouting loudly
+140,14,1,1,50,a fox is a very smart animal
+141,15,1,1,50,a problem with the engine
+142,15,1,1,50,in sharp contrast to your words
+143,15,1,1,50,the fourth edition was better
+144,15,1,1,50,i do not care if you do that
+145,15,1,1,50,goldilocks and the three bears
+146,15,1,1,50,a most ridiculous thing
+147,15,1,1,50,the laser printer is jammed
+148,15,1,1,50,he cooled off after she left
+149,15,1,1,50,one of the poorest nations
+150,15,1,1,50,movie about a nutty professor

@@ -1,0 +1,150 @@
+1,1,0,2,25,my bare face in the wind
+2,1,0,2,25,we went grocery shopping
+3,1,0,2,25,my preferred treat is chocolate
+4,1,0,2,25,the price of gas is high
+5,1,0,2,25,all together in one big pile
+6,1,0,2,25,presidents drive expensive cars
+7,1,0,2,25,work hard to reach the summit
+8,1,0,2,25,careless driving results in a fine
+9,1,0,2,25,he was wearing a sweatshirt
+10,1,0,2,25,fall is my favorite season
+11,2,1,2,25,the accident scene is a shrine for fans
+12,2,1,2,25,i can still feel your presence
+13,2,1,2,25,not quite so smart as you think
+14,2,1,2,25,exercise is good for the mind
+15,2,1,2,25,the postal service is very slow
+16,2,1,2,25,what to do when the oil runs dry
+17,2,1,2,25,my favorite sport is racketball
+18,2,1,2,25,the pen is mightier than the sword
+19,2,1,2,25,starlight and dewdrop
+20,2,1,2,25,you must be getting old
+21,3,1,2,25,please follow the guidelines
+22,3,1,2,25,the bus was very crowded
+23,3,1,2,25,yes you are very smart
+24,3,1,2,25,the registration period is over
+25,3,1,2,25,the elevator door appears to be stuck
+26,3,1,2,25,we missed your birthday
+27,3,1,2,25,wishful thinking is fine
+28,3,1,2,25,gamblers eventually lose their shirts
+29,3,1,2,25,one hour is allotted for questions
+30,3,1,2,25,do not drink too much
+31,4,0,2,50,popularity is desired by all
+32,4,0,2,50,no exchange without a bill
+33,4,0,2,50,insurance is important for bad drivers
+34,4,0,2,50,on the way to the cottage
+35,4,0,2,50,please take a bath this month
+36,4,0,2,50,wear a crown with many jewels
+37,4,0,2,50,a much higher risk of getting cancer
+38,4,0,2,50,why do you ask silly questions
+39,4,0,2,50,zero in on the facts
+40,4,0,2,50,win first prize in the contest
+41,5,1,2,50,this equation is too complicated
+42,5,1,2,50,dinosaurs have been extinct for ages
+43,5,1,2,50,i am going to a music lesson
+44,5,1,2,50,you must make an appointment
+45,5,1,2,50,the algorithm is too complicated
+46,5,1,2,50,consequences of a wrong turn
+47,5,1,2,50,the opposing team is over there
+48,5,1,2,50,play it again sam
+49,5,1,2,50,it looks like a shack
+50,5,1,2,50,beautiful paintings in the gallery
+51,6,1,2,50,a quarter of a century
+52,6,1,2,50,did you see that spectacular explosion
+53,6,1,2,50,the assault took six months
+54,6,1,2,50,find a nearby parking spot
+55,6,1,2,50,limited warranty of two years
+56,6,1,2,50,the dog will bite you
+57,6,1,2,50,the daring young man
+58,6,1,2,50,do you get nervous when you speak
+59,6,1,2,50,fish are jumping
+60,6,1,2,50,the location of the crime
+61,7,0,2,0,world population is growing
+62,7,0,2,0,movie about a nutty professor
+63,7,0,2,0,never too rich and never too thin
+64,7,0,2,0,the treasurer must balance her books
+65,7,0,2,0,the library is closed today
+66,7,0,2,0,dashing through the snow
+67,7,0,2,0,head shoulders knees and toes
+68,7,0,2,0,pumping brakes when roads are slippery
+69,7,0,2,0,saving that child was a heroic effort
+70,7,0,2,0,companies announce a merger
+71,8,1,2,0,the collapse of the roman empire
+72,8,1,2,0,dormitory doors are locked at midnight
+73,8,1,2,0,the chancellor was very boring
+74,8,1,2,0,the sun rises in the east
+75,8,1,2,0,round robin scheduling
+76,8,1,2,0,coming up with killer sound bites
+77,8,1,2,0,join us on the patio
+78,8,1,2,0,sign the withdrawal slip
+79,8,1,2,0,the stock exchange dipped
+80,8,1,2,0,do you prefer a window seat
+81,9,1,2,0,i skimmed through your proposal
+82,9,1,2,0,where can my little dog be
+83,9,1,2,0,tell a lie and your nose will grow
+84,9,1,2,0,my car always breaks in the winter
+85,9,1,2,0,our silver anniversary is coming
+86,9,1,2,0,i took the rover from the shop
+87,9,1,2,0,acutely aware of his good looks
+88,9,1,2,0,salesmen must make their monthly quota
+89,9,1,2,0,user friendly interface
+90,9,1,2,0,longer than a football field
+91,10,0,2,75,medieval times were very hard
+92,10,0,2,75,the high waves will swamp us
+93,10,0,2,75,soon we will return from the city
+94,10,0,2,75,sit at the front of the bus
+95,10,0,2,75,interesting observation was made
+96,10,0,2,75,listen to five hours of opera
+97,10,0,2,75,that is a very nasty cut
+98,10,0,2,75,labor unions know how to organize
+99,10,0,2,75,a psychiatrist will help you
+100,10,0,2,75,her majesty visited our country
+101,11,1,2,75,we accept personal checks
+102,11,1,2,75,he is still on our team
+103,11,1,2,75,bank transaction was not registered
+104,11,1,2,75,what a lovely red jacket
+105,11,1,2,75,earthquakes are predictable
+106,11,1,2,75,prayer in schools offends some
+107,11,1,2,75,do you like to shop on sunday
+108,11,1,2,75,the largest of the five oceans
+109,11,1,2,75,meet tomorrow in the lavatory
+110,11,1,2,75,this mission statement is baloney
+111,12,1,2,75,three two one zero blast off
+112,12,1,2,75,tickets are very expensive
+113,12,1,2,75,everybody loses in custody battles
+114,12,1,2,75,the fire blazed all weekend
+115,12,1,2,75,we have enough witnesses
+116,12,1,2,75,the cream rises to the top
+117,12,1,2,75,just like it says on the canned good
+118,12,1,2,75,the first time he tried to swim
+119,12,1,2,75,it is very windy today
+120,12,1,2,75,historic meeting without a result
+121,13,0,2,100,it is difficult to concentrate
+122,13,0,2,100,my favorite subject is psychology
+123,13,0,2,100,victims deserve more redress
+124,13,0,2,100,the cat has a pleasant temperament
+125,13,0,2,100,can we play cards tonight
+126,13,0,2,100,an excellent way to communicate
+127,13,0,2,100,time to go shopping
+128,13,0,2,100,the early bird gets the worm
+129,13,0,2,100,my favorite place to visit
+130,13,0,2,100,mary had a little lamb
+131,14,1,2,100,video camera with a zoom lens
+132,14,1,2,100,sent this by registered mail
+133,14,1,2,100,if at first you do not succeed
+134,14,1,2,100,if diplomacy does not work
+135,14,1,2,100,your presentation was inspiring
+136,14,1,2,100,communicate through email
+137,14,1,2,100,we are subjects and must obey
+138,14,1,2,100,employee recruitment takes a lot of effort
+139,14,1,2,100,the store will close at ten
+140,14,1,2,100,you are a wonderful example
+141,15,1,2,100,the gun discharged by accident
+142,15,1,2,100,our housekeeper does a thorough job
+143,15,1,2,100,great disturbance in the force
+144,15,1,2,100,i can play much better now
+145,15,1,2,100,players must know all the rules
+146,15,1,2,100,a feeling of complete exasperation
+147,15,1,2,100,the generation gap gets wider
+148,15,1,2,100,a problem with the engine
+149,15,1,2,100,my bank account is overdrawn
+150,15,1,2,100,faster than a speeding bullet

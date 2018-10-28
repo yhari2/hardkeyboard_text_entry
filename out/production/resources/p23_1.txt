@@ -1,0 +1,150 @@
+1,1,0,0,100,no exchange without a bill
+2,1,0,0,100,canada has ten provinces
+3,1,0,0,100,you must make an appointment
+4,1,0,0,100,go out for some pizza and beer
+5,1,0,0,100,construction makes traveling difficult
+6,1,0,0,100,if you come home late the doors are locked
+7,1,0,0,100,batman wears a cape
+8,1,0,0,100,the sum of the parts
+9,1,0,0,100,i spilled coffee on the carpet
+10,1,0,0,100,the plug does not fit the socket
+11,2,1,0,100,are you sure you want this
+12,2,1,0,100,the opposing team is over there
+13,2,1,0,100,electric cars need big fuel cells
+14,2,1,0,100,i hate baking pies
+15,2,1,0,100,communicate through email
+16,2,1,0,100,i do not care if you do that
+17,2,1,0,100,very reluctant to enter
+18,2,1,0,100,i want to hold your hand
+19,2,1,0,100,a problem with the engine
+20,2,1,0,100,the winner of the race
+21,3,1,0,100,microscopes make small things look big
+22,3,1,0,100,rapidly running short on words
+23,3,1,0,100,raindrops keep falling on my head
+24,3,1,0,100,the children are playing
+25,3,1,0,100,machinery is too complicated
+26,3,1,0,100,public transit is much faster
+27,3,1,0,100,we run the risk of failure
+28,3,1,0,100,we must redouble our efforts
+29,3,1,0,100,teaching services will help
+30,3,1,0,100,where did you get such a silly idea
+31,4,0,0,50,what a monkey sees a monkey will do
+32,4,0,0,50,we have enough witnesses
+33,4,0,0,50,weeping willows are found near water
+34,4,0,0,50,hair gel is very greasy
+35,4,0,0,50,our fax number has changed
+36,4,0,0,50,quit while you are ahead
+37,4,0,0,50,this library has many books
+38,4,0,0,50,completely sold out of that
+39,4,0,0,50,the facts get in the way
+40,4,0,0,50,watch out for low flying objects
+41,5,1,0,50,my mother makes good cookies
+42,5,1,0,50,the fax machine is broken
+43,5,1,0,50,question that must be answered
+44,5,1,0,50,effort is what it will take
+45,5,1,0,50,meet tomorrow in the lavatory
+46,5,1,0,50,the sun rises in the east
+47,5,1,0,50,freud wrote of the ego
+48,5,1,0,50,that sticker needs to be validated
+49,5,1,0,50,accompanied by an adult
+50,5,1,0,50,exceed the maximum speed limit
+51,6,1,0,50,universities are too expensive
+52,6,1,0,50,my bike has a flat tire
+53,6,1,0,50,the bus was very crowded
+54,6,1,0,50,saving that child was a heroic effort
+55,6,1,0,50,limited warranty of two years
+56,6,1,0,50,the store will close at ten
+57,6,1,0,50,this phenomenon will never occur
+58,6,1,0,50,video camera with a zoom lens
+59,6,1,0,50,my preferred treat is chocolate
+60,6,1,0,50,vanilla flavored ice cream
+61,7,0,0,0,companies announce a merger
+62,7,0,0,0,we are subjects and must obey
+63,7,0,0,0,house with new electrical panel
+64,7,0,0,0,relations are very strained
+65,7,0,0,0,keep receipts for all your expenses
+66,7,0,0,0,rejection letters are discouraging
+67,7,0,0,0,only an idiot would lie in court
+68,7,0,0,0,a little encouragement is needed
+69,7,0,0,0,prescription drugs require a note
+70,7,0,0,0,gun powder must be handled with care
+71,8,1,0,0,apartments are too expensive
+72,8,1,0,0,these cookies are so amazing
+73,8,1,0,0,wear a crown with many jewels
+74,8,1,0,0,the chamber makes important decisions
+75,8,1,0,0,do you like to go camping
+76,8,1,0,0,prayer in schools offends some
+77,8,1,0,0,it is difficult to concentrate
+78,8,1,0,0,the living is easy
+79,8,1,0,0,an injustice is committed every day
+80,8,1,0,0,why do you ask silly questions
+81,9,1,0,0,he watched in astonishment
+82,9,1,0,0,wishful thinking is fine
+83,9,1,0,0,take a coffee break
+84,9,1,0,0,a yard is almost as long as a meter
+85,9,1,0,0,olympic athletes use drugs
+86,9,1,0,0,my favorite place to visit
+87,9,1,0,0,call for more details
+88,9,1,0,0,would you like to come to my house
+89,9,1,0,0,do a good deed to someone
+90,9,1,0,0,if you were not so stupid
+91,10,0,0,25,we missed your birthday
+92,10,0,0,25,suburbs are sprawling everywhere
+93,10,0,0,25,always cover all the bases
+94,10,0,0,25,win first prize in the contest
+95,10,0,0,25,what to do when the oil runs dry
+96,10,0,0,25,the dreamers of dreams
+97,10,0,0,25,with each step forward
+98,10,0,0,25,exercise is good for the mind
+99,10,0,0,25,he called seven times
+100,10,0,0,25,frequently asked questions
+101,11,1,0,25,stiff penalty for staying out late
+102,11,1,0,25,you must be getting old
+103,11,1,0,25,the rationale behind the decision
+104,11,1,0,25,my bare face in the wind
+105,11,1,0,25,you will lose your voice
+106,11,1,0,25,my favorite web browser
+107,11,1,0,25,he is still on our team
+108,11,1,0,25,if diplomacy does not work
+109,11,1,0,25,the location of the crime
+110,11,1,0,25,the high waves will swamp us
+111,12,1,0,25,toss the ball around
+112,12,1,0,25,an occasional taste of chocolate
+113,12,1,0,25,file all complaints in writing
+114,12,1,0,25,seasoned golfers love the game
+115,12,1,0,25,the most beautiful sunset
+116,12,1,0,25,this camera takes nice photographs
+117,12,1,0,25,flashing red light means stop
+118,12,1,0,25,rent is paid at the beginning of the month
+119,12,1,0,25,learn to walk before you run
+120,12,1,0,25,chemical spill took forever
+121,13,0,0,75,take it to the recycling depot
+122,13,0,0,75,the punishment should fit the crime
+123,13,0,0,75,please keep this confidential
+124,13,0,0,75,the dog buried the bone
+125,13,0,0,75,santa claus got stuck
+126,13,0,0,75,everybody loses in custody battles
+127,13,0,0,75,the music is better than it sounds
+128,13,0,0,75,historic meeting without a result
+129,13,0,0,75,this leather jacket is too warm
+130,13,0,0,75,the imagination of the nation
+131,14,1,0,75,get rid of that immediately
+132,14,1,0,75,the water was monitored daily
+133,14,1,0,75,a duck quacks to ask for food
+134,14,1,0,75,a security force of eight thousand
+135,14,1,0,75,irregular verbs are the hardest to learn
+136,14,1,0,75,a good response to the question
+137,14,1,0,75,an excellent way to communicate
+138,14,1,0,75,give me one spoonful of coffee
+139,14,1,0,75,what goes up must come down
+140,14,1,0,75,the first time he tried to swim
+141,15,1,0,75,we better investigate this
+142,15,1,0,75,this equation is too complicated
+143,15,1,0,75,not quite so smart as you think
+144,15,1,0,75,superman never wore a mask
+145,15,1,0,75,acutely aware of his good looks
+146,15,1,0,75,we are having spaghetti
+147,15,1,0,75,user friendly interface
+148,15,1,0,75,have a good weekend
+149,15,1,0,75,fish are jumping
+150,15,1,0,75,in sharp contrast to your words

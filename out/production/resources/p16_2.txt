@@ -1,0 +1,150 @@
+1,1,0,0,25,the sun rises in the east
+2,1,0,0,25,come and see our new car
+3,1,0,0,25,the union will go on strike
+4,1,0,0,25,prepare for the exam in advance
+5,1,0,0,25,bad for the environment
+6,1,0,0,25,information super highway
+7,1,0,0,25,he is shouting loudly
+8,1,0,0,25,flashing red light means stop
+9,1,0,0,25,i agree with you
+10,1,0,0,25,the acceptance speech was boring
+11,2,1,0,25,they watched the entire movie
+12,2,1,0,25,breathing is difficult
+13,2,1,0,25,rent is paid at the beginning of the month
+14,2,1,0,25,our fax number has changed
+15,2,1,0,25,take it to the recycling depot
+16,2,1,0,25,the winner of the race
+17,2,1,0,25,the library is closed today
+18,2,1,0,25,i like to play tennis
+19,2,1,0,25,i skimmed through your proposal
+20,2,1,0,25,my mother makes good cookies
+21,3,1,0,25,that sticker needs to be validated
+22,3,1,0,25,the facts get in the way
+23,3,1,0,25,shivering is one way to keep warm
+24,3,1,0,25,the fourth edition was better
+25,3,1,0,25,popularity is desired by all
+26,3,1,0,25,get your priorities in order
+27,3,1,0,25,they love to yap about nothing
+28,3,1,0,25,that agreement is rife with problems
+29,3,1,0,25,keep receipts for all your expenses
+30,3,1,0,25,tell a lie and your nose will grow
+31,4,0,0,100,starlight and dewdrop
+32,4,0,0,100,watch out for low flying objects
+33,4,0,0,100,parking tickets can be challenged
+34,4,0,0,100,correct your diction immediately
+35,4,0,0,100,a big scratch on the tabletop
+36,4,0,0,100,one never takes too many precautions
+37,4,0,0,100,a much higher risk of getting cancer
+38,4,0,0,100,pay off a mortgage for a house
+39,4,0,0,100,great disturbance in the force
+40,4,0,0,100,call for more details
+41,5,1,0,100,i will put on my glasses
+42,5,1,0,100,taking the train is usually faster
+43,5,1,0,100,sent this by registered mail
+44,5,1,0,100,house with new electrical panel
+45,5,1,0,100,this is a very good idea
+46,5,1,0,100,medieval times were very hard
+47,5,1,0,100,are you talking to me
+48,5,1,0,100,the postal service is very slow
+49,5,1,0,100,elephants are afraid of mice
+50,5,1,0,100,a little encouragement is needed
+51,6,1,0,100,the sum of the parts
+52,6,1,0,100,accompanied by an adult
+53,6,1,0,100,the minimum amount of time
+54,6,1,0,100,the dow jones index has risen
+55,6,1,0,100,an airport is a very busy place
+56,6,1,0,100,frequently asked questions
+57,6,1,0,100,he played a hero in that movie
+58,6,1,0,100,i watched blazing saddles
+59,6,1,0,100,sad to hear that news
+60,6,1,0,100,the punishment should fit the crime
+61,7,0,0,50,tickets are very expensive
+62,7,0,0,50,fall is my favorite season
+63,7,0,0,50,six daughters and seven sons
+64,7,0,0,50,february has an extra day
+65,7,0,0,50,you want to eat your cake
+66,7,0,0,50,video camera with a zoom lens
+67,7,0,0,50,if at first you do not succeed
+68,7,0,0,50,a fox is a very smart animal
+69,7,0,0,50,dashing through the snow
+70,7,0,0,50,handicapped persons need consideration
+71,8,1,0,50,we accept personal checks
+72,8,1,0,50,the proprietor was unavailable
+73,8,1,0,50,experience is hard to come by
+74,8,1,0,50,do not lie in court or else
+75,8,1,0,50,do you get nervous when you speak
+76,8,1,0,50,i am allergic to bees and peanuts
+77,8,1,0,50,thank you for your help
+78,8,1,0,50,the algorithm is too complicated
+79,8,1,0,50,we dine out on the weekends
+80,8,1,0,50,this system of taxation
+81,9,1,0,50,the fax machine is broken
+82,9,1,0,50,be discreet about your meeting
+83,9,1,0,50,no exchange without a bill
+84,9,1,0,50,a psychiatrist will help you
+85,9,1,0,50,destruction of the rain forest
+86,9,1,0,50,an occasional taste of chocolate
+87,9,1,0,50,i spilled coffee on the carpet
+88,9,1,0,50,make up a few more phrases
+89,9,1,0,50,interactions between men and women
+90,9,1,0,50,the water was monitored daily
+91,10,0,0,75,my fingers are very cold
+92,10,0,0,75,the four seasons will come
+93,10,0,0,75,the treasury department is broke
+94,10,0,0,75,stay away from strangers
+95,10,0,0,75,round robin scheduling
+96,10,0,0,75,the trains are always late
+97,10,0,0,75,head shoulders knees and toes
+98,10,0,0,75,a good response to the question
+99,10,0,0,75,good jobs for those with education
+100,10,0,0,75,please provide your date of birth
+101,11,1,0,75,it should be sunny tomorrow
+102,11,1,0,75,the objective of the exercise
+103,11,1,0,75,chemical spill took forever
+104,11,1,0,75,irregular verbs are the hardest to learn
+105,11,1,0,75,user friendly interface
+106,11,1,0,75,meet tomorrow in the lavatory
+107,11,1,0,75,the kids are very excited
+108,11,1,0,75,the music is better than it sounds
+109,11,1,0,75,if you come home late the doors are locked
+110,11,1,0,75,my bare face in the wind
+111,12,1,0,75,rejection letters are discouraging
+112,12,1,0,75,are you sure you want this
+113,12,1,0,75,hair gel is very greasy
+114,12,1,0,75,every apple from every tree
+115,12,1,0,75,we drive on parkways
+116,12,1,0,75,my favorite subject is psychology
+117,12,1,0,75,people blow their own horn a lot
+118,12,1,0,75,historic meeting without a result
+119,12,1,0,75,i can still feel your presence
+120,12,1,0,75,elections bring out the best
+121,13,0,0,0,the dog will bite you
+122,13,0,0,0,the cotton is high
+123,13,0,0,0,relations are very strained
+124,13,0,0,0,my preferred treat is chocolate
+125,13,0,0,0,valium in the economy size
+126,13,0,0,0,drove my chevy to the levee
+127,13,0,0,0,interesting observation was made
+128,13,0,0,0,would you like to come to my house
+129,13,0,0,0,hands on experience with a job
+130,13,0,0,0,a duck quacks to ask for food
+131,14,1,0,0,the chancellor was very boring
+132,14,1,0,0,earthquakes are predictable
+133,14,1,0,0,your presentation was inspiring
+134,14,1,0,0,i can see the rings on saturn
+135,14,1,0,0,just like it says on the canned good
+136,14,1,0,0,did you have a good time
+137,14,1,0,0,the location of the crime
+138,14,1,0,0,be home before midnight
+139,14,1,0,0,one hour is allotted for questions
+140,14,1,0,0,do not worry about this
+141,15,1,0,0,a security force of eight thousand
+142,15,1,0,0,drugs should be avoided
+143,15,1,0,0,file all complaints in writing
+144,15,1,0,0,machinery is too complicated
+145,15,1,0,0,a rattle snake is very poisonous
+146,15,1,0,0,i want to hold your hand
+147,15,1,0,0,consequences of a wrong turn
+148,15,1,0,0,is there any indication of this
+149,15,1,0,0,question that must be answered
+150,15,1,0,0,a tumor is okay provided it is benign

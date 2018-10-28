@@ -1,0 +1,150 @@
+1,1,0,2,75,the food at this restaurant
+2,1,0,2,75,question that must be answered
+3,1,0,2,75,you must make an appointment
+4,1,0,2,75,sad to hear that news
+5,1,0,2,75,a tumor is okay provided it is benign
+6,1,0,2,75,a most ridiculous thing
+7,1,0,2,75,round robin scheduling
+8,1,0,2,75,the music is better than it sounds
+9,1,0,2,75,the postal service is very slow
+10,1,0,2,75,six daughters and seven sons
+11,2,1,2,75,it should be sunny tomorrow
+12,2,1,2,75,the bus was very crowded
+13,2,1,2,75,did you see that spectacular explosion
+14,2,1,2,75,every apple from every tree
+15,2,1,2,75,beware the ides of march
+16,2,1,2,75,we park in driveways
+17,2,1,2,75,the capitol of our nation
+18,2,1,2,75,questioning the wisdom of the courts
+19,2,1,2,75,presidents drive expensive cars
+20,2,1,2,75,i am going to a music lesson
+21,3,1,2,75,work hard to reach the summit
+22,3,1,2,75,olympic athletes use drugs
+23,3,1,2,75,that is a very nasty cut
+24,3,1,2,75,a psychiatrist will help you
+25,3,1,2,75,prescription drugs require a note
+26,3,1,2,75,where did i leave my glasses
+27,3,1,2,75,this library has many books
+28,3,1,2,75,obligations must be met first
+29,3,1,2,75,the dow jones index has risen
+30,3,1,2,75,please take a bath this month
+31,4,0,2,50,well connected with people
+32,4,0,2,50,do not drink the water
+33,4,0,2,50,frequently asked questions
+34,4,0,2,50,come and see our new car
+35,4,0,2,50,mary had a little lamb
+36,4,0,2,50,a rattle snake is very poisonous
+37,4,0,2,50,teaching services will help
+38,4,0,2,50,this is a very good idea
+39,4,0,2,50,an injustice is committed every day
+40,4,0,2,50,why do you ask silly questions
+41,5,1,2,50,goldilocks and the three bears
+42,5,1,2,50,the voters turfed him out
+43,5,1,2,50,the imagination of the nation
+44,5,1,2,50,santa claus got stuck
+45,5,1,2,50,nobody cares anymore
+46,5,1,2,50,the world is a stage
+47,5,1,2,50,an excellent way to communicate
+48,5,1,2,50,the sum of the parts
+49,5,1,2,50,hands on experience with a job
+50,5,1,2,50,lydia wants to go home
+51,6,1,2,50,exercise is good for the mind
+52,6,1,2,50,the union will go on strike
+53,6,1,2,50,breathing is difficult
+54,6,1,2,50,neither a borrower nor a lender be
+55,6,1,2,50,these barracks are big enough
+56,6,1,2,50,everybody loses in custody battles
+57,6,1,2,50,my favorite web browser
+58,6,1,2,50,shivering is one way to keep warm
+59,6,1,2,50,we dine out on the weekends
+60,6,1,2,50,sign the withdrawal slip
+61,7,0,2,25,interactions between men and women
+62,7,0,2,25,movie about a nutty professor
+63,7,0,2,25,i listen to the tape every day
+64,7,0,2,25,i like to play tennis
+65,7,0,2,25,jumping right out of the water
+66,7,0,2,25,i cannot believe i ate the whole thing
+67,7,0,2,25,a very traditional way to dress
+68,7,0,2,25,the bathroom is good for reading
+69,7,0,2,25,you are an ardent capitalist
+70,7,0,2,25,do you get nervous when you speak
+71,8,1,2,25,an inefficient way to heat a house
+72,8,1,2,25,communicate through email
+73,8,1,2,25,the four seasons will come
+74,8,1,2,25,my fingers are very cold
+75,8,1,2,25,try to enjoy your maternity leave
+76,8,1,2,25,important for political parties
+77,8,1,2,25,protect your environment
+78,8,1,2,25,i can see the rings on saturn
+79,8,1,2,25,i just cannot figure this out
+80,8,1,2,25,please keep this confidential
+81,9,1,2,25,i like baroque and classical music
+82,9,1,2,25,this person is a disaster
+83,9,1,2,25,my watch fell in the water
+84,9,1,2,25,do not say anything
+85,9,1,2,25,weeping willows are found near water
+86,9,1,2,25,the coronation was very exciting
+87,9,1,2,25,a little encouragement is needed
+88,9,1,2,25,soon we will return from the city
+89,9,1,2,25,file all complaints in writing
+90,9,1,2,25,where can my little dog be
+91,10,0,2,100,what you see is what you get
+92,10,0,2,100,this mission statement is baloney
+93,10,0,2,100,vote according to your conscience
+94,10,0,2,100,experience is hard to come by
+95,10,0,2,100,a picture is worth many words
+96,10,0,2,100,make up a few more phrases
+97,10,0,2,100,be discreet about your meeting
+98,10,0,2,100,you are a wonderful example
+99,10,0,2,100,gas bills are sent monthly
+100,10,0,2,100,i skimmed through your proposal
+101,11,1,2,100,a good joke deserves a good laugh
+102,11,1,2,100,always cover all the bases
+103,11,1,2,100,universities are too expensive
+104,11,1,2,100,salesmen must make their monthly quota
+105,11,1,2,100,most judges are very honest
+106,11,1,2,100,you are not a jedi yet
+107,11,1,2,100,zero in on the facts
+108,11,1,2,100,we missed your birthday
+109,11,1,2,100,people blow their own horn a lot
+110,11,1,2,100,dashing through the snow
+111,12,1,2,100,the fourth edition was better
+112,12,1,2,100,granite is the hardest of all rocks
+113,12,1,2,100,careless driving results in a fine
+114,12,1,2,100,take a coffee break
+115,12,1,2,100,get your priorities in order
+116,12,1,2,100,faster than a speeding bullet
+117,12,1,2,100,the force is with you
+118,12,1,2,100,a steep learning curve in riding a unicycle
+119,12,1,2,100,can we play cards tonight
+120,12,1,2,100,it looks like a shack
+121,13,0,2,0,i spilled coffee on the carpet
+122,13,0,2,0,double double toil and trouble
+123,13,0,2,0,a good response to the question
+124,13,0,2,0,he was wearing a sweatshirt
+125,13,0,2,0,microscopes make small things look big
+126,13,0,2,0,it is very windy today
+127,13,0,2,0,february has an extra day
+128,13,0,2,0,find a nearby parking spot
+129,13,0,2,0,play it again sam
+130,13,0,2,0,beautiful paintings in the gallery
+131,14,1,2,0,get rid of that immediately
+132,14,1,2,0,the ventilation system is broken
+133,14,1,2,0,rapidly running short on words
+134,14,1,2,0,i agree with you
+135,14,1,2,0,is there any indication of this
+136,14,1,2,0,sit at the front of the bus
+137,14,1,2,0,your etiquette needs some work
+138,14,1,2,0,elections bring out the best
+139,14,1,2,0,our silver anniversary is coming
+140,14,1,2,0,i will meet you at noon
+141,15,1,2,0,important news always seems to be late
+142,15,1,2,0,nothing wrong with his style
+143,15,1,2,0,a dog is the best friend of a man
+144,15,1,2,0,apartments are too expensive
+145,15,1,2,0,i do not care if you do that
+146,15,1,2,0,my dog sheds his hair
+147,15,1,2,0,rejection letters are discouraging
+148,15,1,2,0,the dreamers of dreams
+149,15,1,2,0,my preferred treat is chocolate
+150,15,1,2,0,the fax machine is broken

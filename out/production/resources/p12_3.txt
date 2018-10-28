@@ -1,0 +1,150 @@
+1,1,0,2,100,protect your environment
+2,1,0,2,100,fine but only in moderation
+3,1,0,2,100,but the levee was dry
+4,1,0,2,100,that sticker needs to be validated
+5,1,0,2,100,they watched the entire movie
+6,1,0,2,100,hair gel is very greasy
+7,1,0,2,100,the pen is mightier than the sword
+8,1,0,2,100,lie detector tests never work
+9,1,0,2,100,this person is a disaster
+10,1,0,2,100,you will lose your voice
+11,2,1,2,100,i do not care if you do that
+12,2,1,2,100,the insulation is not working
+13,2,1,2,100,a picture is worth many words
+14,2,1,2,100,the store will close at ten
+15,2,1,2,100,the chamber makes important decisions
+16,2,1,2,100,wear a crown with many jewels
+17,2,1,2,100,i want to hold your hand
+18,2,1,2,100,the aspirations of a nation
+19,2,1,2,100,watch out for low flying objects
+20,2,1,2,100,a tumor is okay provided it is benign
+21,3,1,2,100,canada has ten provinces
+22,3,1,2,100,this system of taxation
+23,3,1,2,100,question that must be answered
+24,3,1,2,100,a little encouragement is needed
+25,3,1,2,100,all good boys deserve fudge
+26,3,1,2,100,go out for some pizza and beer
+27,3,1,2,100,irregular verbs are the hardest to learn
+28,3,1,2,100,breathing is difficult
+29,3,1,2,100,rent is paid at the beginning of the month
+30,3,1,2,100,you have my sympathy
+31,4,0,2,50,i can play much better now
+32,4,0,2,50,coalition governments never work
+33,4,0,2,50,a big scratch on the tabletop
+34,4,0,2,50,quick there is someone knocking
+35,4,0,2,50,teaching services will help
+36,4,0,2,50,two or three cups of coffee
+37,4,0,2,50,we have enough witnesses
+38,4,0,2,50,microscopes make small things look big
+39,4,0,2,50,this library has many books
+40,4,0,2,50,the treasurer must balance her books
+41,5,1,2,50,the algorithm is too complicated
+42,5,1,2,50,elephants are afraid of mice
+43,5,1,2,50,the power of denial
+44,5,1,2,50,a problem with the engine
+45,5,1,2,50,i cannot believe i ate the whole thing
+46,5,1,2,50,get aboard the ship is leaving
+47,5,1,2,50,do not drink too much
+48,5,1,2,50,sign the withdrawal slip
+49,5,1,2,50,we are having spaghetti
+50,5,1,2,50,my watch fell in the water
+51,6,1,2,50,the king sends you to the tower
+52,6,1,2,50,these cookies are so amazing
+53,6,1,2,50,a glance in the right direction
+54,6,1,2,50,be discreet about your meeting
+55,6,1,2,50,elections bring out the best
+56,6,1,2,50,if you were not so stupid
+57,6,1,2,50,there are winners and losers
+58,6,1,2,50,why do you ask silly questions
+59,6,1,2,50,staying up all night is a bad idea
+60,6,1,2,50,gun powder must be handled with care
+61,7,0,2,25,the generation gap gets wider
+62,7,0,2,25,the rationale behind the decision
+63,7,0,2,25,the fourth edition was better
+64,7,0,2,25,employee recruitment takes a lot of effort
+65,7,0,2,25,every saturday he folds the laundry
+66,7,0,2,25,this phenomenon will never occur
+67,7,0,2,25,a correction had to be published
+68,7,0,2,25,file all complaints in writing
+69,7,0,2,25,he played a hero in that movie
+70,7,0,2,25,they love to yap about nothing
+71,8,1,2,25,that is very unfortunate
+72,8,1,2,25,a coupon for a free sample
+73,8,1,2,25,everybody loses in custody battles
+74,8,1,2,25,join us on the patio
+75,8,1,2,25,wishful thinking is fine
+76,8,1,2,25,your presentation was inspiring
+77,8,1,2,25,i like to play tennis
+78,8,1,2,25,taking the train is usually faster
+79,8,1,2,25,travel at the speed of light
+80,8,1,2,25,bad for the environment
+81,9,1,2,25,we accept personal checks
+82,9,1,2,25,the water was monitored daily
+83,9,1,2,25,be home before midnight
+84,9,1,2,25,the library is closed today
+85,9,1,2,25,the collapse of the roman empire
+86,9,1,2,25,one heck of a question
+87,9,1,2,25,that land is owned by the government
+88,9,1,2,25,did you have a good time
+89,9,1,2,25,where did you get that tie
+90,9,1,2,25,a feeling of complete exasperation
+91,10,0,2,0,frequently asked questions
+92,10,0,2,0,the treasury department is broke
+93,10,0,2,0,stiff penalty for staying out late
+94,10,0,2,0,it is difficult to concentrate
+95,10,0,2,0,you should visit a doctor
+96,10,0,2,0,they might find your comment offensive
+97,10,0,2,0,prepare for the exam in advance
+98,10,0,2,0,the fax machine is broken
+99,10,0,2,0,i can still feel your presence
+100,10,0,2,0,exceed the maximum speed limit
+101,11,1,2,0,the assault took six months
+102,11,1,2,0,an occasional taste of chocolate
+103,11,1,2,0,the daring young man
+104,11,1,2,0,safe to walk the streets in the evening
+105,11,1,2,0,mystery of the lost lagoon
+106,11,1,2,0,i like baroque and classical music
+107,11,1,2,0,round robin scheduling
+108,11,1,2,0,seasoned golfers love the game
+109,11,1,2,0,one hour is allotted for questions
+110,11,1,2,0,exercise is good for the mind
+111,12,1,2,0,do not feel too bad about it
+112,12,1,2,0,in sharp contrast to your words
+113,12,1,2,0,communicate through email
+114,12,1,2,0,he cooled off after she left
+115,12,1,2,0,that is a very nasty cut
+116,12,1,2,0,the high waves will swamp us
+117,12,1,2,0,my dog sheds his hair
+118,12,1,2,0,this equation is too complicated
+119,12,1,2,0,the cream rises to the top
+120,12,1,2,0,fish are jumping
+121,13,0,2,75,do you like to shop on sunday
+122,13,0,2,75,my preferred treat is chocolate
+123,13,0,2,75,double double toil and trouble
+124,13,0,2,75,very reluctant to enter
+125,13,0,2,75,relations are very strained
+126,13,0,2,75,the punishment should fit the crime
+127,13,0,2,75,nobody cares anymore
+128,13,0,2,75,well connected with people
+129,13,0,2,75,my favorite sport is racketball
+130,13,0,2,75,the accident scene is a shrine for fans
+131,14,1,2,75,mary had a little lamb
+132,14,1,2,75,take a coffee break
+133,14,1,2,75,the largest of the five oceans
+134,14,1,2,75,a very traditional way to dress
+135,14,1,2,75,superman never wore a mask
+136,14,1,2,75,prescription drugs require a note
+137,14,1,2,75,flashing red light means stop
+138,14,1,2,75,try to enjoy your maternity leave
+139,14,1,2,75,the presidential suite is very busy
+140,14,1,2,75,toss the ball around
+141,15,1,2,75,did you see that spectacular explosion
+142,15,1,2,75,the quick brown fox jumped
+143,15,1,2,75,i will put on my glasses
+144,15,1,2,75,beautiful paintings in the gallery
+145,15,1,2,75,these barracks are big enough
+146,15,1,2,75,canada has three territories
+147,15,1,2,75,user friendly interface
+148,15,1,2,75,lydia wants to go home
+149,15,1,2,75,you are not a jedi yet
+150,15,1,2,75,quit while you are ahead

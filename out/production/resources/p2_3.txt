@@ -1,0 +1,150 @@
+1,1,0,2,0,please keep this confidential
+2,1,0,2,0,dormitory doors are locked at midnight
+3,1,0,2,0,my bank account is overdrawn
+4,1,0,2,0,we have enough witnesses
+5,1,0,2,0,handicapped persons need consideration
+6,1,0,2,0,call for more details
+7,1,0,2,0,do not walk too quickly
+8,1,0,2,0,most judges are very honest
+9,1,0,2,0,user friendly interface
+10,1,0,2,0,dashing through the snow
+11,2,1,2,0,just what the doctor ordered
+12,2,1,2,0,two or three cups of coffee
+13,2,1,2,0,these barracks are big enough
+14,2,1,2,0,meet tomorrow in the lavatory
+15,2,1,2,0,six daughters and seven sons
+16,2,1,2,0,we run the risk of failure
+17,2,1,2,0,question that must be answered
+18,2,1,2,0,get your priorities in order
+19,2,1,2,0,get rid of that immediately
+20,2,1,2,0,toss the ball around
+21,3,1,2,0,the insulation is not working
+22,3,1,2,0,spill coffee on the carpet
+23,3,1,2,0,the bathroom is good for reading
+24,3,1,2,0,one never takes too many precautions
+25,3,1,2,0,pay off a mortgage for a house
+26,3,1,2,0,the ropes of a new organization
+27,3,1,2,0,work hard to reach the summit
+28,3,1,2,0,chemical spill took forever
+29,3,1,2,0,the registration period is over
+30,3,1,2,0,our life expectancy has increased
+31,4,0,2,100,where can my little dog be
+32,4,0,2,100,a steep learning curve in riding a unicycle
+33,4,0,2,100,hair gel is very greasy
+34,4,0,2,100,please provide your date of birth
+35,4,0,2,100,this person is a disaster
+36,4,0,2,100,we dine out on the weekends
+37,4,0,2,100,i am allergic to bees and peanuts
+38,4,0,2,100,communicate through email
+39,4,0,2,100,what to do when the oil runs dry
+40,4,0,2,100,good jobs for those with education
+41,5,1,2,100,do not squander your time
+42,5,1,2,100,prepare for the exam in advance
+43,5,1,2,100,sad to hear that news
+44,5,1,2,100,take a coffee break
+45,5,1,2,100,the union will go on strike
+46,5,1,2,100,you will lose your voice
+47,5,1,2,100,all work and no play
+48,5,1,2,100,a good joke deserves a good laugh
+49,5,1,2,100,a coupon for a free sample
+50,5,1,2,100,the fire blazed all weekend
+51,6,1,2,100,please try to be home before midnight
+52,6,1,2,100,companies announce a merger
+53,6,1,2,100,longer than a football field
+54,6,1,2,100,do you prefer a window seat
+55,6,1,2,100,staying up all night is a bad idea
+56,6,1,2,100,the plug does not fit the socket
+57,6,1,2,100,can i skate with my sister today
+58,6,1,2,100,the daring young man
+59,6,1,2,100,we went grocery shopping
+60,6,1,2,100,buckle up for safety
+61,7,0,2,25,the postal service is very slow
+62,7,0,2,25,insurance is important for bad drivers
+63,7,0,2,25,i can play much better now
+64,7,0,2,25,the assault took six months
+65,7,0,2,25,on the way to the cottage
+66,7,0,2,25,i like baroque and classical music
+67,7,0,2,25,my watch fell in the water
+68,7,0,2,25,the chancellor was very boring
+69,7,0,2,25,it is very windy today
+70,7,0,2,25,a much higher risk of getting cancer
+71,8,1,2,25,santa claus got stuck
+72,8,1,2,25,luckily my wallet was found
+73,8,1,2,25,please take a bath this month
+74,8,1,2,25,my favorite subject is psychology
+75,8,1,2,25,physics and chemistry are hard
+76,8,1,2,25,i cannot believe i ate the whole thing
+77,8,1,2,25,arguing with the boss is futile
+78,8,1,2,25,a most ridiculous thing
+79,8,1,2,25,always cover all the bases
+80,8,1,2,25,you want to eat your cake
+81,9,1,2,25,peek out the window
+82,9,1,2,25,seasoned golfers love the game
+83,9,1,2,25,historic meeting without a result
+84,9,1,2,25,this camera takes nice photographs
+85,9,1,2,25,see you later alligator
+86,9,1,2,25,want to join us for lunch
+87,9,1,2,25,give me one spoonful of coffee
+88,9,1,2,25,no more war no more bloodshed
+89,9,1,2,25,rain rain go away
+90,9,1,2,25,the objective of the exercise
+91,10,0,2,75,go out for some pizza and beer
+92,10,0,2,75,olympic athletes use drugs
+93,10,0,2,75,where did you get that tie
+94,10,0,2,75,sprawling subdivisions are bad
+95,10,0,2,75,he watched in astonishment
+96,10,0,2,75,for your information only
+97,10,0,2,75,vanilla flavored ice cream
+98,10,0,2,75,apartments are too expensive
+99,10,0,2,75,microscopes make small things look big
+100,10,0,2,75,my bare face in the wind
+101,11,1,2,75,the children are playing
+102,11,1,2,75,bring the offenders to justice
+103,11,1,2,75,mom made her a turtleneck
+104,11,1,2,75,learn to walk before you run
+105,11,1,2,75,thank you for your help
+106,11,1,2,75,have a good weekend
+107,11,1,2,75,he is still on our team
+108,11,1,2,75,video camera with a zoom lens
+109,11,1,2,75,sing the gospel and the blues
+110,11,1,2,75,players must know all the rules
+111,12,1,2,75,come and see our new car
+112,12,1,2,75,my favorite web browser
+113,12,1,2,75,very reluctant to enter
+114,12,1,2,75,she wears too much makeup
+115,12,1,2,75,valium in the economy size
+116,12,1,2,75,starlight and dewdrop
+117,12,1,2,75,a feeling of complete exasperation
+118,12,1,2,75,this watch is too expensive
+119,12,1,2,75,circumstances are unacceptable
+120,12,1,2,75,he was wearing a sweatshirt
+121,13,0,2,50,a good response to the question
+122,13,0,2,50,the opposing team is over there
+123,13,0,2,50,for murder you get a long prison sentence
+124,13,0,2,50,the collapse of the roman empire
+125,13,0,2,50,never too rich and never too thin
+126,13,0,2,50,what goes up must come down
+127,13,0,2,50,the trains are always late
+128,13,0,2,50,sent this by registered mail
+129,13,0,2,50,we drive on parkways
+130,13,0,2,50,this equation is too complicated
+131,14,1,2,50,tell a lie and your nose will grow
+132,14,1,2,50,parking lot is full of trucks
+133,14,1,2,50,you must be getting old
+134,14,1,2,50,a touchdown in the last minute
+135,14,1,2,50,an excellent way to communicate
+136,14,1,2,50,nobody cares anymore
+137,14,1,2,50,shall we play a round of cards
+138,14,1,2,50,the laser printer is jammed
+139,14,1,2,50,the aspirations of a nation
+140,14,1,2,50,the proprietor was unavailable
+141,15,1,2,50,no exchange without a bill
+142,15,1,2,50,the cat has a pleasant temperament
+143,15,1,2,50,flashing red light means stop
+144,15,1,2,50,medieval times were very hard
+145,15,1,2,50,we are having spaghetti
+146,15,1,2,50,these cookies are so amazing
+147,15,1,2,50,acutely aware of his good looks
+148,15,1,2,50,shivering is one way to keep warm
+149,15,1,2,50,life is but a dream
+150,15,1,2,50,you should visit a doctor

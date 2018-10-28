@@ -1,0 +1,150 @@
+1,1,0,0,100,please provide your date of birth
+2,1,0,0,100,he played a hero in that movie
+3,1,0,0,100,experience is hard to come by
+4,1,0,0,100,nothing finer than discovering a treasure
+5,1,0,0,100,it should be sunny tomorrow
+6,1,0,0,100,it looks like a shack
+7,1,0,0,100,tell a lie and your nose will grow
+8,1,0,0,100,interactions between men and women
+9,1,0,0,100,are you talking to me
+10,1,0,0,100,he cooled off after she left
+11,2,1,0,100,the fourth edition was better
+12,2,1,0,100,the objective of the exercise
+13,2,1,0,100,the proprietor was unavailable
+14,2,1,0,100,starlight and dewdrop
+15,2,1,0,100,what a lovely red jacket
+16,2,1,0,100,my preferred treat is chocolate
+17,2,1,0,100,safe to walk the streets in the evening
+18,2,1,0,100,but the levee was dry
+19,2,1,0,100,the plug does not fit the socket
+20,2,1,0,100,a tumor is okay provided it is benign
+21,3,1,0,100,question that must be answered
+22,3,1,0,100,this leather jacket is too warm
+23,3,1,0,100,very reluctant to enter
+24,3,1,0,100,vanilla flavored ice cream
+25,3,1,0,100,seasoned golfers love the game
+26,3,1,0,100,we accept personal checks
+27,3,1,0,100,the water was monitored daily
+28,3,1,0,100,physics and chemistry are hard
+29,3,1,0,100,motivational seminars make me sick
+30,3,1,0,100,destruction of the rain forest
+31,4,0,0,25,interesting observation was made
+32,4,0,0,25,no exchange without a bill
+33,4,0,0,25,jumping right out of the water
+34,4,0,0,25,prayer in schools offends some
+35,4,0,0,25,you should visit a doctor
+36,4,0,0,25,salesmen must make their monthly quota
+37,4,0,0,25,the rationale behind the decision
+38,4,0,0,25,go out for some pizza and beer
+39,4,0,0,25,the cotton is high
+40,4,0,0,25,round robin scheduling
+41,5,1,0,25,do not drink too much
+42,5,1,0,25,please follow the guidelines
+43,5,1,0,25,saving that child was a heroic effort
+44,5,1,0,25,i will put on my glasses
+45,5,1,0,25,the chancellor was very boring
+46,5,1,0,25,rectangular objects have four sides
+47,5,1,0,25,teaching services will help
+48,5,1,0,25,the first time he tried to swim
+49,5,1,0,25,mary had a little lamb
+50,5,1,0,25,stability of the nation
+51,6,1,0,25,obligations must be met first
+52,6,1,0,25,a subject one can really enjoy
+53,6,1,0,25,soon we will return from the city
+54,6,1,0,25,make my day you sucker
+55,6,1,0,25,relations are very strained
+56,6,1,0,25,the four seasons will come
+57,6,1,0,25,look in the syllabus for the course
+58,6,1,0,25,the fire blazed all weekend
+59,6,1,0,25,shall we play a round of cards
+60,6,1,0,25,please take a bath this month
+61,7,0,0,50,my bank account is overdrawn
+62,7,0,0,50,a rattle snake is very poisonous
+63,7,0,0,50,lydia wants to go home
+64,7,0,0,50,the coronation was very exciting
+65,7,0,0,50,do not feel too bad about it
+66,7,0,0,50,the facts get in the way
+67,7,0,0,50,no more war no more bloodshed
+68,7,0,0,50,the pen is mightier than the sword
+69,7,0,0,50,express delivery is very fast
+70,7,0,0,50,he underwent triple bypass surgery
+71,8,1,0,50,employee recruitment takes a lot of effort
+72,8,1,0,50,wishful thinking is fine
+73,8,1,0,50,gamblers eventually lose their shirts
+74,8,1,0,50,be discreet about your meeting
+75,8,1,0,50,santa claus got stuck
+76,8,1,0,50,the king sends you to the tower
+77,8,1,0,50,the most beautiful sunset
+78,8,1,0,50,what to do when the oil runs dry
+79,8,1,0,50,listen to five hours of opera
+80,8,1,0,50,we run the risk of failure
+81,9,1,0,50,our life expectancy has increased
+82,9,1,0,50,careless driving results in a fine
+83,9,1,0,50,the early bird gets the worm
+84,9,1,0,50,peering through a small hole
+85,9,1,0,50,the children are playing
+86,9,1,0,50,you must make an appointment
+87,9,1,0,50,apartments are too expensive
+88,9,1,0,50,february has an extra day
+89,9,1,0,50,take a coffee break
+90,9,1,0,50,did you see that spectacular explosion
+91,10,0,0,75,he is shouting loudly
+92,10,0,0,75,i listen to the tape every day
+93,10,0,0,75,please try to be home before midnight
+94,10,0,0,75,there are winners and losers
+95,10,0,0,75,do you get nervous when you speak
+96,10,0,0,75,a glance in the right direction
+97,10,0,0,75,sad to hear that news
+98,10,0,0,75,presidents drive expensive cars
+99,10,0,0,75,elections bring out the best
+100,10,0,0,75,if at first you do not succeed
+101,11,1,0,75,limited warranty of two years
+102,11,1,0,75,that is a very nasty cut
+103,11,1,0,75,house with new electrical panel
+104,11,1,0,75,traveling to conferences is fun
+105,11,1,0,75,head shoulders knees and toes
+106,11,1,0,75,completely sold out of that
+107,11,1,0,75,this watch is too expensive
+108,11,1,0,75,he is still on our team
+109,11,1,0,75,travel at the speed of light
+110,11,1,0,75,the treasury department is broke
+111,12,1,0,75,if you were not so stupid
+112,12,1,0,75,the music is better than it sounds
+113,12,1,0,75,my mother makes good cookies
+114,12,1,0,75,a good joke deserves a good laugh
+115,12,1,0,75,you are an ardent capitalist
+116,12,1,0,75,if you come home late the doors are locked
+117,12,1,0,75,a much higher risk of getting cancer
+118,12,1,0,75,i hate baking pies
+119,12,1,0,75,the imagination of the nation
+120,12,1,0,75,do not lie in court or else
+121,13,0,0,0,a thoroughly disgusting thing to say
+122,13,0,0,0,peek out the window
+123,13,0,0,0,good jobs for those with education
+124,13,0,0,0,the store will close at ten
+125,13,0,0,0,a most ridiculous thing
+126,13,0,0,0,good at addition and subtraction
+127,13,0,0,0,sign the withdrawal slip
+128,13,0,0,0,fine but only in moderation
+129,13,0,0,0,with each step forward
+130,13,0,0,0,be persistent to win a strike
+131,14,1,0,0,on the way to the cottage
+132,14,1,0,0,mom made her a turtleneck
+133,14,1,0,0,a correction had to be published
+134,14,1,0,0,the ropes of a new organization
+135,14,1,0,0,there will be some fog tonight
+136,14,1,0,0,find a nearby parking spot
+137,14,1,0,0,the power of denial
+138,14,1,0,0,coming up with killer sound bites
+139,14,1,0,0,the quick brown fox jumped
+140,14,1,0,0,the protesters blocked all traffic
+141,15,1,0,0,circumstances are unacceptable
+142,15,1,0,0,companies announce a merger
+143,15,1,0,0,medieval times were very hard
+144,15,1,0,0,i can see the rings on saturn
+145,15,1,0,0,the registration period is over
+146,15,1,0,0,please keep this confidential
+147,15,1,0,0,do you prefer a window seat
+148,15,1,0,0,a very traditional way to dress
+149,15,1,0,0,victims deserve more redress
+150,15,1,0,0,a dog is the best friend of a man

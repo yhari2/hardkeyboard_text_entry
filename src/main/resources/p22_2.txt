@@ -1,0 +1,150 @@
+1,1,0,0,25,granite is the hardest of all rocks
+2,1,0,0,25,my favorite web browser
+3,1,0,0,25,the chamber makes important decisions
+4,1,0,0,25,superman never wore a mask
+5,1,0,0,25,a little encouragement is needed
+6,1,0,0,25,so you think you deserve a raise
+7,1,0,0,25,communicate through email
+8,1,0,0,25,electric cars need big fuel cells
+9,1,0,0,25,an injustice is committed every day
+10,1,0,0,25,movie about a nutty professor
+11,2,1,0,25,the generation gap gets wider
+12,2,1,0,25,but the levee was dry
+13,2,1,0,25,labor unions know how to organize
+14,2,1,0,25,the punishment should fit the crime
+15,2,1,0,25,do you like to shop on sunday
+16,2,1,0,25,the kids are very excited
+17,2,1,0,25,tickets are very expensive
+18,2,1,0,25,drove my chevy to the levee
+19,2,1,0,25,the sun rises in the east
+20,2,1,0,25,a psychiatrist will help you
+21,3,1,0,25,he cooled off after she left
+22,3,1,0,25,this person is a disaster
+23,3,1,0,25,effort is what it will take
+24,3,1,0,25,february has an extra day
+25,3,1,0,25,players must know all the rules
+26,3,1,0,25,get your priorities in order
+27,3,1,0,25,the fire raged for an entire month
+28,3,1,0,25,that sticker needs to be validated
+29,3,1,0,25,we are subjects and must obey
+30,3,1,0,25,a security force of eight thousand
+31,4,0,0,0,circumstances are unacceptable
+32,4,0,0,0,staying up all night is a bad idea
+33,4,0,0,0,you must make an appointment
+34,4,0,0,0,would you like to come to my house
+35,4,0,0,0,my favorite sport is racketball
+36,4,0,0,0,peek out the window
+37,4,0,0,0,rain rain go away
+38,4,0,0,0,stability of the nation
+39,4,0,0,0,correct your diction immediately
+40,4,0,0,0,question that must be answered
+41,5,1,0,0,i can see the rings on saturn
+42,5,1,0,0,i want to hold your hand
+43,5,1,0,0,i skimmed through your proposal
+44,5,1,0,0,parking tickets can be challenged
+45,5,1,0,0,they watched the entire movie
+46,5,1,0,0,just in time for the party
+47,5,1,0,0,breathing is difficult
+48,5,1,0,0,the trains are always late
+49,5,1,0,0,luckily my wallet was found
+50,5,1,0,0,the treasury department is broke
+51,6,1,0,0,the proprietor was unavailable
+52,6,1,0,0,one heck of a question
+53,6,1,0,0,knee bone is connected to the thigh bone
+54,6,1,0,0,only an idiot would lie in court
+55,6,1,0,0,our life expectancy has increased
+56,6,1,0,0,starlight and dewdrop
+57,6,1,0,0,the fax machine is broken
+58,6,1,0,0,well connected with people
+59,6,1,0,0,she wears too much makeup
+60,6,1,0,0,all together in one big pile
+61,7,0,0,50,six daughters and seven sons
+62,7,0,0,50,gamblers eventually lose their shirts
+63,7,0,0,50,did you see that spectacular explosion
+64,7,0,0,50,just like it says on the canned good
+65,7,0,0,50,the fire blazed all weekend
+66,7,0,0,50,every apple from every tree
+67,7,0,0,50,relations are very strained
+68,7,0,0,50,parking lot is full of trucks
+69,7,0,0,50,the dreamers of dreams
+70,7,0,0,50,questioning the wisdom of the courts
+71,8,1,0,50,a quarter of a century
+72,8,1,0,50,elections bring out the best
+73,8,1,0,50,seasoned golfers love the game
+74,8,1,0,50,all good boys deserve fudge
+75,8,1,0,50,i took the rover from the shop
+76,8,1,0,50,the living is easy
+77,8,1,0,50,this mission statement is baloney
+78,8,1,0,50,take a coffee break
+79,8,1,0,50,find a nearby parking spot
+80,8,1,0,50,my bank account is overdrawn
+81,9,1,0,50,that land is owned by the government
+82,9,1,0,50,my watch fell in the water
+83,9,1,0,50,where did you get that tie
+84,9,1,0,50,the dog buried the bone
+85,9,1,0,50,batman wears a cape
+86,9,1,0,50,do you prefer a window seat
+87,9,1,0,50,the children are playing
+88,9,1,0,50,we park in driveways
+89,9,1,0,50,that agreement is rife with problems
+90,9,1,0,50,medieval times were very hard
+91,10,0,0,75,our fax number has changed
+92,10,0,0,75,please try to be home before midnight
+93,10,0,0,75,one hour is allotted for questions
+94,10,0,0,75,the plug does not fit the socket
+95,10,0,0,75,the location of the crime
+96,10,0,0,75,construction makes traveling difficult
+97,10,0,0,75,just what the doctor ordered
+98,10,0,0,75,the coronation was very exciting
+99,10,0,0,75,peering through a small hole
+100,10,0,0,75,the assault took six months
+101,11,1,0,75,you want to eat your cake
+102,11,1,0,75,a steep learning curve in riding a unicycle
+103,11,1,0,75,sing the gospel and the blues
+104,11,1,0,75,double double toil and trouble
+105,11,1,0,75,never mix religion and politics
+106,11,1,0,75,the collapse of the roman empire
+107,11,1,0,75,what you see is what you get
+108,11,1,0,75,space is a high priority
+109,11,1,0,75,dormitory doors are locked at midnight
+110,11,1,0,75,where did you get such a silly idea
+111,12,1,0,75,our housekeeper does a thorough job
+112,12,1,0,75,he is still on our team
+113,12,1,0,75,irregular verbs are the hardest to learn
+114,12,1,0,75,exceed the maximum speed limit
+115,12,1,0,75,the world is a stage
+116,12,1,0,75,a rattle snake is very poisonous
+117,12,1,0,75,you will lose your voice
+118,12,1,0,75,victims deserve more redress
+119,12,1,0,75,this library has many books
+120,12,1,0,75,stay away from strangers
+121,13,0,0,100,flashing red light means stop
+122,13,0,0,100,the king sends you to the tower
+123,13,0,0,100,canada has ten provinces
+124,13,0,0,100,your presentation was inspiring
+125,13,0,0,100,rapidly running short on words
+126,13,0,0,100,if diplomacy does not work
+127,13,0,0,100,no kissing in the library
+128,13,0,0,100,a good joke deserves a good laugh
+129,13,0,0,100,the gun discharged by accident
+130,13,0,0,100,microscopes make small things look big
+131,14,1,0,100,goldilocks and the three bears
+132,14,1,0,100,join us on the patio
+133,14,1,0,100,a lot of chlorine in the water
+134,14,1,0,100,public transit is much faster
+135,14,1,0,100,people blow their own horn a lot
+136,14,1,0,100,careless driving results in a fine
+137,14,1,0,100,lydia wants to go home
+138,14,1,0,100,the high waves will swamp us
+139,14,1,0,100,frequently asked questions
+140,14,1,0,100,life is but a dream
+141,15,1,0,100,coalition governments never work
+142,15,1,0,100,mystery of the lost lagoon
+143,15,1,0,100,physics and chemistry are hard
+144,15,1,0,100,spill coffee on the carpet
+145,15,1,0,100,her majesty visited our country
+146,15,1,0,100,the back yard of our house
+147,15,1,0,100,world population is growing
+148,15,1,0,100,this is too much to handle
+149,15,1,0,100,an occasional taste of chocolate
+150,15,1,0,100,suburbs are sprawling everywhere

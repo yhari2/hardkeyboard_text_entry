@@ -1,0 +1,150 @@
+1,1,0,1,100,travel at the speed of light
+2,1,0,1,100,insurance is important for bad drivers
+3,1,0,1,100,my mother makes good cookies
+4,1,0,1,100,the price of gas is high
+5,1,0,1,100,see you later alligator
+6,1,0,1,100,the assignment is due today
+7,1,0,1,100,my fingers are very cold
+8,1,0,1,100,the chancellor was very boring
+9,1,0,1,100,beautiful paintings in the gallery
+10,1,0,1,100,you are an ardent capitalist
+11,2,1,1,100,our fax number has changed
+12,2,1,1,100,that is a very odd question
+13,2,1,1,100,coming up with killer sound bites
+14,2,1,1,100,the back yard of our house
+15,2,1,1,100,safe to walk the streets in the evening
+16,2,1,1,100,your presentation was inspiring
+17,2,1,1,100,my favorite sport is racketball
+18,2,1,1,100,the sum of the parts
+19,2,1,1,100,that sticker needs to be validated
+20,2,1,1,100,a psychiatrist will help you
+21,3,1,1,100,the food at this restaurant
+22,3,1,1,100,win first prize in the contest
+23,3,1,1,100,would you like to come to my house
+24,3,1,1,100,just what the doctor ordered
+25,3,1,1,100,santa claus got stuck
+26,3,1,1,100,the four seasons will come
+27,3,1,1,100,for murder you get a long prison sentence
+28,3,1,1,100,the treasury department is broke
+29,3,1,1,100,information super highway
+30,3,1,1,100,i listen to the tape every day
+31,4,0,1,25,lie detector tests never work
+32,4,0,1,25,the children are playing
+33,4,0,1,25,these barracks are big enough
+34,4,0,1,25,you must be getting old
+35,4,0,1,25,my car always breaks in the winter
+36,4,0,1,25,we drive on parkways
+37,4,0,1,25,the ropes of a new organization
+38,4,0,1,25,a problem with the engine
+39,4,0,1,25,do you get nervous when you speak
+40,4,0,1,25,that land is owned by the government
+41,5,1,1,25,you want to eat your cake
+42,5,1,1,25,keep receipts for all your expenses
+43,5,1,1,25,look in the syllabus for the course
+44,5,1,1,25,the living is easy
+45,5,1,1,25,fall is my favorite season
+46,5,1,1,25,go out for some pizza and beer
+47,5,1,1,25,please follow the guidelines
+48,5,1,1,25,a quarter of a century
+49,5,1,1,25,have a good weekend
+50,5,1,1,25,i like to play tennis
+51,6,1,1,25,longer than a football field
+52,6,1,1,25,try to enjoy your maternity leave
+53,6,1,1,25,you must make an appointment
+54,6,1,1,25,a security force of eight thousand
+55,6,1,1,25,she wears too much makeup
+56,6,1,1,25,you are not a jedi yet
+57,6,1,1,25,did you have a good time
+58,6,1,1,25,shall we play a round of cards
+59,6,1,1,25,please try to be home before midnight
+60,6,1,1,25,every saturday he folds the laundry
+61,7,0,1,50,are you sure you want this
+62,7,0,1,50,this watch is too expensive
+63,7,0,1,50,come and see our new car
+64,7,0,1,50,sprawling subdivisions are bad
+65,7,0,1,50,my dog sheds his hair
+66,7,0,1,50,the voters turfed him out
+67,7,0,1,50,prescription drugs require a note
+68,7,0,1,50,world population is growing
+69,7,0,1,50,batman wears a cape
+70,7,0,1,50,an offer you cannot refuse
+71,8,1,1,50,historic meeting without a result
+72,8,1,1,50,on the way to the cottage
+73,8,1,1,50,the facts get in the way
+74,8,1,1,50,a big scratch on the tabletop
+75,8,1,1,50,they watched the entire movie
+76,8,1,1,50,fine but only in moderation
+77,8,1,1,50,we run the risk of failure
+78,8,1,1,50,burglars never leave their business card
+79,8,1,1,50,toss the ball around
+80,8,1,1,50,the presidential suite is very busy
+81,9,1,1,50,put garbage in an abandoned mine
+82,9,1,1,50,this mission statement is baloney
+83,9,1,1,50,elephants are afraid of mice
+84,9,1,1,50,the cat has a pleasant temperament
+85,9,1,1,50,i like baroque and classical music
+86,9,1,1,50,pay off a mortgage for a house
+87,9,1,1,50,i cannot believe i ate the whole thing
+88,9,1,1,50,universally understood to be wrong
+89,9,1,1,50,sharp cheese keeps the mind sharp
+90,9,1,1,50,with each step forward
+91,10,0,1,0,he is just like everyone else
+92,10,0,1,0,space is a high priority
+93,10,0,1,0,healthy food is good for you
+94,10,0,1,0,the opposing team is over there
+95,10,0,1,0,the ventilation system is broken
+96,10,0,1,0,raindrops keep falling on my head
+97,10,0,1,0,you should visit a doctor
+98,10,0,1,0,i watched blazing saddles
+99,10,0,1,0,victims deserve more redress
+100,10,0,1,0,starlight and dewdrop
+101,11,1,1,0,handicapped persons need consideration
+102,11,1,1,0,valium in the economy size
+103,11,1,1,0,always cover all the bases
+104,11,1,1,0,life is but a dream
+105,11,1,1,0,superman never wore a mask
+106,11,1,1,0,bad for the environment
+107,11,1,1,0,no more war no more bloodshed
+108,11,1,1,0,a rattle snake is very poisonous
+109,11,1,1,0,my favorite web browser
+110,11,1,1,0,this library has many books
+111,12,1,1,0,there are winners and losers
+112,12,1,1,0,seasoned golfers love the game
+113,12,1,1,0,motivational seminars make me sick
+114,12,1,1,0,user friendly interface
+115,12,1,1,0,the plug does not fit the socket
+116,12,1,1,0,granite is the hardest of all rocks
+117,12,1,1,0,call for more details
+118,12,1,1,0,this phenomenon will never occur
+119,12,1,1,0,drove my chevy to the levee
+120,12,1,1,0,the algorithm is too complicated
+121,13,0,1,75,good jobs for those with education
+122,13,0,1,75,rectangular objects have four sides
+123,13,0,1,75,luckily my wallet was found
+124,13,0,1,75,a steep learning curve in riding a unicycle
+125,13,0,1,75,physics and chemistry are hard
+126,13,0,1,75,not quite so smart as you think
+127,13,0,1,75,this is a non profit organization
+128,13,0,1,75,this is too much to handle
+129,13,0,1,75,soon we will return from the city
+130,13,0,1,75,i skimmed through your proposal
+131,14,1,1,75,the quick brown fox jumped
+132,14,1,1,75,one of the poorest nations
+133,14,1,1,75,we have enough witnesses
+134,14,1,1,75,our silver anniversary is coming
+135,14,1,1,75,experience is hard to come by
+136,14,1,1,75,chemical spill took forever
+137,14,1,1,75,faster than a speeding bullet
+138,14,1,1,75,be home before midnight
+139,14,1,1,75,the second largest country
+140,14,1,1,75,i am allergic to bees and peanuts
+141,15,1,1,75,our life expectancy has increased
+142,15,1,1,75,if you were not so stupid
+143,15,1,1,75,do you like to go camping
+144,15,1,1,75,he played a hero in that movie
+145,15,1,1,75,the insulation is not working
+146,15,1,1,75,a very traditional way to dress
+147,15,1,1,75,can we play cards tonight
+148,15,1,1,75,frequently asked questions
+149,15,1,1,75,this leather jacket is too warm
+150,15,1,1,75,a good joke deserves a good laugh

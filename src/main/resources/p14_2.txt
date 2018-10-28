@@ -1,0 +1,150 @@
+1,1,0,0,50,never too rich and never too thin
+2,1,0,0,50,that agreement is rife with problems
+3,1,0,0,50,superman never wore a mask
+4,1,0,0,50,thank you for your help
+5,1,0,0,50,the back yard of our house
+6,1,0,0,50,it is difficult to concentrate
+7,1,0,0,50,mary had a little lamb
+8,1,0,0,50,a steep learning curve in riding a unicycle
+9,1,0,0,50,an excellent way to communicate
+10,1,0,0,50,the stock exchange dipped
+11,2,1,0,50,a fox is a very smart animal
+12,2,1,0,50,the chancellor was very boring
+13,2,1,0,50,the fire blazed all weekend
+14,2,1,0,50,a much higher risk of getting cancer
+15,2,1,0,50,communicate through email
+16,2,1,0,50,do you prefer a window seat
+17,2,1,0,50,six daughters and seven sons
+18,2,1,0,50,sing the gospel and the blues
+19,2,1,0,50,he watched in astonishment
+20,2,1,0,50,if at first you do not succeed
+21,3,1,0,50,motivational seminars make me sick
+22,3,1,0,50,watch out for low flying objects
+23,3,1,0,50,the quick brown fox jumped
+24,3,1,0,50,granite is the hardest of all rocks
+25,3,1,0,50,sad to hear that news
+26,3,1,0,50,a correction had to be published
+27,3,1,0,50,quick there is someone knocking
+28,3,1,0,50,prayer in schools offends some
+29,3,1,0,50,the water was monitored daily
+30,3,1,0,50,the facts get in the way
+31,4,0,0,25,this equation is too complicated
+32,4,0,0,25,world population is growing
+33,4,0,0,25,the collapse of the roman empire
+34,4,0,0,25,coming up with killer sound bites
+35,4,0,0,25,i want to hold your hand
+36,4,0,0,25,a tumor is okay provided it is benign
+37,4,0,0,25,the first time he tried to swim
+38,4,0,0,25,frequently asked questions
+39,4,0,0,25,no kissing in the library
+40,4,0,0,25,do a good deed to someone
+41,5,1,0,25,irregular verbs are the hardest to learn
+42,5,1,0,25,would you like to come to my house
+43,5,1,0,25,the bathroom is good for reading
+44,5,1,0,25,my preferred treat is chocolate
+45,5,1,0,25,raindrops keep falling on my head
+46,5,1,0,25,be discreet about your meeting
+47,5,1,0,25,sit at the front of the bus
+48,5,1,0,25,neither a borrower nor a lender be
+49,5,1,0,25,i just cannot figure this out
+50,5,1,0,25,a big scratch on the tabletop
+51,6,1,0,25,two or three cups of coffee
+52,6,1,0,25,three two one zero blast off
+53,6,1,0,25,the biggest hamburger i have ever seen
+54,6,1,0,25,sign the withdrawal slip
+55,6,1,0,25,please follow the guidelines
+56,6,1,0,25,toss the ball around
+57,6,1,0,25,santa claus got stuck
+58,6,1,0,25,a glance in the right direction
+59,6,1,0,25,do you like to shop on sunday
+60,6,1,0,25,well connected with people
+61,7,0,0,75,an offer you cannot refuse
+62,7,0,0,75,want to join us for lunch
+63,7,0,0,75,all together in one big pile
+64,7,0,0,75,this leather jacket is too warm
+65,7,0,0,75,only an idiot would lie in court
+66,7,0,0,75,fine but only in moderation
+67,7,0,0,75,longer than a football field
+68,7,0,0,75,people blow their own horn a lot
+69,7,0,0,75,coalition governments never work
+70,7,0,0,75,prevailing wind from the east
+71,8,1,0,75,they might find your comment offensive
+72,8,1,0,75,i like to play tennis
+73,8,1,0,75,get aboard the ship is leaving
+74,8,1,0,75,the ventilation system is broken
+75,8,1,0,75,my mother makes good cookies
+76,8,1,0,75,goldilocks and the three bears
+77,8,1,0,75,these cookies are so amazing
+78,8,1,0,75,the coronation was very exciting
+79,8,1,0,75,the sun rises in the east
+80,8,1,0,75,i am wearing a tie and a jacket
+81,9,1,0,75,a very traditional way to dress
+82,9,1,0,75,get your priorities in order
+83,9,1,0,75,this library has many books
+84,9,1,0,75,february has an extra day
+85,9,1,0,75,weeping willows are found near water
+86,9,1,0,75,accompanied by an adult
+87,9,1,0,75,breathing is difficult
+88,9,1,0,75,jumping right out of the water
+89,9,1,0,75,he is still on our team
+90,9,1,0,75,gas bills are sent monthly
+91,10,0,0,0,do not feel too bad about it
+92,10,0,0,0,i spilled coffee on the carpet
+93,10,0,0,0,dashing through the snow
+94,10,0,0,0,bank transaction was not registered
+95,10,0,0,0,pumping brakes when roads are slippery
+96,10,0,0,0,the force is with you
+97,10,0,0,0,the minimum amount of time
+98,10,0,0,0,my bike has a flat tire
+99,10,0,0,0,just what the doctor ordered
+100,10,0,0,0,limited warranty of two years
+101,11,1,0,0,elephants are afraid of mice
+102,11,1,0,0,on the way to the cottage
+103,11,1,0,0,medieval times were very hard
+104,11,1,0,0,video camera with a zoom lens
+105,11,1,0,0,call for more details
+106,11,1,0,0,tell a lie and your nose will grow
+107,11,1,0,0,the punishment should fit the crime
+108,11,1,0,0,nothing wrong with his style
+109,11,1,0,0,quit while you are ahead
+110,11,1,0,0,we drive on parkways
+111,12,1,0,0,an airport is a very busy place
+112,12,1,0,0,one never takes too many precautions
+113,12,1,0,0,make up a few more phrases
+114,12,1,0,0,rejection letters are discouraging
+115,12,1,0,0,my bare face in the wind
+116,12,1,0,0,did you see that spectacular explosion
+117,12,1,0,0,canada has ten provinces
+118,12,1,0,0,freud wrote of the ego
+119,12,1,0,0,saving that child was a heroic effort
+120,12,1,0,0,meet tomorrow in the lavatory
+121,13,0,0,100,a picture is worth many words
+122,13,0,0,100,the insulation is not working
+123,13,0,0,100,take it to the recycling depot
+124,13,0,0,100,please take a bath this month
+125,13,0,0,100,olympic athletes use drugs
+126,13,0,0,100,chemical spill took forever
+127,13,0,0,100,a rattle snake is very poisonous
+128,13,0,0,100,question that must be answered
+129,13,0,0,100,the location of the crime
+130,13,0,0,100,seasoned golfers love the game
+131,14,1,0,100,vote according to your conscience
+132,14,1,0,100,canada has three territories
+133,14,1,0,100,every saturday he folds the laundry
+134,14,1,0,100,a security force of eight thousand
+135,14,1,0,100,flashing red light means stop
+136,14,1,0,100,the trains are always late
+137,14,1,0,100,dinosaurs have been extinct for ages
+138,14,1,0,100,rapidly running short on words
+139,14,1,0,100,where did you get that tie
+140,14,1,0,100,where can my little dog be
+141,15,1,0,100,space is a high priority
+142,15,1,0,100,is there any indication of this
+143,15,1,0,100,put garbage in an abandoned mine
+144,15,1,0,100,just like it says on the canned good
+145,15,1,0,100,interactions between men and women
+146,15,1,0,100,the treasury department is broke
+147,15,1,0,100,all good boys deserve fudge
+148,15,1,0,100,are you talking to me
+149,15,1,0,100,rent is paid at the beginning of the month
+150,15,1,0,100,traveling requires a lot of fuel

@@ -1,0 +1,150 @@
+1,1,0,1,75,a subject one can really enjoy
+2,1,0,1,75,accompanied by an adult
+3,1,0,1,75,the picket line gives me the chills
+4,1,0,1,75,i want to hold your hand
+5,1,0,1,75,i do not fully agree with you
+6,1,0,1,75,the punishment should fit the crime
+7,1,0,1,75,there will be some fog tonight
+8,1,0,1,75,only an idiot would lie in court
+9,1,0,1,75,where did i leave my glasses
+10,1,0,1,75,if you were not so stupid
+11,2,1,1,75,apartments are too expensive
+12,2,1,1,75,a good stimulus deserves a good response
+13,2,1,1,75,victims deserve more redress
+14,2,1,1,75,express delivery is very fast
+15,2,1,1,75,the objective of the exercise
+16,2,1,1,75,the treasury department is broke
+17,2,1,1,75,nothing finer than discovering a treasure
+18,2,1,1,75,gun powder must be handled with care
+19,2,1,1,75,hair gel is very greasy
+20,2,1,1,75,the king sends you to the tower
+21,3,1,1,75,bank transaction was not registered
+22,3,1,1,75,be discreet about your meeting
+23,3,1,1,75,for your information only
+24,3,1,1,75,information super highway
+25,3,1,1,75,the sun rises in the east
+26,3,1,1,75,do you like to shop on sunday
+27,3,1,1,75,frequently asked questions
+28,3,1,1,75,gas bills are sent monthly
+29,3,1,1,75,the aspirations of a nation
+30,3,1,1,75,the union will go on strike
+31,4,0,1,50,important for political parties
+32,4,0,1,50,one never takes too many precautions
+33,4,0,1,50,that sticker needs to be validated
+34,4,0,1,50,movie about a nutty professor
+35,4,0,1,50,the protesters blocked all traffic
+36,4,0,1,50,you are an ardent capitalist
+37,4,0,1,50,pay off a mortgage for a house
+38,4,0,1,50,that is a very odd question
+39,4,0,1,50,arguing with the boss is futile
+40,4,0,1,50,historic meeting without a result
+41,5,1,1,50,an excellent way to communicate
+42,5,1,1,50,the cat has a pleasant temperament
+43,5,1,1,50,beware the ides of march
+44,5,1,1,50,the winner of the race
+45,5,1,1,50,stability of the nation
+46,5,1,1,50,the minimum amount of time
+47,5,1,1,50,what a lovely red jacket
+48,5,1,1,50,a thoroughly disgusting thing to say
+49,5,1,1,50,every apple from every tree
+50,5,1,1,50,i agree with you
+51,6,1,1,50,you must be getting old
+52,6,1,1,50,experience is hard to come by
+53,6,1,1,50,i like baroque and classical music
+54,6,1,1,50,where did you get that tie
+55,6,1,1,50,neither a borrower nor a lender be
+56,6,1,1,50,granite is the hardest of all rocks
+57,6,1,1,50,beautiful paintings in the gallery
+58,6,1,1,50,a problem with the engine
+59,6,1,1,50,sent this by registered mail
+60,6,1,1,50,one of the poorest nations
+61,7,0,1,100,presidents drive expensive cars
+62,7,0,1,100,are you talking to me
+63,7,0,1,100,this is a very good idea
+64,7,0,1,100,weeping willows are found near water
+65,7,0,1,100,an inefficient way to heat a house
+66,7,0,1,100,i am wearing a tie and a jacket
+67,7,0,1,100,he was wearing a sweatshirt
+68,7,0,1,100,all work and no play
+69,7,0,1,100,starlight and dewdrop
+70,7,0,1,100,obligations must be met first
+71,8,1,1,100,burglars never leave their business card
+72,8,1,1,100,do not drink too much
+73,8,1,1,100,buckle up for safety
+74,8,1,1,100,the force is with you
+75,8,1,1,100,effort is what it will take
+76,8,1,1,100,make up a few more phrases
+77,8,1,1,100,the laser printer is jammed
+78,8,1,1,100,he is shouting loudly
+79,8,1,1,100,i am allergic to bees and peanuts
+80,8,1,1,100,do not drink the water
+81,9,1,1,100,our silver anniversary is coming
+82,9,1,1,100,please keep this confidential
+83,9,1,1,100,stiff penalty for staying out late
+84,9,1,1,100,quit while you are ahead
+85,9,1,1,100,my fingers are very cold
+86,9,1,1,100,prepare for the exam in advance
+87,9,1,1,100,my favorite place to visit
+88,9,1,1,100,did you have a good time
+89,9,1,1,100,well connected with people
+90,9,1,1,100,they love to yap about nothing
+91,10,0,1,0,please take a bath this month
+92,10,0,1,0,be home before midnight
+93,10,0,1,0,put garbage in an abandoned mine
+94,10,0,1,0,the coronation was very exciting
+95,10,0,1,0,the chamber makes important decisions
+96,10,0,1,0,the opposing team is over there
+97,10,0,1,0,house with new electrical panel
+98,10,0,1,0,he is still on our team
+99,10,0,1,0,i just cannot figure this out
+100,10,0,1,0,travel at the speed of light
+101,11,1,1,0,a correction had to be published
+102,11,1,1,0,rectangular objects have four sides
+103,11,1,1,0,everyone wants to win the lottery
+104,11,1,1,0,stay away from strangers
+105,11,1,1,0,i do not care if you do that
+106,11,1,1,0,a feeling of complete exasperation
+107,11,1,1,0,love means many things
+108,11,1,1,0,double double toil and trouble
+109,11,1,1,0,the postal service is very slow
+110,11,1,1,0,pumping brakes when roads are slippery
+111,12,1,1,0,a good joke deserves a good laugh
+112,12,1,1,0,just what the doctor ordered
+113,12,1,1,0,tickets are very expensive
+114,12,1,1,0,superman never wore a mask
+115,12,1,1,0,canada has three territories
+116,12,1,1,0,i skimmed through your proposal
+117,12,1,1,0,come and see our new car
+118,12,1,1,0,the algorithm is too complicated
+119,12,1,1,0,the fire raged for an entire month
+120,12,1,1,0,this mission statement is baloney
+121,13,0,1,25,meet tomorrow in the lavatory
+122,13,0,1,25,you are not a jedi yet
+123,13,0,1,25,call for more details
+124,13,0,1,25,drove my chevy to the levee
+125,13,0,1,25,all good boys deserve fudge
+126,13,0,1,25,elephants are afraid of mice
+127,13,0,1,25,the children are playing
+128,13,0,1,25,sing the gospel and the blues
+129,13,0,1,25,very reluctant to enter
+130,13,0,1,25,we run the risk of failure
+131,14,1,1,25,circumstances are unacceptable
+132,14,1,1,25,the cream rises to the top
+133,14,1,1,25,nobody cares anymore
+134,14,1,1,25,thank you for your help
+135,14,1,1,25,exceed the maximum speed limit
+136,14,1,1,25,prayer in schools offends some
+137,14,1,1,25,chemical spill took forever
+138,14,1,1,25,santa claus got stuck
+139,14,1,1,25,hands on experience with a job
+140,14,1,1,25,give me one spoonful of coffee
+141,15,1,1,25,the registration period is over
+142,15,1,1,25,these cookies are so amazing
+143,15,1,1,25,round robin scheduling
+144,15,1,1,25,an occasional taste of chocolate
+145,15,1,1,25,the voters turfed him out
+146,15,1,1,25,salesmen must make their monthly quota
+147,15,1,1,25,i listen to the tape every day
+148,15,1,1,25,reading week is just about here
+149,15,1,1,25,universities are too expensive
+150,15,1,1,25,the fax machine is broken

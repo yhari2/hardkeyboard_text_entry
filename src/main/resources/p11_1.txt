@@ -1,0 +1,150 @@
+1,1,0,0,75,wear a crown with many jewels
+2,1,0,0,75,good jobs for those with education
+3,1,0,0,75,time to go shopping
+4,1,0,0,75,mom made her a turtleneck
+5,1,0,0,75,join us on the patio
+6,1,0,0,75,the high waves will swamp us
+7,1,0,0,75,all together in one big pile
+8,1,0,0,75,sit at the front of the bus
+9,1,0,0,75,valid until the end of the year
+10,1,0,0,75,you want to eat your cake
+11,2,1,0,75,drove my chevy to the levee
+12,2,1,0,75,starlight and dewdrop
+13,2,1,0,75,do you like to go camping
+14,2,1,0,75,what a monkey sees a monkey will do
+15,2,1,0,75,salesmen must make their monthly quota
+16,2,1,0,75,i am going to a music lesson
+17,2,1,0,75,can i skate with my sister today
+18,2,1,0,75,i can see the rings on saturn
+19,2,1,0,75,the fax machine is broken
+20,2,1,0,75,beautiful paintings in the gallery
+21,3,1,0,75,her majesty visited our country
+22,3,1,0,75,the imagination of the nation
+23,3,1,0,75,that land is owned by the government
+24,3,1,0,75,she wears too much makeup
+25,3,1,0,75,consequences of a wrong turn
+26,3,1,0,75,he played a hero in that movie
+27,3,1,0,75,my favorite web browser
+28,3,1,0,75,the stock exchange dipped
+29,3,1,0,75,do not worry about this
+30,3,1,0,75,this person is a disaster
+31,4,0,0,0,he was wearing a sweatshirt
+32,4,0,0,0,tell a lie and your nose will grow
+33,4,0,0,0,physics and chemistry are hard
+34,4,0,0,0,stability of the nation
+35,4,0,0,0,take it to the recycling depot
+36,4,0,0,0,for murder you get a long prison sentence
+37,4,0,0,0,the children are playing
+38,4,0,0,0,a glance in the right direction
+39,4,0,0,0,why do you ask silly questions
+40,4,0,0,0,give me one spoonful of coffee
+41,5,1,0,0,the plug does not fit the socket
+42,5,1,0,0,a coupon for a free sample
+43,5,1,0,0,head shoulders knees and toes
+44,5,1,0,0,traveling requires a lot of fuel
+45,5,1,0,0,the back yard of our house
+46,5,1,0,0,did you see that spectacular explosion
+47,5,1,0,0,be home before midnight
+48,5,1,0,0,do you prefer a window seat
+49,5,1,0,0,no kissing in the library
+50,5,1,0,0,the algorithm is too complicated
+51,6,1,0,0,most judges are very honest
+52,6,1,0,0,i skimmed through your proposal
+53,6,1,0,0,all work and no play
+54,6,1,0,0,life is but a dream
+55,6,1,0,0,careless driving results in a fine
+56,6,1,0,0,the trains are always late
+57,6,1,0,0,the force is with you
+58,6,1,0,0,apartments are too expensive
+59,6,1,0,0,the collapse of the roman empire
+60,6,1,0,0,goldilocks and the three bears
+61,7,0,0,50,six daughters and seven sons
+62,7,0,0,50,tickets are very expensive
+63,7,0,0,50,i am wearing a tie and a jacket
+64,7,0,0,50,wishful thinking is fine
+65,7,0,0,50,an airport is a very busy place
+66,7,0,0,50,a steep learning curve in riding a unicycle
+67,7,0,0,50,breathing is difficult
+68,7,0,0,50,superman never wore a mask
+69,7,0,0,50,the food at this restaurant
+70,7,0,0,50,user friendly interface
+71,8,1,0,50,the opposing team is over there
+72,8,1,0,50,love means many things
+73,8,1,0,50,gun powder must be handled with care
+74,8,1,0,50,well connected with people
+75,8,1,0,50,what goes up must come down
+76,8,1,0,50,the dog buried the bone
+77,8,1,0,50,take a coffee break
+78,8,1,0,50,my bike has a flat tire
+79,8,1,0,50,public transit is much faster
+80,8,1,0,50,i want to hold your hand
+81,9,1,0,50,freud wrote of the ego
+82,9,1,0,50,a problem with the engine
+83,9,1,0,50,people blow their own horn a lot
+84,9,1,0,50,no more war no more bloodshed
+85,9,1,0,50,electric cars need big fuel cells
+86,9,1,0,50,information super highway
+87,9,1,0,50,an offer you cannot refuse
+88,9,1,0,50,important for political parties
+89,9,1,0,50,my favorite place to visit
+90,9,1,0,50,you are not a jedi yet
+91,10,0,0,25,i took the rover from the shop
+92,10,0,0,25,longer than a football field
+93,10,0,0,25,just what the doctor ordered
+94,10,0,0,25,please keep this confidential
+95,10,0,0,25,presidents drive expensive cars
+96,10,0,0,25,medieval times were very hard
+97,10,0,0,25,we dine out on the weekends
+98,10,0,0,25,that is a very nasty cut
+99,10,0,0,25,taking the train is usually faster
+100,10,0,0,25,get your priorities in order
+101,11,1,0,25,the first time he tried to swim
+102,11,1,0,25,the sun rises in the east
+103,11,1,0,25,lydia wants to go home
+104,11,1,0,25,my car always breaks in the winter
+105,11,1,0,25,parking lot is full of trucks
+106,11,1,0,25,space is a high priority
+107,11,1,0,25,we run the risk of failure
+108,11,1,0,25,never mix religion and politics
+109,11,1,0,25,one never takes too many precautions
+110,11,1,0,25,correct your diction immediately
+111,12,1,0,25,sad to hear that news
+112,12,1,0,25,please provide your date of birth
+113,12,1,0,25,prevailing wind from the east
+114,12,1,0,25,the punishment should fit the crime
+115,12,1,0,25,nothing finer than discovering a treasure
+116,12,1,0,25,travel at the speed of light
+117,12,1,0,25,not quite so smart as you think
+118,12,1,0,25,a big scratch on the tabletop
+119,12,1,0,25,universally understood to be wrong
+120,12,1,0,25,communicate through email
+121,13,0,0,100,a duck quacks to ask for food
+122,13,0,0,100,the dog will bite you
+123,13,0,0,100,the minimum amount of time
+124,13,0,0,100,there are winners and losers
+125,13,0,0,100,good at addition and subtraction
+126,13,0,0,100,the winner of the race
+127,13,0,0,100,parking tickets can be challenged
+128,13,0,0,100,work hard to reach the summit
+129,13,0,0,100,look in the syllabus for the course
+130,13,0,0,100,my preferred treat is chocolate
+131,14,1,0,100,valium in the economy size
+132,14,1,0,100,meet tomorrow in the lavatory
+133,14,1,0,100,there will be some fog tonight
+134,14,1,0,100,a good response to the question
+135,14,1,0,100,this leather jacket is too warm
+136,14,1,0,100,this equation is too complicated
+137,14,1,0,100,employee recruitment takes a lot of effort
+138,14,1,0,100,the second largest country
+139,14,1,0,100,a psychiatrist will help you
+140,14,1,0,100,a dog is the best friend of a man
+141,15,1,0,100,fall is my favorite season
+142,15,1,0,100,the objective of the exercise
+143,15,1,0,100,the library is closed today
+144,15,1,0,100,my bank account is overdrawn
+145,15,1,0,100,olympic athletes use drugs
+146,15,1,0,100,these cookies are so amazing
+147,15,1,0,100,my dog sheds his hair
+148,15,1,0,100,the music is better than it sounds
+149,15,1,0,100,granite is the hardest of all rocks
+150,15,1,0,100,watch out for low flying objects

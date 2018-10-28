@@ -1,0 +1,150 @@
+1,1,0,0,0,interactions between men and women
+2,1,0,0,0,the postal service is very slow
+3,1,0,0,0,weeping willows are found near water
+4,1,0,0,0,teaching services will help
+5,1,0,0,0,i like to play tennis
+6,1,0,0,0,beware the ides of march
+7,1,0,0,0,listen to five hours of opera
+8,1,0,0,0,be persistent to win a strike
+9,1,0,0,0,there will be some fog tonight
+10,1,0,0,0,not quite so smart as you think
+11,2,1,0,0,our silver anniversary is coming
+12,2,1,0,0,learn to walk before you run
+13,2,1,0,0,take it to the recycling depot
+14,2,1,0,0,just in time for the party
+15,2,1,0,0,the pen is mightier than the sword
+16,2,1,0,0,we must redouble our efforts
+17,2,1,0,0,correct your diction immediately
+18,2,1,0,0,we dine out on the weekends
+19,2,1,0,0,the facts get in the way
+20,2,1,0,0,medieval times were very hard
+21,3,1,0,0,toss the ball around
+22,3,1,0,0,rejection letters are discouraging
+23,3,1,0,0,the picket line gives me the chills
+24,3,1,0,0,the fire raged for an entire month
+25,3,1,0,0,a much higher risk of getting cancer
+26,3,1,0,0,we drive on parkways
+27,3,1,0,0,one heck of a question
+28,3,1,0,0,tell a lie and your nose will grow
+29,3,1,0,0,employee recruitment takes a lot of effort
+30,3,1,0,0,be discreet about your meeting
+31,4,0,0,75,never mix religion and politics
+32,4,0,0,75,file all complaints in writing
+33,4,0,0,75,do you prefer a window seat
+34,4,0,0,75,exceed the maximum speed limit
+35,4,0,0,75,the aspirations of a nation
+36,4,0,0,75,the four seasons will come
+37,4,0,0,75,wishful thinking is fine
+38,4,0,0,75,beautiful paintings in the gallery
+39,4,0,0,75,i just cannot figure this out
+40,4,0,0,75,yes you are very smart
+41,5,1,0,75,this watch is too expensive
+42,5,1,0,75,that sticker needs to be validated
+43,5,1,0,75,he watched in astonishment
+44,5,1,0,75,quit while you are ahead
+45,5,1,0,75,coming up with killer sound bites
+46,5,1,0,75,we are subjects and must obey
+47,5,1,0,75,get rid of that immediately
+48,5,1,0,75,the assault took six months
+49,5,1,0,75,that is a very nasty cut
+50,5,1,0,75,please follow the guidelines
+51,6,1,0,75,the imagination of the nation
+52,6,1,0,75,why do you ask silly questions
+53,6,1,0,75,if you come home late the doors are locked
+54,6,1,0,75,we run the risk of failure
+55,6,1,0,75,well connected with people
+56,6,1,0,75,do you get nervous when you speak
+57,6,1,0,75,the chancellor was very boring
+58,6,1,0,75,you have my sympathy
+59,6,1,0,75,the plug does not fit the socket
+60,6,1,0,75,i am allergic to bees and peanuts
+61,7,0,0,50,an offer you cannot refuse
+62,7,0,0,50,peering through a small hole
+63,7,0,0,50,construction makes traveling difficult
+64,7,0,0,50,vanilla flavored ice cream
+65,7,0,0,50,peek out the window
+66,7,0,0,50,canada has three territories
+67,7,0,0,50,a thoroughly disgusting thing to say
+68,7,0,0,50,this person is a disaster
+69,7,0,0,50,a most ridiculous thing
+70,7,0,0,50,one never takes too many precautions
+71,8,1,0,50,historic meeting without a result
+72,8,1,0,50,drugs should be avoided
+73,8,1,0,50,the dreamers of dreams
+74,8,1,0,50,a yard is almost as long as a meter
+75,8,1,0,50,sent this by registered mail
+76,8,1,0,50,my favorite subject is psychology
+77,8,1,0,50,her majesty visited our country
+78,8,1,0,50,the insulation is not working
+79,8,1,0,50,this camera takes nice photographs
+80,8,1,0,50,i can play much better now
+81,9,1,0,50,a rattle snake is very poisonous
+82,9,1,0,50,traveling to conferences is fun
+83,9,1,0,50,coalition governments never work
+84,9,1,0,50,the objective of the exercise
+85,9,1,0,50,i am wearing a tie and a jacket
+86,9,1,0,50,are you talking to me
+87,9,1,0,50,express delivery is very fast
+88,9,1,0,50,i skimmed through your proposal
+89,9,1,0,50,mom made her a turtleneck
+90,9,1,0,50,pumping brakes when roads are slippery
+91,10,0,0,100,bad for the environment
+92,10,0,0,100,nothing finer than discovering a treasure
+93,10,0,0,100,important news always seems to be late
+94,10,0,0,100,is there any indication of this
+95,10,0,0,100,my watch fell in the water
+96,10,0,0,100,hands on experience with a job
+97,10,0,0,100,every apple from every tree
+98,10,0,0,100,a touchdown in the last minute
+99,10,0,0,100,presidents drive expensive cars
+100,10,0,0,100,salesmen must make their monthly quota
+101,11,1,0,100,mystery of the lost lagoon
+102,11,1,0,100,it is difficult to concentrate
+103,11,1,0,100,the high waves will swamp us
+104,11,1,0,100,healthy food is good for you
+105,11,1,0,100,information super highway
+106,11,1,0,100,if you were not so stupid
+107,11,1,0,100,arguing with the boss is futile
+108,11,1,0,100,he is just like everyone else
+109,11,1,0,100,motivational seminars make me sick
+110,11,1,0,100,question that must be answered
+111,12,1,0,100,world population is growing
+112,12,1,0,100,my favorite place to visit
+113,12,1,0,100,we went grocery shopping
+114,12,1,0,100,these cookies are so amazing
+115,12,1,0,100,everybody loses in custody battles
+116,12,1,0,100,starlight and dewdrop
+117,12,1,0,100,protect your environment
+118,12,1,0,100,i agree with you
+119,12,1,0,100,destruction of the rain forest
+120,12,1,0,100,do you like to shop on sunday
+121,13,0,0,25,rent is paid at the beginning of the month
+122,13,0,0,25,sad to hear that news
+123,13,0,0,25,the punishment should fit the crime
+124,13,0,0,25,tickets are very expensive
+125,13,0,0,25,watch out for low flying objects
+126,13,0,0,25,find a nearby parking spot
+127,13,0,0,25,prescription drugs require a note
+128,13,0,0,25,do you like to go camping
+129,13,0,0,25,the gun discharged by accident
+130,13,0,0,25,meet tomorrow in the lavatory
+131,14,1,0,25,what you see is what you get
+132,14,1,0,25,that is very unfortunate
+133,14,1,0,25,travel at the speed of light
+134,14,1,0,25,gamblers eventually lose their shirts
+135,14,1,0,25,this leather jacket is too warm
+136,14,1,0,25,prayer in schools offends some
+137,14,1,0,25,only an idiot would lie in court
+138,14,1,0,25,obligations must be met first
+139,14,1,0,25,one of the poorest nations
+140,14,1,0,25,the daring young man
+141,15,1,0,25,communicate through email
+142,15,1,0,25,they might find your comment offensive
+143,15,1,0,25,where did you get such a silly idea
+144,15,1,0,25,olympic athletes use drugs
+145,15,1,0,25,universally understood to be wrong
+146,15,1,0,25,did you see that spectacular explosion
+147,15,1,0,25,he was wearing a sweatshirt
+148,15,1,0,25,dolphins leap high out of the water
+149,15,1,0,25,the laser printer is jammed
+150,15,1,0,25,a very traditional way to dress

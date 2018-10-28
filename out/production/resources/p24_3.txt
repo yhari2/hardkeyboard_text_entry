@@ -1,0 +1,150 @@
+1,1,0,2,25,taking the train is usually faster
+2,1,0,2,25,the library is closed today
+3,1,0,2,25,the children are playing
+4,1,0,2,25,a security force of eight thousand
+5,1,0,2,25,starlight and dewdrop
+6,1,0,2,25,sharp cheese keeps the mind sharp
+7,1,0,2,25,do you prefer a window seat
+8,1,0,2,25,can i skate with my sister today
+9,1,0,2,25,we are subjects and must obey
+10,1,0,2,25,video camera with a zoom lens
+11,2,1,2,25,seasoned golfers love the game
+12,2,1,2,25,the assault took six months
+13,2,1,2,25,this is a non profit organization
+14,2,1,2,25,the daring young man
+15,2,1,2,25,but the levee was dry
+16,2,1,2,25,my bare face in the wind
+17,2,1,2,25,do not feel too bad about it
+18,2,1,2,25,the food at this restaurant
+19,2,1,2,25,a tumor is okay provided it is benign
+20,2,1,2,25,make up a few more phrases
+21,3,1,2,25,completely sold out of that
+22,3,1,2,25,the treasury department is broke
+23,3,1,2,25,the power of denial
+24,3,1,2,25,employee recruitment takes a lot of effort
+25,3,1,2,25,time to go shopping
+26,3,1,2,25,a psychiatrist will help you
+27,3,1,2,25,the first time he tried to swim
+28,3,1,2,25,do not walk too quickly
+29,3,1,2,25,coming up with killer sound bites
+30,3,1,2,25,if diplomacy does not work
+31,4,0,2,100,an excellent way to communicate
+32,4,0,2,100,prepare for the exam in advance
+33,4,0,2,100,rain rain go away
+34,4,0,2,100,fish are jumping
+35,4,0,2,100,what you see is what you get
+36,4,0,2,100,the union will go on strike
+37,4,0,2,100,i am wearing a tie and a jacket
+38,4,0,2,100,a problem with the engine
+39,4,0,2,100,february has an extra day
+40,4,0,2,100,nothing wrong with his style
+41,5,1,2,100,please keep this confidential
+42,5,1,2,100,my favorite sport is racketball
+43,5,1,2,100,we went grocery shopping
+44,5,1,2,100,the living is easy
+45,5,1,2,100,find a nearby parking spot
+46,5,1,2,100,the early bird gets the worm
+47,5,1,2,100,obligations must be met first
+48,5,1,2,100,where did i leave my glasses
+49,5,1,2,100,lie detector tests never work
+50,5,1,2,100,sit at the front of the bus
+51,6,1,2,100,we dine out on the weekends
+52,6,1,2,100,pay off a mortgage for a house
+53,6,1,2,100,quit while you are ahead
+54,6,1,2,100,my favorite subject is psychology
+55,6,1,2,100,i do not care if you do that
+56,6,1,2,100,the fire blazed all weekend
+57,6,1,2,100,they might find your comment offensive
+58,6,1,2,100,that land is owned by the government
+59,6,1,2,100,dashing through the snow
+60,6,1,2,100,where did you get that tie
+61,7,0,2,50,this system of taxation
+62,7,0,2,50,all together in one big pile
+63,7,0,2,50,universally understood to be wrong
+64,7,0,2,50,a coupon for a free sample
+65,7,0,2,50,stiff penalty for staying out late
+66,7,0,2,50,three two one zero blast off
+67,7,0,2,50,the minimum amount of time
+68,7,0,2,50,always cover all the bases
+69,7,0,2,50,one of the poorest nations
+70,7,0,2,50,the fourth edition was better
+71,8,1,2,50,our fax number has changed
+72,8,1,2,50,get your priorities in order
+73,8,1,2,50,get rid of that immediately
+74,8,1,2,50,destruction of the rain forest
+75,8,1,2,50,arguing with the boss is futile
+76,8,1,2,50,canada has three territories
+77,8,1,2,50,zero in on the facts
+78,8,1,2,50,medieval times were very hard
+79,8,1,2,50,rent is paid at the beginning of the month
+80,8,1,2,50,not quite so smart as you think
+81,9,1,2,50,a duck quacks to ask for food
+82,9,1,2,50,he watched in astonishment
+83,9,1,2,50,see you later alligator
+84,9,1,2,50,where did you get such a silly idea
+85,9,1,2,50,pumping brakes when roads are slippery
+86,9,1,2,50,wishful thinking is fine
+87,9,1,2,50,the second largest country
+88,9,1,2,50,i am going to a music lesson
+89,9,1,2,50,never mix religion and politics
+90,9,1,2,50,elections bring out the best
+91,10,0,2,0,are you talking to me
+92,10,0,2,0,user friendly interface
+93,10,0,2,0,knee bone is connected to the thigh bone
+94,10,0,2,0,a big scratch on the tabletop
+95,10,0,2,0,an injustice is committed every day
+96,10,0,2,0,get aboard the ship is leaving
+97,10,0,2,0,no more war no more bloodshed
+98,10,0,2,0,dinosaurs have been extinct for ages
+99,10,0,2,0,exercise is good for the mind
+100,10,0,2,0,would you like to come to my house
+101,11,1,2,0,the presidential suite is very busy
+102,11,1,2,0,experience is hard to come by
+103,11,1,2,0,this is a very good idea
+104,11,1,2,0,a touchdown in the last minute
+105,11,1,2,0,the price of gas is high
+106,11,1,2,0,if at first you do not succeed
+107,11,1,2,0,it is difficult to concentrate
+108,11,1,2,0,do not drink the water
+109,11,1,2,0,this camera takes nice photographs
+110,11,1,2,0,go out for some pizza and beer
+111,12,1,2,0,elephants are afraid of mice
+112,12,1,2,0,if you were not so stupid
+113,12,1,2,0,suburbs are sprawling everywhere
+114,12,1,2,0,so you think you deserve a raise
+115,12,1,2,0,are you sure you want this
+116,12,1,2,0,the kids are very excited
+117,12,1,2,0,the dow jones index has risen
+118,12,1,2,0,he cooled off after she left
+119,12,1,2,0,give me one spoonful of coffee
+120,12,1,2,0,that sticker needs to be validated
+121,13,0,2,75,soon we will return from the city
+122,13,0,2,75,the world is a stage
+123,13,0,2,75,the insulation is not working
+124,13,0,2,75,she wears too much makeup
+125,13,0,2,75,is there any indication of this
+126,13,0,2,75,you should visit a doctor
+127,13,0,2,75,please follow the guidelines
+128,13,0,2,75,spill coffee on the carpet
+129,13,0,2,75,take a coffee break
+130,13,0,2,75,the quick brown fox jumped
+131,14,1,2,75,call for more details
+132,14,1,2,75,this person is a disaster
+133,14,1,2,75,companies announce a merger
+134,14,1,2,75,look in the syllabus for the course
+135,14,1,2,75,movie about a nutty professor
+136,14,1,2,75,world population is growing
+137,14,1,2,75,coalition governments never work
+138,14,1,2,75,do you like to go camping
+139,14,1,2,75,that is a very nasty cut
+140,14,1,2,75,motivational seminars make me sick
+141,15,1,2,75,a little encouragement is needed
+142,15,1,2,75,beautiful paintings in the gallery
+143,15,1,2,75,good at addition and subtraction
+144,15,1,2,75,come and see our new car
+145,15,1,2,75,he is just like everyone else
+146,15,1,2,75,stability of the nation
+147,15,1,2,75,physics and chemistry are hard
+148,15,1,2,75,our silver anniversary is coming
+149,15,1,2,75,faster than a speeding bullet
+150,15,1,2,75,a thoroughly disgusting thing to say

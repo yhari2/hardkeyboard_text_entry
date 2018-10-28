@@ -1,0 +1,150 @@
+1,1,0,1,50,the acceptance speech was boring
+2,1,0,1,50,completely sold out of that
+3,1,0,1,50,sign the withdrawal slip
+4,1,0,1,50,my mother makes good cookies
+5,1,0,1,50,the minimum amount of time
+6,1,0,1,50,this system of taxation
+7,1,0,1,50,physics and chemistry are hard
+8,1,0,1,50,our fax number has changed
+9,1,0,1,50,can we play cards tonight
+10,1,0,1,50,a glance in the right direction
+11,2,1,1,50,the gun discharged by accident
+12,2,1,1,50,the cotton is high
+13,2,1,1,50,batman wears a cape
+14,2,1,1,50,the proprietor was unavailable
+15,2,1,1,50,i am allergic to bees and peanuts
+16,2,1,1,50,arguing with the boss is futile
+17,2,1,1,50,one never takes too many precautions
+18,2,1,1,50,there are winners and losers
+19,2,1,1,50,nothing finer than discovering a treasure
+20,2,1,1,50,my favorite subject is psychology
+21,3,1,1,50,did you have a good time
+22,3,1,1,50,flashing red light means stop
+23,3,1,1,50,call for more details
+24,3,1,1,50,the dow jones index has risen
+25,3,1,1,50,space is a high priority
+26,3,1,1,50,superman never wore a mask
+27,3,1,1,50,please follow the guidelines
+28,3,1,1,50,they watched the entire movie
+29,3,1,1,50,the bus was very crowded
+30,3,1,1,50,the early bird gets the worm
+31,4,0,1,100,your etiquette needs some work
+32,4,0,1,100,please provide your date of birth
+33,4,0,1,100,protect your environment
+34,4,0,1,100,the chancellor was very boring
+35,4,0,1,100,the kids are very excited
+36,4,0,1,100,sing the gospel and the blues
+37,4,0,1,100,you will lose your voice
+38,4,0,1,100,valium in the economy size
+39,4,0,1,100,peek out the window
+40,4,0,1,100,the water was monitored daily
+41,5,1,1,100,thank you for your help
+42,5,1,1,100,he is just like everyone else
+43,5,1,1,100,my fingers are very cold
+44,5,1,1,100,neither a borrower nor a lender be
+45,5,1,1,100,are you sure you want this
+46,5,1,1,100,obligations must be met first
+47,5,1,1,100,i agree with you
+48,5,1,1,100,the king sends you to the tower
+49,5,1,1,100,this is a very good idea
+50,5,1,1,100,longer than a football field
+51,6,1,1,100,do you like to shop on sunday
+52,6,1,1,100,rapidly running short on words
+53,6,1,1,100,never mix religion and politics
+54,6,1,1,100,gun powder must be handled with care
+55,6,1,1,100,on the way to the cottage
+56,6,1,1,100,win first prize in the contest
+57,6,1,1,100,they love to yap about nothing
+58,6,1,1,100,he played a hero in that movie
+59,6,1,1,100,a good stimulus deserves a good response
+60,6,1,1,100,a dog is the best friend of a man
+61,7,0,1,75,you are an ardent capitalist
+62,7,0,1,75,toss the ball around
+63,7,0,1,75,traveling requires a lot of fuel
+64,7,0,1,75,victims deserve more redress
+65,7,0,1,75,a most ridiculous thing
+66,7,0,1,75,file all complaints in writing
+67,7,0,1,75,do not worry about this
+68,7,0,1,75,rent is paid at the beginning of the month
+69,7,0,1,75,do you prefer a window seat
+70,7,0,1,75,travel at the speed of light
+71,8,1,1,75,this person is a disaster
+72,8,1,1,75,this is a non profit organization
+73,8,1,1,75,the music is better than it sounds
+74,8,1,1,75,please take a bath this month
+75,8,1,1,75,zero in on the facts
+76,8,1,1,75,the bathroom is good for reading
+77,8,1,1,75,a duck quacks to ask for food
+78,8,1,1,75,the rationale behind the decision
+79,8,1,1,75,the winner of the race
+80,8,1,1,75,have a good weekend
+81,9,1,1,75,he watched in astonishment
+82,9,1,1,75,correct your diction immediately
+83,9,1,1,75,stability of the nation
+84,9,1,1,75,staying up all night is a bad idea
+85,9,1,1,75,burglars never leave their business card
+86,9,1,1,75,this camera takes nice photographs
+87,9,1,1,75,my bare face in the wind
+88,9,1,1,75,her majesty visited our country
+89,9,1,1,75,canada has ten provinces
+90,9,1,1,75,prepare for the exam in advance
+91,10,0,1,25,elephants are afraid of mice
+92,10,0,1,25,we are subjects and must obey
+93,10,0,1,25,the high waves will swamp us
+94,10,0,1,25,for murder you get a long prison sentence
+95,10,0,1,25,all together in one big pile
+96,10,0,1,25,the plug does not fit the socket
+97,10,0,1,25,careless driving results in a fine
+98,10,0,1,25,express delivery is very fast
+99,10,0,1,25,mystery of the lost lagoon
+100,10,0,1,25,it looks like a shack
+101,11,1,1,25,jumping right out of the water
+102,11,1,1,25,the postal service is very slow
+103,11,1,1,25,consequences of a wrong turn
+104,11,1,1,25,be persistent to win a strike
+105,11,1,1,25,put garbage in an abandoned mine
+106,11,1,1,25,breathing is difficult
+107,11,1,1,25,a good response to the question
+108,11,1,1,25,not quite so smart as you think
+109,11,1,1,25,double double toil and trouble
+110,11,1,1,25,the ventilation system is broken
+111,12,1,1,25,the fourth edition was better
+112,12,1,1,25,we run the risk of failure
+113,12,1,1,25,our life expectancy has increased
+114,12,1,1,25,earthquakes are predictable
+115,12,1,1,25,are you talking to me
+116,12,1,1,25,questioning the wisdom of the courts
+117,12,1,1,25,that is a very odd question
+118,12,1,1,25,taking the train is usually faster
+119,12,1,1,25,one hour is allotted for questions
+120,12,1,1,25,you have my sympathy
+121,13,0,1,0,want to join us for lunch
+122,13,0,1,0,this mission statement is baloney
+123,13,0,1,0,well connected with people
+124,13,0,1,0,do not walk too quickly
+125,13,0,1,0,fine but only in moderation
+126,13,0,1,0,a good joke deserves a good laugh
+127,13,0,1,0,my favorite web browser
+128,13,0,1,0,a steep learning curve in riding a unicycle
+129,13,0,1,0,safe to walk the streets in the evening
+130,13,0,1,0,we are having spaghetti
+131,14,1,1,0,this is too much to handle
+132,14,1,1,0,the opposing team is over there
+133,14,1,1,0,gas bills are sent monthly
+134,14,1,1,0,i cannot believe i ate the whole thing
+135,14,1,1,0,prevailing wind from the east
+136,14,1,1,0,she wears too much makeup
+137,14,1,1,0,never too rich and never too thin
+138,14,1,1,0,the store will close at ten
+139,14,1,1,0,question that must be answered
+140,14,1,1,0,two or three cups of coffee
+141,15,1,1,0,just what the doctor ordered
+142,15,1,1,0,is there any indication of this
+143,15,1,1,0,dashing through the snow
+144,15,1,1,0,experience is hard to come by
+145,15,1,1,0,granite is the hardest of all rocks
+146,15,1,1,0,vote according to your conscience
+147,15,1,1,0,do not squander your time
+148,15,1,1,0,this leather jacket is too warm
+149,15,1,1,0,presidents drive expensive cars
+150,15,1,1,0,companies announce a merger

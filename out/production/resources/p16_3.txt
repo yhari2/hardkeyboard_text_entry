@@ -1,0 +1,150 @@
+1,1,0,2,100,give me one spoonful of coffee
+2,1,0,2,100,the most beautiful sunset
+3,1,0,2,100,elephants are afraid of mice
+4,1,0,2,100,do not drink too much
+5,1,0,2,100,valium in the economy size
+6,1,0,2,100,our fax number has changed
+7,1,0,2,100,taking the train is usually faster
+8,1,0,2,100,traveling requires a lot of fuel
+9,1,0,2,100,the collapse of the roman empire
+10,1,0,2,100,i skimmed through your proposal
+11,2,1,2,100,valid until the end of the year
+12,2,1,2,100,keep receipts for all your expenses
+13,2,1,2,100,the rationale behind the decision
+14,2,1,2,100,a duck quacks to ask for food
+15,2,1,2,100,the treasury department is broke
+16,2,1,2,100,an inefficient way to heat a house
+17,2,1,2,100,the winner of the race
+18,2,1,2,100,no exchange without a bill
+19,2,1,2,100,consequences of a wrong turn
+20,2,1,2,100,we run the risk of failure
+21,3,1,2,100,what a monkey sees a monkey will do
+22,3,1,2,100,interesting observation was made
+23,3,1,2,100,he is just like everyone else
+24,3,1,2,100,my favorite web browser
+25,3,1,2,100,vote according to your conscience
+26,3,1,2,100,nobody cares anymore
+27,3,1,2,100,the laser printer is jammed
+28,3,1,2,100,be discreet about your meeting
+29,3,1,2,100,do not say anything
+30,3,1,2,100,double double toil and trouble
+31,4,0,2,0,she wears too much makeup
+32,4,0,2,0,destruction of the rain forest
+33,4,0,2,0,the early bird gets the worm
+34,4,0,2,0,i agree with you
+35,4,0,2,0,can we play cards tonight
+36,4,0,2,0,we are having spaghetti
+37,4,0,2,0,my bank account is overdrawn
+38,4,0,2,0,a security force of eight thousand
+39,4,0,2,0,interactions between men and women
+40,4,0,2,0,all together in one big pile
+41,5,1,2,0,our life expectancy has increased
+42,5,1,2,0,in sharp contrast to your words
+43,5,1,2,0,very reluctant to enter
+44,5,1,2,0,call for more details
+45,5,1,2,0,that is very unfortunate
+46,5,1,2,0,construction makes traveling difficult
+47,5,1,2,0,please follow the guidelines
+48,5,1,2,0,you should visit a doctor
+49,5,1,2,0,the fire blazed all weekend
+50,5,1,2,0,a much higher risk of getting cancer
+51,6,1,2,0,this watch is too expensive
+52,6,1,2,0,physics and chemistry are hard
+53,6,1,2,0,if you were not so stupid
+54,6,1,2,0,earthquakes are predictable
+55,6,1,2,0,i can still feel your presence
+56,6,1,2,0,do a good deed to someone
+57,6,1,2,0,my preferred treat is chocolate
+58,6,1,2,0,the living is easy
+59,6,1,2,0,there will be some fog tonight
+60,6,1,2,0,a correction had to be published
+61,7,0,2,50,sprawling subdivisions are bad
+62,7,0,2,50,the daring young man
+63,7,0,2,50,one never takes too many precautions
+64,7,0,2,50,nothing finer than discovering a treasure
+65,7,0,2,50,stability of the nation
+66,7,0,2,50,please take a bath this month
+67,7,0,2,50,it should be sunny tomorrow
+68,7,0,2,50,a quarter of a century
+69,7,0,2,50,a most ridiculous thing
+70,7,0,2,50,you must be getting old
+71,8,1,2,50,did you have a good time
+72,8,1,2,50,an airport is a very busy place
+73,8,1,2,50,i can play much better now
+74,8,1,2,50,her majesty visited our country
+75,8,1,2,50,pumping brakes when roads are slippery
+76,8,1,2,50,for murder you get a long prison sentence
+77,8,1,2,50,only an idiot would lie in court
+78,8,1,2,50,the assignment is due today
+79,8,1,2,50,the plug does not fit the socket
+80,8,1,2,50,the postal service is very slow
+81,9,1,2,50,my favorite sport is racketball
+82,9,1,2,50,they watched the entire movie
+83,9,1,2,50,the sum of the parts
+84,9,1,2,50,we better investigate this
+85,9,1,2,50,i do not fully agree with you
+86,9,1,2,50,the union will go on strike
+87,9,1,2,50,prayer in schools offends some
+88,9,1,2,50,victims deserve more redress
+89,9,1,2,50,you have my sympathy
+90,9,1,2,50,if at first you do not succeed
+91,10,0,2,25,the stock exchange dipped
+92,10,0,2,25,the king sends you to the tower
+93,10,0,2,25,a dog is the best friend of a man
+94,10,0,2,25,just like it says on the canned good
+95,10,0,2,25,no more war no more bloodshed
+96,10,0,2,25,bring the offenders to justice
+97,10,0,2,25,he cooled off after she left
+98,10,0,2,25,handicapped persons need consideration
+99,10,0,2,25,elections bring out the best
+100,10,0,2,25,drugs should be avoided
+101,11,1,2,25,he was wearing a sweatshirt
+102,11,1,2,25,do you like to go camping
+103,11,1,2,25,the biggest hamburger i have ever seen
+104,11,1,2,25,a coupon for a free sample
+105,11,1,2,25,protect your environment
+106,11,1,2,25,he played a hero in that movie
+107,11,1,2,25,the facts get in the way
+108,11,1,2,25,a subject one can really enjoy
+109,11,1,2,25,on the way to the cottage
+110,11,1,2,25,the punishment should fit the crime
+111,12,1,2,25,burglars never leave their business card
+112,12,1,2,25,the food at this restaurant
+113,12,1,2,25,mary had a little lamb
+114,12,1,2,25,the fire raged for an entire month
+115,12,1,2,25,the voters turfed him out
+116,12,1,2,25,the registration period is over
+117,12,1,2,25,be home before midnight
+118,12,1,2,25,that sticker needs to be validated
+119,12,1,2,25,the acceptance speech was boring
+120,12,1,2,25,play it again sam
+121,13,0,2,75,the library is closed today
+122,13,0,2,75,i watched blazing saddles
+123,13,0,2,75,the chamber makes important decisions
+124,13,0,2,75,popularity is desired by all
+125,13,0,2,75,electric cars need big fuel cells
+126,13,0,2,75,frequently asked questions
+127,13,0,2,75,olympic athletes use drugs
+128,13,0,2,75,they might find your comment offensive
+129,13,0,2,75,prepare for the exam in advance
+130,13,0,2,75,a touchdown in the last minute
+131,14,1,2,75,reading week is just about here
+132,14,1,2,75,these cookies are so amazing
+133,14,1,2,75,yes you are very smart
+134,14,1,2,75,batman wears a cape
+135,14,1,2,75,see you later alligator
+136,14,1,2,75,come and see our new car
+137,14,1,2,75,people blow their own horn a lot
+138,14,1,2,75,get aboard the ship is leaving
+139,14,1,2,75,make my day you sucker
+140,14,1,2,75,want to join us for lunch
+141,15,1,2,75,video camera with a zoom lens
+142,15,1,2,75,that is a very nasty cut
+143,15,1,2,75,our silver anniversary is coming
+144,15,1,2,75,accompanied by an adult
+145,15,1,2,75,where did i leave my glasses
+146,15,1,2,75,i spilled coffee on the carpet
+147,15,1,2,75,public transit is much faster
+148,15,1,2,75,the trains are always late
+149,15,1,2,75,he watched in astonishment
+150,15,1,2,75,a feeling of complete exasperation

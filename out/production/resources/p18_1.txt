@@ -1,0 +1,150 @@
+1,1,0,1,25,suburbs are sprawling everywhere
+2,1,0,1,25,i can still feel your presence
+3,1,0,1,25,a rattle snake is very poisonous
+4,1,0,1,25,that is a very odd question
+5,1,0,1,25,that is very unfortunate
+6,1,0,1,25,the generation gap gets wider
+7,1,0,1,25,salesmen must make their monthly quota
+8,1,0,1,25,please try to be home before midnight
+9,1,0,1,25,the protesters blocked all traffic
+10,1,0,1,25,three two one zero blast off
+11,2,1,1,25,teaching services will help
+12,2,1,1,25,our housekeeper does a thorough job
+13,2,1,1,25,quick there is someone knocking
+14,2,1,1,25,i just cannot figure this out
+15,2,1,1,25,sit at the front of the bus
+16,2,1,1,25,my car always breaks in the winter
+17,2,1,1,25,pay off a mortgage for a house
+18,2,1,1,25,gamblers eventually lose their shirts
+19,2,1,1,25,he was wearing a sweatshirt
+20,2,1,1,25,healthy food is good for you
+21,3,1,1,25,play it again sam
+22,3,1,1,25,frequently asked questions
+23,3,1,1,25,where did you get such a silly idea
+24,3,1,1,25,relations are very strained
+25,3,1,1,25,the fourth edition was better
+26,3,1,1,25,it should be sunny tomorrow
+27,3,1,1,25,the water was monitored daily
+28,3,1,1,25,rectangular objects have four sides
+29,3,1,1,25,the price of gas is high
+30,3,1,1,25,seasoned golfers love the game
+31,4,0,1,100,rain rain go away
+32,4,0,1,100,the fire blazed all weekend
+33,4,0,1,100,players must know all the rules
+34,4,0,1,100,the dreamers of dreams
+35,4,0,1,100,are you talking to me
+36,4,0,1,100,stability of the nation
+37,4,0,1,100,motivational seminars make me sick
+38,4,0,1,100,this mission statement is baloney
+39,4,0,1,100,information super highway
+40,4,0,1,100,i do not fully agree with you
+41,5,1,1,100,the back yard of our house
+42,5,1,1,100,yes you are very smart
+43,5,1,1,100,round robin scheduling
+44,5,1,1,100,a good stimulus deserves a good response
+45,5,1,1,100,call for more details
+46,5,1,1,100,peering through a small hole
+47,5,1,1,100,wishful thinking is fine
+48,5,1,1,100,i hate baking pies
+49,5,1,1,100,just in time for the party
+50,5,1,1,100,sprawling subdivisions are bad
+51,6,1,1,100,not quite so smart as you think
+52,6,1,1,100,stiff penalty for staying out late
+53,6,1,1,100,you must be getting old
+54,6,1,1,100,the daring young man
+55,6,1,1,100,the rationale behind the decision
+56,6,1,1,100,the fire raged for an entire month
+57,6,1,1,100,consequences of a wrong turn
+58,6,1,1,100,luckily my wallet was found
+59,6,1,1,100,this is too much to handle
+60,6,1,1,100,we are having spaghetti
+61,7,0,1,0,there will be some fog tonight
+62,7,0,1,0,a fox is a very smart animal
+63,7,0,1,0,i am wearing a tie and a jacket
+64,7,0,1,0,bad for the environment
+65,7,0,1,0,starlight and dewdrop
+66,7,0,1,0,careless driving results in a fine
+67,7,0,1,0,her majesty visited our country
+68,7,0,1,0,he cooled off after she left
+69,7,0,1,0,where did i leave my glasses
+70,7,0,1,0,i am allergic to bees and peanuts
+71,8,1,1,0,what a lovely red jacket
+72,8,1,1,0,beautiful paintings in the gallery
+73,8,1,1,0,we missed your birthday
+74,8,1,1,0,so you think you deserve a raise
+75,8,1,1,0,the union will go on strike
+76,8,1,1,0,can we play cards tonight
+77,8,1,1,0,the facts get in the way
+78,8,1,1,0,physics and chemistry are hard
+79,8,1,1,0,superman never wore a mask
+80,8,1,1,0,the quick brown fox jumped
+81,9,1,1,0,a picture is worth many words
+82,9,1,1,0,he underwent triple bypass surgery
+83,9,1,1,0,i listen to the tape every day
+84,9,1,1,0,my bare face in the wind
+85,9,1,1,0,thank you for your help
+86,9,1,1,0,sign the withdrawal slip
+87,9,1,1,0,they watched the entire movie
+88,9,1,1,0,effort is what it will take
+89,9,1,1,0,freud wrote of the ego
+90,9,1,1,0,my bike has a flat tire
+91,10,0,1,75,labor unions know how to organize
+92,10,0,1,75,with each step forward
+93,10,0,1,75,please follow the guidelines
+94,10,0,1,75,questioning the wisdom of the courts
+95,10,0,1,75,shall we play a round of cards
+96,10,0,1,75,do you get nervous when you speak
+97,10,0,1,75,the high waves will swamp us
+98,10,0,1,75,the treasurer must balance her books
+99,10,0,1,75,the gun discharged by accident
+100,10,0,1,75,the force is with you
+101,11,1,1,75,nothing wrong with his style
+102,11,1,1,75,the picket line gives me the chills
+103,11,1,1,75,the registration period is over
+104,11,1,1,75,tickets are very expensive
+105,11,1,1,75,hands on experience with a job
+106,11,1,1,75,that sticker needs to be validated
+107,11,1,1,75,express delivery is very fast
+108,11,1,1,75,my preferred treat is chocolate
+109,11,1,1,75,acutely aware of his good looks
+110,11,1,1,75,a good joke deserves a good laugh
+111,12,1,1,75,the pen is mightier than the sword
+112,12,1,1,75,movie about a nutty professor
+113,12,1,1,75,the aspirations of a nation
+114,12,1,1,75,exercise is good for the mind
+115,12,1,1,75,fine but only in moderation
+116,12,1,1,75,important news always seems to be late
+117,12,1,1,75,you will lose your voice
+118,12,1,1,75,nothing finer than discovering a treasure
+119,12,1,1,75,mystery of the lost lagoon
+120,12,1,1,75,an airport is a very busy place
+121,13,0,1,50,raindrops keep falling on my head
+122,13,0,1,50,microscopes make small things look big
+123,13,0,1,50,the assignment is due today
+124,13,0,1,50,if diplomacy does not work
+125,13,0,1,50,mary had a little lamb
+126,13,0,1,50,lydia wants to go home
+127,13,0,1,50,nobody cares anymore
+128,13,0,1,50,we park in driveways
+129,13,0,1,50,granite is the hardest of all rocks
+130,13,0,1,50,i like to play tennis
+131,14,1,1,50,there are winners and losers
+132,14,1,1,50,valium in the economy size
+133,14,1,1,50,two or three cups of coffee
+134,14,1,1,50,watch out for low flying objects
+135,14,1,1,50,safe to walk the streets in the evening
+136,14,1,1,50,if you were not so stupid
+137,14,1,1,50,the chamber makes important decisions
+138,14,1,1,50,my favorite place to visit
+139,14,1,1,50,never mix religion and politics
+140,14,1,1,50,world population is growing
+141,15,1,1,50,sharp cheese keeps the mind sharp
+142,15,1,1,50,time to go shopping
+143,15,1,1,50,i like baroque and classical music
+144,15,1,1,50,he is just like everyone else
+145,15,1,1,50,the sun rises in the east
+146,15,1,1,50,the dog buried the bone
+147,15,1,1,50,a big scratch on the tabletop
+148,15,1,1,50,is there any indication of this
+149,15,1,1,50,the acceptance speech was boring
+150,15,1,1,50,i watched blazing saddles

@@ -1,0 +1,150 @@
+1,1,0,1,25,a problem with the engine
+2,1,0,1,25,i cannot believe i ate the whole thing
+3,1,0,1,25,double double toil and trouble
+4,1,0,1,25,do you prefer a window seat
+5,1,0,1,25,the food at this restaurant
+6,1,0,1,25,a very traditional way to dress
+7,1,0,1,25,the high waves will swamp us
+8,1,0,1,25,the cream rises to the top
+9,1,0,1,25,traveling requires a lot of fuel
+10,1,0,1,25,our fax number has changed
+11,2,1,1,25,take it to the recycling depot
+12,2,1,1,25,i want to hold your hand
+13,2,1,1,25,you must be getting old
+14,2,1,1,25,the registration period is over
+15,2,1,1,25,universities are too expensive
+16,2,1,1,25,one heck of a question
+17,2,1,1,25,staying up all night is a bad idea
+18,2,1,1,25,just what the doctor ordered
+19,2,1,1,25,the presidential suite is very busy
+20,2,1,1,25,coalition governments never work
+21,3,1,1,25,communicate through email
+22,3,1,1,25,sit at the front of the bus
+23,3,1,1,25,a good response to the question
+24,3,1,1,25,that land is owned by the government
+25,3,1,1,25,the fire blazed all weekend
+26,3,1,1,25,this watch is too expensive
+27,3,1,1,25,the dog buried the bone
+28,3,1,1,25,my preferred treat is chocolate
+29,3,1,1,25,goldilocks and the three bears
+30,3,1,1,25,he underwent triple bypass surgery
+31,4,0,1,100,our life expectancy has increased
+32,4,0,1,100,the sum of the parts
+33,4,0,1,100,this library has many books
+34,4,0,1,100,olympic athletes use drugs
+35,4,0,1,100,listen to five hours of opera
+36,4,0,1,100,we are subjects and must obey
+37,4,0,1,100,keep receipts for all your expenses
+38,4,0,1,100,longer than a football field
+39,4,0,1,100,are you sure you want this
+40,4,0,1,100,these cookies are so amazing
+41,5,1,1,100,the price of gas is high
+42,5,1,1,100,that referendum asked a silly question
+43,5,1,1,100,the fourth edition was better
+44,5,1,1,100,this is a very good idea
+45,5,1,1,100,machinery is too complicated
+46,5,1,1,100,want to join us for lunch
+47,5,1,1,100,popularity is desired by all
+48,5,1,1,100,she wears too much makeup
+49,5,1,1,100,i watched blazing saddles
+50,5,1,1,100,players must know all the rules
+51,6,1,1,100,a psychiatrist will help you
+52,6,1,1,100,a dog is the best friend of a man
+53,6,1,1,100,look in the syllabus for the course
+54,6,1,1,100,every saturday he folds the laundry
+55,6,1,1,100,give me one spoonful of coffee
+56,6,1,1,100,shivering is one way to keep warm
+57,6,1,1,100,with each step forward
+58,6,1,1,100,a lot of chlorine in the water
+59,6,1,1,100,for murder you get a long prison sentence
+60,6,1,1,100,love means many things
+61,7,0,1,75,work hard to reach the summit
+62,7,0,1,75,people blow their own horn a lot
+63,7,0,1,75,why do you ask silly questions
+64,7,0,1,75,the gun discharged by accident
+65,7,0,1,75,an injustice is committed every day
+66,7,0,1,75,what goes up must come down
+67,7,0,1,75,you are not a jedi yet
+68,7,0,1,75,medieval times were very hard
+69,7,0,1,75,they might find your comment offensive
+70,7,0,1,75,insurance is important for bad drivers
+71,8,1,1,75,a rattle snake is very poisonous
+72,8,1,1,75,not quite so smart as you think
+73,8,1,1,75,effort is what it will take
+74,8,1,1,75,beautiful paintings in the gallery
+75,8,1,1,75,public transit is much faster
+76,8,1,1,75,weeping willows are found near water
+77,8,1,1,75,play it again sam
+78,8,1,1,75,i am going to a music lesson
+79,8,1,1,75,suburbs are sprawling everywhere
+80,8,1,1,75,victims deserve more redress
+81,9,1,1,75,you are a wonderful example
+82,9,1,1,75,prescription drugs require a note
+83,9,1,1,75,soon we will return from the city
+84,9,1,1,75,bad for the environment
+85,9,1,1,75,the children are playing
+86,9,1,1,75,do not squander your time
+87,9,1,1,75,one hour is allotted for questions
+88,9,1,1,75,i agree with you
+89,9,1,1,75,drove my chevy to the levee
+90,9,1,1,75,we park in driveways
+91,10,0,1,50,toss the ball around
+92,10,0,1,50,the library is closed today
+93,10,0,1,50,frequently asked questions
+94,10,0,1,50,an offer you cannot refuse
+95,10,0,1,50,flashing red light means stop
+96,10,0,1,50,sprawling subdivisions are bad
+97,10,0,1,50,just in time for the party
+98,10,0,1,50,nothing finer than discovering a treasure
+99,10,0,1,50,a picture is worth many words
+100,10,0,1,50,valium in the economy size
+101,11,1,1,50,no kissing in the library
+102,11,1,1,50,get aboard the ship is leaving
+103,11,1,1,50,be home before midnight
+104,11,1,1,50,that is a very odd question
+105,11,1,1,50,wear a crown with many jewels
+106,11,1,1,50,my dog sheds his hair
+107,11,1,1,50,tickets are very expensive
+108,11,1,1,50,he is just like everyone else
+109,11,1,1,50,beware the ides of march
+110,11,1,1,50,relations are very strained
+111,12,1,1,50,a big scratch on the tabletop
+112,12,1,1,50,pumping brakes when roads are slippery
+113,12,1,1,50,sign the withdrawal slip
+114,12,1,1,50,canada has ten provinces
+115,12,1,1,50,neither a borrower nor a lender be
+116,12,1,1,50,this is a non profit organization
+117,12,1,1,50,no more war no more bloodshed
+118,12,1,1,50,he watched in astonishment
+119,12,1,1,50,the facts get in the way
+120,12,1,1,50,obligations must be met first
+121,13,0,1,0,there will be some fog tonight
+122,13,0,1,0,one of the poorest nations
+123,13,0,1,0,fine but only in moderation
+124,13,0,1,0,reading week is just about here
+125,13,0,1,0,our silver anniversary is coming
+126,13,0,1,0,your presentation was inspiring
+127,13,0,1,0,the assignment is due today
+128,13,0,1,0,i will meet you at noon
+129,13,0,1,0,a much higher risk of getting cancer
+130,13,0,1,0,acutely aware of his good looks
+131,14,1,1,0,you will lose your voice
+132,14,1,1,0,prevailing wind from the east
+133,14,1,1,0,the stock exchange dipped
+134,14,1,1,0,do a good deed to someone
+135,14,1,1,0,very reluctant to enter
+136,14,1,1,0,vanilla flavored ice cream
+137,14,1,1,0,that is very unfortunate
+138,14,1,1,0,a touchdown in the last minute
+139,14,1,1,0,sent this by registered mail
+140,14,1,1,0,a coupon for a free sample
+141,15,1,1,0,all work and no play
+142,15,1,1,0,the punishment should fit the crime
+143,15,1,1,0,interactions between men and women
+144,15,1,1,0,saving that child was a heroic effort
+145,15,1,1,0,the objective of the exercise
+146,15,1,1,0,fish are jumping
+147,15,1,1,0,he is still on our team
+148,15,1,1,0,question that must be answered
+149,15,1,1,0,sad to hear that news
+150,15,1,1,0,a yard is almost as long as a meter

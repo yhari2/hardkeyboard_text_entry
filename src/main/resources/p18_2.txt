@@ -1,0 +1,150 @@
+1,1,0,0,0,careless driving results in a fine
+2,1,0,0,0,the voters turfed him out
+3,1,0,0,0,one heck of a question
+4,1,0,0,0,the food at this restaurant
+5,1,0,0,0,prepare for the exam in advance
+6,1,0,0,0,the fire raged for an entire month
+7,1,0,0,0,wishful thinking is fine
+8,1,0,0,0,no more war no more bloodshed
+9,1,0,0,0,a rattle snake is very poisonous
+10,1,0,0,0,the stock exchange dipped
+11,2,1,0,0,the fire blazed all weekend
+12,2,1,0,0,i will put on my glasses
+13,2,1,0,0,protect your environment
+14,2,1,0,0,it should be sunny tomorrow
+15,2,1,0,0,the biggest hamburger i have ever seen
+16,2,1,0,0,a very traditional way to dress
+17,2,1,0,0,this watch is too expensive
+18,2,1,0,0,meet tomorrow in the lavatory
+19,2,1,0,0,they love to yap about nothing
+20,2,1,0,0,wear a crown with many jewels
+21,3,1,0,0,burglars never leave their business card
+22,3,1,0,0,a coupon for a free sample
+23,3,1,0,0,make my day you sucker
+24,3,1,0,0,just like it says on the canned good
+25,3,1,0,0,the quick brown fox jumped
+26,3,1,0,0,the bus was very crowded
+27,3,1,0,0,pumping brakes when roads are slippery
+28,3,1,0,0,quick there is someone knocking
+29,3,1,0,0,all work and no play
+30,3,1,0,0,the gun discharged by accident
+31,4,0,0,75,i can play much better now
+32,4,0,0,75,did you have a good time
+33,4,0,0,75,fine but only in moderation
+34,4,0,0,75,the proprietor was unavailable
+35,4,0,0,75,handicapped persons need consideration
+36,4,0,0,75,put garbage in an abandoned mine
+37,4,0,0,75,are you talking to me
+38,4,0,0,75,i just cannot figure this out
+39,4,0,0,75,good at addition and subtraction
+40,4,0,0,75,the protesters blocked all traffic
+41,5,1,0,75,i am going to a music lesson
+42,5,1,0,75,you are an ardent capitalist
+43,5,1,0,75,no kissing in the library
+44,5,1,0,75,i will meet you at noon
+45,5,1,0,75,traveling to conferences is fun
+46,5,1,0,75,mystery of the lost lagoon
+47,5,1,0,75,all together in one big pile
+48,5,1,0,75,yes you are very smart
+49,5,1,0,75,this system of taxation
+50,5,1,0,75,the price of gas is high
+51,6,1,0,75,it looks like a shack
+52,6,1,0,75,sprawling subdivisions are bad
+53,6,1,0,75,you will lose your voice
+54,6,1,0,75,you should visit a doctor
+55,6,1,0,75,every saturday he folds the laundry
+56,6,1,0,75,the cotton is high
+57,6,1,0,75,he cooled off after she left
+58,6,1,0,75,the cat has a pleasant temperament
+59,6,1,0,75,i spilled coffee on the carpet
+60,6,1,0,75,drove my chevy to the levee
+61,7,0,0,25,bank transaction was not registered
+62,7,0,0,25,a picture is worth many words
+63,7,0,0,25,my car always breaks in the winter
+64,7,0,0,25,jumping right out of the water
+65,7,0,0,25,one never takes too many precautions
+66,7,0,0,25,if you were not so stupid
+67,7,0,0,25,a glance in the right direction
+68,7,0,0,25,mom made her a turtleneck
+69,7,0,0,25,goldilocks and the three bears
+70,7,0,0,25,these cookies are so amazing
+71,8,1,0,25,communicate through email
+72,8,1,0,25,saving that child was a heroic effort
+73,8,1,0,25,the children are playing
+74,8,1,0,25,please try to be home before midnight
+75,8,1,0,25,three two one zero blast off
+76,8,1,0,25,do not lie in court or else
+77,8,1,0,25,our life expectancy has increased
+78,8,1,0,25,one of the poorest nations
+79,8,1,0,25,weeping willows are found near water
+80,8,1,0,25,try to enjoy your maternity leave
+81,9,1,0,25,sent this by registered mail
+82,9,1,0,25,february has an extra day
+83,9,1,0,25,this is too much to handle
+84,9,1,0,25,we dine out on the weekends
+85,9,1,0,25,where did you get that tie
+86,9,1,0,25,a touchdown in the last minute
+87,9,1,0,25,always cover all the bases
+88,9,1,0,25,parking lot is full of trucks
+89,9,1,0,25,i skimmed through your proposal
+90,9,1,0,25,he watched in astonishment
+91,10,0,0,50,the largest of the five oceans
+92,10,0,0,50,prayer in schools offends some
+93,10,0,0,50,the dog buried the bone
+94,10,0,0,50,medieval times were very hard
+95,10,0,0,50,be persistent to win a strike
+96,10,0,0,50,the living is easy
+97,10,0,0,50,the dreamers of dreams
+98,10,0,0,50,coalition governments never work
+99,10,0,0,50,that is a very odd question
+100,10,0,0,50,can i skate with my sister today
+101,11,1,0,50,in sharp contrast to your words
+102,11,1,0,50,quit while you are ahead
+103,11,1,0,50,my mother makes good cookies
+104,11,1,0,50,can we play cards tonight
+105,11,1,0,50,everyone wants to win the lottery
+106,11,1,0,50,an inefficient way to heat a house
+107,11,1,0,50,accompanied by an adult
+108,11,1,0,50,the minimum amount of time
+109,11,1,0,50,the fourth edition was better
+110,11,1,0,50,we must redouble our efforts
+111,12,1,0,50,that is a very nasty cut
+112,12,1,0,50,the pen is mightier than the sword
+113,12,1,0,50,very reluctant to enter
+114,12,1,0,50,canada has ten provinces
+115,12,1,0,50,take a coffee break
+116,12,1,0,50,a yard is almost as long as a meter
+117,12,1,0,50,i am allergic to bees and peanuts
+118,12,1,0,50,this phenomenon will never occur
+119,12,1,0,50,the plug does not fit the socket
+120,12,1,0,50,get rid of that immediately
+121,13,0,0,100,be home before midnight
+122,13,0,0,100,he is just like everyone else
+123,13,0,0,100,this is a non profit organization
+124,13,0,0,100,pay off a mortgage for a house
+125,13,0,0,100,good jobs for those with education
+126,13,0,0,100,vote according to your conscience
+127,13,0,0,100,flashing red light means stop
+128,13,0,0,100,drugs should be avoided
+129,13,0,0,100,apartments are too expensive
+130,13,0,0,100,play it again sam
+131,14,1,0,100,effort is what it will take
+132,14,1,0,100,obligations must be met first
+133,14,1,0,100,do not drink the water
+134,14,1,0,100,two or three cups of coffee
+135,14,1,0,100,exercise is good for the mind
+136,14,1,0,100,sad to hear that news
+137,14,1,0,100,neither a borrower nor a lender be
+138,14,1,0,100,just in time for the party
+139,14,1,0,100,do not walk too quickly
+140,14,1,0,100,please provide your date of birth
+141,15,1,0,100,an occasional taste of chocolate
+142,15,1,0,100,there will be some fog tonight
+143,15,1,0,100,a lot of chlorine in the water
+144,15,1,0,100,that sticker needs to be validated
+145,15,1,0,100,so you think you deserve a raise
+146,15,1,0,100,i cannot believe i ate the whole thing
+147,15,1,0,100,prescription drugs require a note
+148,15,1,0,100,great disturbance in the force
+149,15,1,0,100,do you prefer a window seat
+150,15,1,0,100,i like to play tennis

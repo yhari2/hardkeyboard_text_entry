@@ -1,0 +1,150 @@
+1,1,0,2,0,apartments are too expensive
+2,1,0,2,0,where did you get that tie
+3,1,0,2,0,my favorite sport is racketball
+4,1,0,2,0,the laser printer is jammed
+5,1,0,2,0,the treasurer must balance her books
+6,1,0,2,0,have a good weekend
+7,1,0,2,0,a most ridiculous thing
+8,1,0,2,0,the gun discharged by accident
+9,1,0,2,0,my bare face in the wind
+10,1,0,2,0,lie detector tests never work
+11,2,1,2,0,stay away from strangers
+12,2,1,2,0,the water was monitored daily
+13,2,1,2,0,no kissing in the library
+14,2,1,2,0,rejection letters are discouraging
+15,2,1,2,0,see you later alligator
+16,2,1,2,0,the cream rises to the top
+17,2,1,2,0,mary had a little lamb
+18,2,1,2,0,two or three cups of coffee
+19,2,1,2,0,the coronation was very exciting
+20,2,1,2,0,work hard to reach the summit
+21,3,1,2,0,the registration period is over
+22,3,1,2,0,the ropes of a new organization
+23,3,1,2,0,do not lie in court or else
+24,3,1,2,0,double double toil and trouble
+25,3,1,2,0,luckily my wallet was found
+26,3,1,2,0,he is just like everyone else
+27,3,1,2,0,burglars never leave their business card
+28,3,1,2,0,please provide your date of birth
+29,3,1,2,0,the cotton is high
+30,3,1,2,0,people blow their own horn a lot
+31,4,0,2,75,this person is a disaster
+32,4,0,2,75,go out for some pizza and beer
+33,4,0,2,75,we drive on parkways
+34,4,0,2,75,can i skate with my sister today
+35,4,0,2,75,i am going to a music lesson
+36,4,0,2,75,this is a very good idea
+37,4,0,2,75,i agree with you
+38,4,0,2,75,i can play much better now
+39,4,0,2,75,be persistent to win a strike
+40,4,0,2,75,for your information only
+41,5,1,2,75,there are winners and losers
+42,5,1,2,75,what a monkey sees a monkey will do
+43,5,1,2,75,always cover all the bases
+44,5,1,2,75,our life expectancy has increased
+45,5,1,2,75,most judges are very honest
+46,5,1,2,75,a quarter of a century
+47,5,1,2,75,they might find your comment offensive
+48,5,1,2,75,if you come home late the doors are locked
+49,5,1,2,75,life is but a dream
+50,5,1,2,75,just in time for the party
+51,6,1,2,75,my car always breaks in the winter
+52,6,1,2,75,knee bone is connected to the thigh bone
+53,6,1,2,75,six daughters and seven sons
+54,6,1,2,75,are you sure you want this
+55,6,1,2,75,a rattle snake is very poisonous
+56,6,1,2,75,one of the poorest nations
+57,6,1,2,75,my favorite place to visit
+58,6,1,2,75,the largest of the five oceans
+59,6,1,2,75,a touchdown in the last minute
+60,6,1,2,75,i am allergic to bees and peanuts
+61,7,0,2,100,superman never wore a mask
+62,7,0,2,100,healthy food is good for you
+63,7,0,2,100,be home before midnight
+64,7,0,2,100,an inefficient way to heat a house
+65,7,0,2,100,where did i leave my glasses
+66,7,0,2,100,batman wears a cape
+67,7,0,2,100,he was wearing a sweatshirt
+68,7,0,2,100,seasoned golfers love the game
+69,7,0,2,100,the living is easy
+70,7,0,2,100,goldilocks and the three bears
+71,8,1,2,100,pay off a mortgage for a house
+72,8,1,2,100,elections bring out the best
+73,8,1,2,100,express delivery is very fast
+74,8,1,2,100,the protesters blocked all traffic
+75,8,1,2,100,my bank account is overdrawn
+76,8,1,2,100,do not walk too quickly
+77,8,1,2,100,get rid of that immediately
+78,8,1,2,100,this system of taxation
+79,8,1,2,100,my fingers are very cold
+80,8,1,2,100,freud wrote of the ego
+81,9,1,2,100,sprawling subdivisions are bad
+82,9,1,2,100,zero in on the facts
+83,9,1,2,100,these barracks are big enough
+84,9,1,2,100,all good boys deserve fudge
+85,9,1,2,100,not quite so smart as you think
+86,9,1,2,100,flashing red light means stop
+87,9,1,2,100,traveling to conferences is fun
+88,9,1,2,100,it should be sunny tomorrow
+89,9,1,2,100,did you have a good time
+90,9,1,2,100,the picket line gives me the chills
+91,10,0,2,50,drugs should be avoided
+92,10,0,2,50,an airport is a very busy place
+93,10,0,2,50,exceed the maximum speed limit
+94,10,0,2,50,the presidential suite is very busy
+95,10,0,2,50,please try to be home before midnight
+96,10,0,2,50,interesting observation was made
+97,10,0,2,50,i can see the rings on saturn
+98,10,0,2,50,shall we play a round of cards
+99,10,0,2,50,all together in one big pile
+100,10,0,2,50,one heck of a question
+101,11,1,2,50,make up a few more phrases
+102,11,1,2,50,i do not fully agree with you
+103,11,1,2,50,destruction of the rain forest
+104,11,1,2,50,the capitol of our nation
+105,11,1,2,50,faster than a speeding bullet
+106,11,1,2,50,the store will close at ten
+107,11,1,2,50,an occasional taste of chocolate
+108,11,1,2,50,staying up all night is a bad idea
+109,11,1,2,50,are you talking to me
+110,11,1,2,50,the assignment is due today
+111,12,1,2,50,a dog is the best friend of a man
+112,12,1,2,50,handicapped persons need consideration
+113,12,1,2,50,prayer in schools offends some
+114,12,1,2,50,salesmen must make their monthly quota
+115,12,1,2,50,this equation is too complicated
+116,12,1,2,50,play it again sam
+117,12,1,2,50,what to do when the oil runs dry
+118,12,1,2,50,nobody cares anymore
+119,12,1,2,50,the dog will bite you
+120,12,1,2,50,gas bills are sent monthly
+121,13,0,2,25,frequently asked questions
+122,13,0,2,25,toss the ball around
+123,13,0,2,25,fish are jumping
+124,13,0,2,25,gamblers eventually lose their shirts
+125,13,0,2,25,the assault took six months
+126,13,0,2,25,that is a very nasty cut
+127,13,0,2,25,gun powder must be handled with care
+128,13,0,2,25,the chancellor was very boring
+129,13,0,2,25,microscopes make small things look big
+130,13,0,2,25,lydia wants to go home
+131,14,1,2,25,accompanied by an adult
+132,14,1,2,25,love means many things
+133,14,1,2,25,find a nearby parking spot
+134,14,1,2,25,that is a very odd question
+135,14,1,2,25,file all complaints in writing
+136,14,1,2,25,starlight and dewdrop
+137,14,1,2,25,travel at the speed of light
+138,14,1,2,25,you must be getting old
+139,14,1,2,25,look in the syllabus for the course
+140,14,1,2,25,do you get nervous when you speak
+141,15,1,2,25,correct your diction immediately
+142,15,1,2,25,bank transaction was not registered
+143,15,1,2,25,mom made her a turtleneck
+144,15,1,2,25,this is too much to handle
+145,15,1,2,25,presidents drive expensive cars
+146,15,1,2,25,a good joke deserves a good laugh
+147,15,1,2,25,join us on the patio
+148,15,1,2,25,it is very windy today
+149,15,1,2,25,do you like to go camping
+150,15,1,2,25,we are subjects and must obey
