@@ -8,6 +8,11 @@ public class StartScreen implements Screen {
     private JTextField participantNumber;
     private final String PARTICIPANT_ID = "Particpant_ID";
 
+    private final int BUTTON_WIDTH = 50;
+    private final int BUTTON_HEIGHT = 50;
+
+    private final int NUM_PARTICIPANTS = 30;
+
     StartScreen(JFrame frame, JPanel panel, Main main) {
         this.frame = frame;
         this.panel = panel;
@@ -15,25 +20,35 @@ public class StartScreen implements Screen {
     }
 
 
+    private boolean checkParticipants(String text) {
+        int underscore = -1;
+        for(int i = 1; i < text.length(); i++) {
+            if(text.charAt(i) == '_') {
+                underscore = i;
+                break;
+            }
+        }
+
+        int val = Integer.valueOf(text.substring(1, underscore));
+        return 0 <= val && val < NUM_PARTICIPANTS;
+    }
+
+
     /**
-     * TODO: validate participant ID here
-     * saves effort down the road
+     * validating here saves effort down the road
      */
     @Override
     public void drawNextScreen() {
         String enteredText = this.participantNumber.getText();
 
-        if(!enteredText.equals(this.PARTICIPANT_ID)) {
-            this.frame.removeAll();
+        if(!enteredText.equals(this.PARTICIPANT_ID) && checkParticipants(enteredText)) {
+            this.frame = new JFrame();
             main.drawMainScreen(enteredText);
         }
     }
 
     @Override
     public void draw() {
-        // add layout
-        this.frame.setLayout(new BorderLayout());
-
         // add text description
         // add button
         JPanel buttonPanel = new JPanel();
@@ -42,10 +57,11 @@ public class StartScreen implements Screen {
         button.addActionListener(e -> drawNextScreen());
 
         this.participantNumber = new JTextField(this.PARTICIPANT_ID);
-        buttonPanel.add(this.participantNumber, BorderLayout.WEST);
-        buttonPanel.add(button, BorderLayout.EAST);
+        buttonPanel.setPreferredSize(new Dimension(BUTTON_WIDTH, BUTTON_HEIGHT));
+        buttonPanel.add(this.participantNumber, BorderLayout.NORTH);
+        buttonPanel.add(button, BorderLayout.SOUTH);
 
-        this.panel.add(buttonPanel, BorderLayout.SOUTH);
+        this.panel.add(buttonPanel, BorderLayout.NORTH);
 
         // make it visible
         this.frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

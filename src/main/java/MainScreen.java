@@ -1,8 +1,8 @@
 import javax.swing.*;
+import java.awt.*;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,25 +22,23 @@ public class MainScreen implements Screen {
     private int phraseIndex;
 
     // Components
+    private JPanel textPanel;
     private JLabel phraseLabel;
     private JTextField textField;
-    private JButton button;
 
-    public MainScreen(JFrame frame, JPanel panel, Main main, String partipantID) {
+    MainScreen(JFrame frame, JPanel panel, Main main, String partipantID) {
         this.frame = frame;
         this.panel = panel;
         this.main = main;
         this.partipantID = partipantID;
 
-
+        this.textPanel = new JPanel();
         this.phraseIndex = 0;
         this.phraseLabel = new JLabel();
         this.textField = new JTextField();
-        this.button = new JButton("Next");
         this.phrases = getPhrases();
-
-        System.out.println("success");
     }
+
 
     private String[] getPhrases() {
         List<String> result = new ArrayList<>();
@@ -54,7 +52,7 @@ public class MainScreen implements Screen {
                 result.add(records[records.length - 1]);
             }
 
-        } catch(Exception e){
+        } catch(Exception e) {
             // print e for debugging
             e.printStackTrace();
         }
@@ -64,11 +62,35 @@ public class MainScreen implements Screen {
 
     @Override
     public void drawNextScreen() {
+    }
 
+
+    private String getText() {
+        if (0 <= this.phraseIndex && this.phraseIndex < this.phrases.length) {
+            String result = this.phrases[this.phraseIndex];
+            this.phraseIndex = this.phraseIndex + 1;
+            return result;
+        } else {
+            return null;
+        }
     }
 
     @Override
     public void draw() {
+        this.panel.removeAll();
+        this.panel.setLayout(new BorderLayout());
 
+        this.phrase = getText();
+
+        this.textPanel = new JPanel();
+        this.phraseLabel = new JLabel(this.phrase);
+        this.textPanel.add(this.phraseLabel);
+        this.textPanel.add(this.textField);
+
+        this.panel.add(this.textPanel);
+        this.frame.add(this.panel, BorderLayout.NORTH);
+
+        this.frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.frame.setVisible(true);
     }
 }
